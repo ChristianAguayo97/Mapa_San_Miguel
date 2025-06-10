@@ -1,0 +1,2953 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70365276345303,
+            -34.538242505611514
+          ],
+          [
+            -58.7042696946633,
+            -34.53779386260975
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1450,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7042696946633,
+            -34.53779386260975
+          ],
+          [
+            -58.70497472091433,
+            -34.53728305489959
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1451,
+        "hasta": 1500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70497472091433,
+            -34.53728305489959
+          ],
+          [
+            -58.70597161440681,
+            -34.53656351463457
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70597161440681,
+            -34.53656351463457
+          ],
+          [
+            -58.70744765553865,
+            -34.53549750469423
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70744765553865,
+            -34.53549750469423
+          ],
+          [
+            -58.70890718471354,
+            -34.53444031539438
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70890718471354,
+            -34.53444031539438
+          ],
+          [
+            -58.709887536502755,
+            -34.53372958082358
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.709887536502755,
+            -34.53372958082358
+          ],
+          [
+            -58.71098346724149,
+            -34.532938934871176
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 2000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71098346724149,
+            -34.532938934871176
+          ],
+          [
+            -58.712178496885535,
+            -34.53207721422609
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.712178496885535,
+            -34.53207721422609
+          ],
+          [
+            -58.71325301749516,
+            -34.53130104978715
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2101,
+        "hasta": 2200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71328541293872,
+            -34.53127764902831
+          ],
+          [
+            -58.71437583479158,
+            -34.53048691350589
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71437583479158,
+            -34.53048691350589
+          ],
+          [
+            -58.71526499242969,
+            -34.52983878207881
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2301,
+        "hasta": 2400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71526499242969,
+            -34.52983878207881
+          ],
+          [
+            -58.71620427898557,
+            -34.529154092123676
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71620427898557,
+            -34.529154092123676
+          ],
+          [
+            -58.717165011857574,
+            -34.52845054424257
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.717165011857574,
+            -34.52845054424257
+          ],
+          [
+            -58.71805478917747,
+            -34.52779893972072
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71805478917747,
+            -34.52779893972072
+          ],
+          [
+            -58.718897135946385,
+            -34.527184471332966
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.718897135946385,
+            -34.527184471332966
+          ],
+          [
+            -58.719894143505726,
+            -34.526457161921606
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2900,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.719894143505726,
+            -34.526457161921606
+          ],
+          [
+            -58.7208144034901,
+            -34.52578338487534
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2901,
+        "hasta": 3000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7208144034901,
+            -34.52578338487534
+          ],
+          [
+            -58.72173902125317,
+            -34.52510639951281
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72173902125317,
+            -34.52510639951281
+          ],
+          [
+            -58.72260577438887,
+            -34.52447180257683
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72260577438887,
+            -34.52447180257683
+          ],
+          [
+            -58.723523263195354,
+            -34.523800043151226
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.723523263195354,
+            -34.523800043151226
+          ],
+          [
+            -58.72457206795971,
+            -34.52303301718219
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72457206795971,
+            -34.52303301718219
+          ],
+          [
+            -58.72533127840659,
+            -34.522476972002686
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4146] C. H. MALNATTI",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.719600822307,
+            -34.5701434681353
+          ],
+          [
+            -58.71989285282222,
+            -34.56993020342486
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 351,
+        "hasta": 400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71989285282222,
+            -34.56993020342486
+          ],
+          [
+            -58.72058710026363,
+            -34.569423703912776
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72058710026363,
+            -34.569423703912776
+          ],
+          [
+            -58.721215211811746,
+            -34.56896608258015
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.721215211811746,
+            -34.56896608258015
+          ],
+          [
+            -58.72184883281279,
+            -34.5685040087608
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 650,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72184883281279,
+            -34.5685040087608
+          ],
+          [
+            -58.722460381822465,
+            -34.56805972785286
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 651,
+        "hasta": 700,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.722460381822465,
+            -34.56805972785286
+          ],
+          [
+            -58.72307744053727,
+            -34.567610994578025
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 750,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72307744053727,
+            -34.567610994578025
+          ],
+          [
+            -58.72368904537373,
+            -34.56716220104338
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 751,
+        "hasta": 800,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72368904537373,
+            -34.56716220104338
+          ],
+          [
+            -58.72431153814079,
+            -34.56671351813133
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 850,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72431153814079,
+            -34.56671351813133
+          ],
+          [
+            -58.72503379366396,
+            -34.566153203096604
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 851,
+        "hasta": 900,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72503379366396,
+            -34.566153203096604
+          ],
+          [
+            -58.72573171592365,
+            -34.56566418197586
+          ],
+          [
+            -58.725762517811305,
+            -34.565525348562616
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.725762517811305,
+            -34.565525348562616
+          ],
+          [
+            -58.72645256110761,
+            -34.565001758170766
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72645256110761,
+            -34.565001758170766
+          ],
+          [
+            -58.7272506932967,
+            -34.564396137824644
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7272506932967,
+            -34.564396137824644
+          ],
+          [
+            -58.72735542388983,
+            -34.5643161066842
+          ],
+          [
+            -58.72779325015205,
+            -34.56418546557336
+          ],
+          [
+            -58.728575926793276,
+            -34.56358970381386
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.728575926793276,
+            -34.56358970381386
+          ],
+          [
+            -58.72989311841015,
+            -34.562593883881625
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72989311841015,
+            -34.562593883881625
+          ],
+          [
+            -58.731050469882646,
+            -34.56171807249462
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.731050469882646,
+            -34.56171807249462
+          ],
+          [
+            -58.7313150020071,
+            -34.56151801414826
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1520,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7313150020071,
+            -34.56151801414826
+          ],
+          [
+            -58.73254395331692,
+            -34.560588850078524
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1521,
+        "hasta": 1600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73205870666636,
+            -34.560225661436945
+          ],
+          [
+            -58.73284595783588,
+            -34.559648861831995
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1650,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73284595783588,
+            -34.559648861831995
+          ],
+          [
+            -58.733794492946636,
+            -34.55895232184548
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1651,
+        "hasta": 1700,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.733794492946636,
+            -34.55895232184548
+          ],
+          [
+            -58.73445002863405,
+            -34.55847238008018
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73445002863405,
+            -34.55847238008018
+          ],
+          [
+            -58.73538647567681,
+            -34.5577880299984
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73538647567681,
+            -34.5577880299984
+          ],
+          [
+            -58.73631187784363,
+            -34.55711257184711
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 2000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73631187784363,
+            -34.55711257184711
+          ],
+          [
+            -58.73720417689268,
+            -34.55646380511861
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73720417689268,
+            -34.55646380511861
+          ],
+          [
+            -58.737685588154356,
+            -34.556329071697874
+          ],
+          [
+            -58.73804125007163,
+            -34.55622458444457
+          ],
+          [
+            -58.73826081465617,
+            -34.556114182684155
+          ],
+          [
+            -58.73837648555302,
+            -34.55602974795978
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2101,
+        "hasta": 2200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73837648555302,
+            -34.55602974795978
+          ],
+          [
+            -58.7395166382172,
+            -34.555198744091236
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7395166382172,
+            -34.555198744091236
+          ],
+          [
+            -58.74072838727939,
+            -34.554314385484574
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2301,
+        "hasta": 2400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74072838727939,
+            -34.554314385484574
+          ],
+          [
+            -58.74192363585683,
+            -34.55343885809833
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74192363585683,
+            -34.55343885809833
+          ],
+          [
+            -58.74290401123689,
+            -34.55272335310049
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74290401123689,
+            -34.55272335310049
+          ],
+          [
+            -58.74388988393623,
+            -34.55200338965517
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74388988393623,
+            -34.55200338965517
+          ],
+          [
+            -58.74474905396799,
+            -34.551376759361666
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74474905396799,
+            -34.551376759361666
+          ],
+          [
+            -58.7457790059048,
+            -34.55062117844899
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74810414173134,
+            -34.54958142360608
+          ],
+          [
+            -58.74897972892682,
+            -34.54894591725142
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74897972892682,
+            -34.54894591725142
+          ],
+          [
+            -58.74980023527568,
+            -34.548350402169085
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74980023527568,
+            -34.548350402169085
+          ],
+          [
+            -58.75059323023366,
+            -34.54777262731106
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75059323023366,
+            -34.54777262731106
+          ],
+          [
+            -58.75143521597938,
+            -34.5471588470184
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4230] C. M. DE ALVEAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70332055716743,
+            -34.55922935783448
+          ],
+          [
+            -58.701810127498696,
+            -34.56033476853072
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.701810127498696,
+            -34.56033476853072
+          ],
+          [
+            -58.70109561579998,
+            -34.560857668854126
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 150,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70109561579998,
+            -34.560857668854126
+          ],
+          [
+            -58.70041215027234,
+            -34.561368679185115
+          ],
+          [
+            -58.70036242768599,
+            -34.56141321805413
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 151,
+        "hasta": 200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70036242768599,
+            -34.56141321805413
+          ],
+          [
+            -58.70030167114259,
+            -34.561466653069026
+          ],
+          [
+            -58.69960744232468,
+            -34.56196853047086
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 250,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69960744232468,
+            -34.56196853047086
+          ],
+          [
+            -58.698869138620324,
+            -34.56250148174554
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 251,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.698869138620324,
+            -34.56250148174554
+          ],
+          [
+            -58.698053585074256,
+            -34.56309669998066
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.698053585074256,
+            -34.56309669998066
+          ],
+          [
+            -58.697342707276874,
+            -34.56361641375137
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 450,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.697342707276874,
+            -34.56361641375137
+          ],
+          [
+            -58.69653823702103,
+            -34.56419821931209
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 451,
+        "hasta": 500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69653823702103,
+            -34.56419821931209
+          ],
+          [
+            -58.69582734048311,
+            -34.56471792373945
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 550,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69582734048311,
+            -34.56471792373945
+          ],
+          [
+            -58.695039331192916,
+            -34.56529088130579
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 551,
+        "hasta": 600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.695039331192916,
+            -34.56529088130579
+          ],
+          [
+            -58.69354597439544,
+            -34.566374569987865
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69354597439544,
+            -34.566374569987865
+          ],
+          [
+            -58.69200836610542,
+            -34.56749832688129
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69200836610542,
+            -34.56749832688129
+          ],
+          [
+            -58.69049809434284,
+            -34.56861334337027
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69049809434284,
+            -34.56861334337027
+          ],
+          [
+            -58.688998960040045,
+            -34.569710432866074
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.688998960040045,
+            -34.569710432866074
+          ],
+          [
+            -58.68750544636269,
+            -34.57079404328885
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68750544636269,
+            -34.57079404328885
+          ],
+          [
+            -58.68676691709311,
+            -34.57133142311856
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1150,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68676691709311,
+            -34.57133142311856
+          ],
+          [
+            -58.68601182315682,
+            -34.57188214040882
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1151,
+        "hasta": 1200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68601182315682,
+            -34.57188214040882
+          ],
+          [
+            -58.68551580326042,
+            -34.57224185067428
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1240,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68551580326042,
+            -34.57224185067428
+          ],
+          [
+            -58.685036263642566,
+            -34.572592722799556
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1241,
+        "hasta": 1469,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.685036263642566,
+            -34.572592722799556
+          ],
+          [
+            -58.68454568291428,
+            -34.5729524875828
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1271,
+        "hasta": 1300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68454568291428,
+            -34.5729524875828
+          ],
+          [
+            -58.683040945391824,
+            -34.57404944084882
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68293362748434,
+            -34.57394462620362
+          ],
+          [
+            -58.68119608859114,
+            -34.57425485948403
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3188] Mta C. M. MUNZON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69164015436599,
+            -34.53983348958252
+          ],
+          [
+            -58.69249737816957,
+            -34.54063585912426
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69249737816957,
+            -34.54063585912426
+          ],
+          [
+            -58.693047258567084,
+            -34.54117273365915
+          ],
+          [
+            -58.693009851533155,
+            -34.541206661807045
+          ],
+          [
+            -58.693351489060774,
+            -34.541535364917124
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.693351489060774,
+            -34.541535364917124
+          ],
+          [
+            -58.694114126752886,
+            -34.542224056341624
+          ],
+          [
+            -58.69427432712551,
+            -34.54242857728726
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69427432712551,
+            -34.54242857728726
+          ],
+          [
+            -58.694349224151544,
+            -34.54257051430343
+          ],
+          [
+            -58.69520241948819,
+            -34.543335359449266
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69520241948819,
+            -34.543335359449266
+          ],
+          [
+            -58.69578770055019,
+            -34.54387341949329
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 450,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69578770055019,
+            -34.54387341949329
+          ],
+          [
+            -58.69633543121735,
+            -34.54437502114281
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 451,
+        "hasta": 500,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69633543121735,
+            -34.54437502114281
+          ],
+          [
+            -58.69652873708926,
+            -34.5445528516498
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69710872986006,
+            -34.545081835329256
+          ],
+          [
+            -58.69779035388176,
+            -34.54573729762913
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69779035388176,
+            -34.54573729762913
+          ],
+          [
+            -58.69848787744532,
+            -34.54640803439402
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69848787744532,
+            -34.54640803439402
+          ],
+          [
+            -58.69937863905194,
+            -34.54726931897888
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69937863905194,
+            -34.54726931897888
+          ],
+          [
+            -58.70030698023969,
+            -34.54816705191616
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70030698023969,
+            -34.54816705191616
+          ],
+          [
+            -58.701069035094406,
+            -34.54890076271896
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.701069035094406,
+            -34.54890076271896
+          ],
+          [
+            -58.70187941811423,
+            -34.5496800510779
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70187941811423,
+            -34.5496800510779
+          ],
+          [
+            -58.70259454446526,
+            -34.55036991847615
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70391665078305,
+            -34.55143232116417
+          ],
+          [
+            -58.70490443686807,
+            -34.5523667054508
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70490443686807,
+            -34.5523667054508
+          ],
+          [
+            -58.705570141832155,
+            -34.5529957091913
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70537198050533,
+            -34.55312881292689
+          ],
+          [
+            -58.706075331052475,
+            -34.55378976102298
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.706075331052475,
+            -34.55378976102298
+          ],
+          [
+            -58.70675725576035,
+            -34.554427943973884
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70675725576035,
+            -34.554427943973884
+          ],
+          [
+            -58.70744994433931,
+            -34.555075250813914
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70744994433931,
+            -34.555075250813914
+          ],
+          [
+            -58.708137266793,
+            -34.55571799016028
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 2000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70826965439729,
+            -34.5556112270509
+          ],
+          [
+            -58.709021301597595,
+            -34.556322244663555
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4111] C. SAAVEDRA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    }
+  ]
+}

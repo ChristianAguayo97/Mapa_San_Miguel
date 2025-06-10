@@ -1,0 +1,2937 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73408931305232,
+            -34.56178568032733
+          ],
+          [
+            -58.73563722654099,
+            -34.560656984058696
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73563722654099,
+            -34.560656984058696
+          ],
+          [
+            -58.73628725064801,
+            -34.560181482343395
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73628725064801,
+            -34.560181482343395
+          ],
+          [
+            -58.73720722608505,
+            -34.559505961695606
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73720722608505,
+            -34.559505961695606
+          ],
+          [
+            -58.73813814826078,
+            -34.55882604017519
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 2000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73813814826078,
+            -34.55882604017519
+          ],
+          [
+            -58.739057481844554,
+            -34.55819106012929
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.739057481844554,
+            -34.55819106012929
+          ],
+          [
+            -58.73999327746046,
+            -34.55754722914381
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2101,
+        "hasta": 2200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73999327746046,
+            -34.55754722914381
+          ],
+          [
+            -58.74077410811619,
+            -34.557064039103885
+          ],
+          [
+            -58.7411926697247,
+            -34.55676188985707
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7411926697247,
+            -34.55676188985707
+          ],
+          [
+            -58.74254759536254,
+            -34.55577533207327
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2301,
+        "hasta": 2400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74254759536254,
+            -34.55577533207327
+          ],
+          [
+            -58.74359416492432,
+            -34.555006421569786
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74359416492432,
+            -34.555006421569786
+          ],
+          [
+            -58.74456909877198,
+            -34.55429084741183
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74456909877198,
+            -34.55429084741183
+          ],
+          [
+            -58.74553298782227,
+            -34.55358416541776
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74553298782227,
+            -34.55358416541776
+          ],
+          [
+            -58.74641973246693,
+            -34.55293527260335
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74641973246693,
+            -34.55293527260335
+          ],
+          [
+            -58.74746064962617,
+            -34.552175283460386
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74923750489927,
+            -34.55064764657262
+          ],
+          [
+            -58.75014597456858,
+            -34.54999894826686
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75014597456858,
+            -34.54999894826686
+          ],
+          [
+            -58.7509460614832,
+            -34.54940364741108
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7509460614832,
+            -34.54940364741108
+          ],
+          [
+            -58.75171053288913,
+            -34.548820635861965
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4236] SOLD. C/62 O. MANSILLA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72393873817634,
+            -34.52833378539789
+          ],
+          [
+            -58.72454540490492,
+            -34.528903481246886
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.725676952930044,
+            -34.530051024332806
+          ],
+          [
+            -58.72634502875996,
+            -34.53067962593983
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72634502875996,
+            -34.53067962593983
+          ],
+          [
+            -58.727013793237774,
+            -34.53130886208568
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.727013793237774,
+            -34.53130886208568
+          ],
+          [
+            -58.727609955159316,
+            -34.53185589910461
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.727609955159316,
+            -34.53185589910461
+          ],
+          [
+            -58.72814670939919,
+            -34.53237076646291
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72932965468829,
+            -34.533726127261566
+          ],
+          [
+            -58.72994715035669,
+            -34.534304923081606
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1550,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72994715035669,
+            -34.534304923081606
+          ],
+          [
+            -58.73052708553076,
+            -34.53484727042869
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1551,
+        "hasta": 1600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73052708553076,
+            -34.53484727042869
+          ],
+          [
+            -58.73110165136569,
+            -34.53538505240161
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73065559573607,
+            -34.53570941737187
+          ],
+          [
+            -58.731563195260726,
+            -34.536552618610855
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.731563195260726,
+            -34.536552618610855
+          ],
+          [
+            -58.73233114681428,
+            -34.53726817130162
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.736578840868674,
+            -34.54053460472086
+          ],
+          [
+            -58.73732542969601,
+            -34.541227371089086
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73732542969601,
+            -34.541227371089086
+          ],
+          [
+            -58.73808816377485,
+            -34.54193382041683
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73808816377485,
+            -34.54193382041683
+          ],
+          [
+            -58.7388509786855,
+            -34.54263575901976
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7388509786855,
+            -34.54263575901976
+          ],
+          [
+            -58.74012631818864,
+            -34.54330242087002
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74087978037086,
+            -34.54426564858134
+          ],
+          [
+            -58.74092472047736,
+            -34.54453652385645
+          ],
+          [
+            -58.74105747307818,
+            -34.54476323597076
+          ],
+          [
+            -58.74121793068421,
+            -34.54495868554042
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2951,
+        "hasta": 3000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74121793068421,
+            -34.54495868554042
+          ],
+          [
+            -58.74198046021627,
+            -34.54568313624737
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74198046021627,
+            -34.54568313624737
+          ],
+          [
+            -58.74295779174179,
+            -34.54661260291689
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74295779174179,
+            -34.54661260291689
+          ],
+          [
+            -58.743780325276646,
+            -34.547333153469886
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.743780325276646,
+            -34.547333153469886
+          ],
+          [
+            -58.74440095408744,
+            -34.54788297542321
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74440095408744,
+            -34.54788297542321
+          ],
+          [
+            -58.745113416441534,
+            -34.54851414067063
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3347,
+        "hasta": 3500,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.745113416441534,
+            -34.54851414067063
+          ],
+          [
+            -58.7463918130721,
+            -34.54971257936683
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3350,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7463918130721,
+            -34.54971257936683
+          ],
+          [
+            -58.74764335257038,
+            -34.55088819504524
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3601,
+        "hasta": 3700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74764335257038,
+            -34.55088819504524
+          ],
+          [
+            -58.74886803278298,
+            -34.55204098849725
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3701,
+        "hasta": 3800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74886803278298,
+            -34.55204098849725
+          ],
+          [
+            -58.74972751426849,
+            -34.55284750860636
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3801,
+        "hasta": 3900,
+        "pavimento": "Tierra Mejorado con Cordon Cuneta",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74972751426849,
+            -34.55284750860636
+          ],
+          [
+            -58.750146628395306,
+            -34.553242010760464
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3901,
+        "hasta": 4000,
+        "pavimento": "Tierra Mejorado con Cordon Cuneta",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.750146628395306,
+            -34.553242010760464
+          ],
+          [
+            -58.750560116935574,
+            -34.55363121333919
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4001,
+        "hasta": 4100,
+        "pavimento": "Tierra Mejorado con Cordon Cuneta",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.750560116935574,
+            -34.55363121333919
+          ],
+          [
+            -58.75142501017271,
+            -34.55444228391636
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4101,
+        "hasta": 4200,
+        "pavimento": "Tierra Mejorado con Cordon Cuneta",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75166728147233,
+            -34.55426899389114
+          ],
+          [
+            -58.75270426182078,
+            -34.55523054162801
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4201,
+        "hasta": 4300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75270426182078,
+            -34.55523054162801
+          ],
+          [
+            -58.75362305355643,
+            -34.55608270931432
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4301,
+        "hasta": 4400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75362305355643,
+            -34.55608270931432
+          ],
+          [
+            -58.75455255581309,
+            -34.55694850004635
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4401,
+        "hasta": 4500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75455255581309,
+            -34.55694850004635
+          ],
+          [
+            -58.75545524636671,
+            -34.557786969272776
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4501,
+        "hasta": 4600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75545524636671,
+            -34.557786969272776
+          ],
+          [
+            -58.756374094110704,
+            -34.55863911711352
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4601,
+        "hasta": 4700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.756374094110704,
+            -34.55863911711352
+          ],
+          [
+            -58.757292960545044,
+            -34.559491258324535
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4701,
+        "hasta": 4800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.757292960545044,
+            -34.559491258324535
+          ],
+          [
+            -58.75784634753189,
+            -34.56001067316593
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4802,
+        "hasta": 4999,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75784634753189,
+            -34.56001067316593
+          ],
+          [
+            -58.75841056822976,
+            -34.56053470259019
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4902,
+        "hasta": 5087,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75841056822976,
+            -34.56053470259019
+          ],
+          [
+            -58.758410858562144,
+            -34.56088173400074
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4994,
+        "hasta": 5099,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.758410858562144,
+            -34.56088173400074
+          ],
+          [
+            -58.758416327928295,
+            -34.56124684552136
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5101,
+        "hasta": 5108,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.758416327928295,
+            -34.56124684552136
+          ],
+          [
+            -58.758925616182,
+            -34.56171878147428
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5109,
+        "hasta": 5200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.758925616182,
+            -34.56171878147428
+          ],
+          [
+            -58.759458851965604,
+            -34.562212899921946
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5201,
+        "hasta": 5300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.759458851965604,
+            -34.562212899921946
+          ],
+          [
+            -58.7603079798216,
+            -34.56299670703629
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5301,
+        "hasta": 5400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7603079798216,
+            -34.56299670703629
+          ],
+          [
+            -58.76074667012178,
+            -34.5633987110937
+          ],
+          [
+            -58.76090622941028,
+            -34.56354492550091
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5401,
+        "hasta": 5500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76090622941028,
+            -34.56354492550091
+          ],
+          [
+            -58.76117333129715,
+            -34.563789686707054
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5501,
+        "hasta": 5550,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76117333129715,
+            -34.563789686707054
+          ],
+          [
+            -58.76141265675483,
+            -34.564012910222004
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5551,
+        "hasta": 5600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76141265675483,
+            -34.564012910222004
+          ],
+          [
+            -58.76156437655135,
+            -34.564154421092105
+          ],
+          [
+            -58.762033118413456,
+            -34.56459161761825
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5601,
+        "hasta": 5700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.762033118413456,
+            -34.56459161761825
+          ],
+          [
+            -58.7626242983563,
+            -34.56513843556582
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5701,
+        "hasta": 5800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7626242983563,
+            -34.56513843556582
+          ],
+          [
+            -58.762863095171454,
+            -34.56535328798285
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5801,
+        "hasta": 5850,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.762863095171454,
+            -34.56535328798285
+          ],
+          [
+            -58.763188583355436,
+            -34.565662443857406
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5851,
+        "hasta": 5900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.763188583355436,
+            -34.565662443857406
+          ],
+          [
+            -58.763747561513725,
+            -34.56617738210172
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5901,
+        "hasta": 6000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.763747561513725,
+            -34.56617738210172
+          ],
+          [
+            -58.764718877295884,
+            -34.56707777483806
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 6001,
+        "hasta": 6100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4181] T. A. EDISON",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.734057129944475,
+            -34.56283093503835
+          ],
+          [
+            -58.73473914029541,
+            -34.563482485485
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3801,
+        "hasta": 3900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73473914029541,
+            -34.563482485485
+          ],
+          [
+            -58.73530303070437,
+            -34.56402013721079
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3901,
+        "hasta": 4000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73530303070437,
+            -34.56402013721079
+          ],
+          [
+            -58.73588306514248,
+            -34.564571474104774
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4001,
+        "hasta": 4100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73588306514248,
+            -34.564571474104774
+          ],
+          [
+            -58.736575861868694,
+            -34.56523213983773
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4101,
+        "hasta": 4200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.736575861868694,
+            -34.56523213983773
+          ],
+          [
+            -58.737687559588764,
+            -34.566293737126685
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4201,
+        "hasta": 4300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.737687559588764,
+            -34.566293737126685
+          ],
+          [
+            -58.73862164399623,
+            -34.567152490902075
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 4301,
+        "hasta": 4400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73862164399623,
+            -34.567152490902075
+          ],
+          [
+            -58.739546805782496,
+            -34.56800301874345
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 4401,
+        "hasta": 4500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.739546805782496,
+            -34.56800301874345
+          ],
+          [
+            -58.74043815553678,
+            -34.56886852123443
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4501,
+        "hasta": 4600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74043815553678,
+            -34.56886852123443
+          ],
+          [
+            -58.741345730290035,
+            -34.5697431983207
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4601,
+        "hasta": 4700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.741345730290035,
+            -34.5697431983207
+          ],
+          [
+            -58.74150354114728,
+            -34.56990125646036
+          ],
+          [
+            -58.74160742843997,
+            -34.5700929239409
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4701,
+        "hasta": 4800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.744319742968926,
+            -34.57196866595093
+          ],
+          [
+            -58.74528166570007,
+            -34.572857393869214
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5001,
+        "hasta": 5100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74528166570007,
+            -34.572857393869214
+          ],
+          [
+            -58.7459212106302,
+            -34.573445350302144
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5101,
+        "hasta": 5200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7459212106302,
+            -34.573445350302144
+          ],
+          [
+            -58.74656076454298,
+            -34.57403330352344
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5201,
+        "hasta": 5300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74656076454298,
+            -34.57403330352344
+          ],
+          [
+            -58.74720564002821,
+            -34.57463032175975
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5301,
+        "hasta": 5400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74720564002821,
+            -34.57463032175975
+          ],
+          [
+            -58.74777526854205,
+            -34.575158961895916
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5401,
+        "hasta": 5500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74777526854205,
+            -34.575158961895916
+          ],
+          [
+            -58.74833421114256,
+            -34.575673969278164
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5501,
+        "hasta": 5600,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74833421114256,
+            -34.575673969278164
+          ],
+          [
+            -58.74886714936451,
+            -34.576166576232204
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5601,
+        "hasta": 5700,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74886714936451,
+            -34.576166576232204
+          ],
+          [
+            -58.74942555217829,
+            -34.576658636009235
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5701,
+        "hasta": 5800,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74942555217829,
+            -34.576658636009235
+          ],
+          [
+            -58.7501640958608,
+            -34.57718899593221
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5801,
+        "hasta": 5900,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7501640958608,
+            -34.57718899593221
+          ],
+          [
+            -58.75075083220081,
+            -34.57775459057123
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5901,
+        "hasta": 6000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4139] T. ESPORA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76817116189943,
+            -34.54994608226167
+          ],
+          [
+            -58.769071734933085,
+            -34.55077702890425
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4701,
+        "hasta": 4799,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.769071734933085,
+            -34.55077702890425
+          ],
+          [
+            -58.769638641140666,
+            -34.551298452795045
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4801,
+        "hasta": 4899,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.769638641140666,
+            -34.551298452795045
+          ],
+          [
+            -58.770203518400166,
+            -34.55182016011816
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4901,
+        "hasta": 4999,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.770203518400166,
+            -34.55182016011816
+          ],
+          [
+            -58.770794694008764,
+            -34.55236424580189
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5001,
+        "hasta": 5099,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.770794694008764,
+            -34.55236424580189
+          ],
+          [
+            -58.771377380691796,
+            -34.5528991393386
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5101,
+        "hasta": 5199,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.771377380691796,
+            -34.5528991393386
+          ],
+          [
+            -58.771960852875274,
+            -34.553437872484075
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5201,
+        "hasta": 5299,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.771960852875274,
+            -34.553437872484075
+          ],
+          [
+            -58.77255104522116,
+            -34.553976793034245
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5301,
+        "hasta": 5399,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.77255104522116,
+            -34.553976793034245
+          ],
+          [
+            -58.77311395052883,
+            -34.55448789321275
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5401,
+        "hasta": 5499,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.77311395052883,
+            -34.55448789321275
+          ],
+          [
+            -58.77366705451241,
+            -34.55500728056977
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5501,
+        "hasta": 5599,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.77366705451241,
+            -34.55500728056977
+          ],
+          [
+            -58.7742582998213,
+            -34.55555820626862
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5601,
+        "hasta": 5699,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7742582998213,
+            -34.55555820626862
+          ],
+          [
+            -58.774861338623346,
+            -34.556112054384265
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5701,
+        "hasta": 5799,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.774861338623346,
+            -34.556112054384265
+          ],
+          [
+            -58.77541890487671,
+            -34.55662608666697
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5801,
+        "hasta": 5899,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.77541890487671,
+            -34.55662608666697
+          ],
+          [
+            -58.775977615778444,
+            -34.557151768274686
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5901,
+        "hasta": 5999,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.775977615778444,
+            -34.557151768274686
+          ],
+          [
+            -58.776136434919465,
+            -34.5572962331238
+          ],
+          [
+            -58.77640149690693,
+            -34.557535412022375
+          ],
+          [
+            -58.77686792925971,
+            -34.55796745907881
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 6001,
+        "hasta": 6099,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4215] T. GUIDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.742823321487265,
+            -34.54124345703904
+          ],
+          [
+            -58.74356056552946,
+            -34.54195147698322
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 2801,
+        "hasta": 2900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[P989] Pje TOMAS QUINTEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    }
+  ]
+}

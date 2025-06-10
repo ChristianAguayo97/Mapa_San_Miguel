@@ -1,0 +1,2957 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66769976507678,
+            -34.55958285087432
+          ],
+          [
+            -58.66809629262585,
+            -34.559955046228716
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 151,
+        "hasta": 200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66809629262585,
+            -34.559955046228716
+          ],
+          [
+            -58.66832672771152,
+            -34.560171625562845
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 223,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66832672771152,
+            -34.560171625562845
+          ],
+          [
+            -58.66896113539852,
+            -34.56076387459643
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 220,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66896113539852,
+            -34.56076387459643
+          ],
+          [
+            -58.669589146382975,
+            -34.56135209909854
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.669589146382975,
+            -34.56135209909854
+          ],
+          [
+            -58.67022791635355,
+            -34.56194945124502
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67022791635355,
+            -34.56194945124502
+          ],
+          [
+            -58.670861248575775,
+            -34.562546740890625
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.670861248575775,
+            -34.562546740890625
+          ],
+          [
+            -58.67149466148579,
+            -34.5631395213748
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67149466148579,
+            -34.5631395213748
+          ],
+          [
+            -58.672133458660895,
+            -34.56373686400567
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.672133458660895,
+            -34.56373686400567
+          ],
+          [
+            -58.6727507634349,
+            -34.56431594241858
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6727507634349,
+            -34.56431594241858
+          ],
+          [
+            -58.67339495398001,
+            -34.564917844006075
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67339495398001,
+            -34.564917844006075
+          ],
+          [
+            -58.674200205175225,
+            -34.56567021642722
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.674200205175225,
+            -34.56567021642722
+          ],
+          [
+            -58.67483366531273,
+            -34.566262980374496
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67483366531273,
+            -34.566262980374496
+          ],
+          [
+            -58.67486637903121,
+            -34.56640979142489
+          ],
+          [
+            -58.67487619363093,
+            -34.56641910177935
+          ],
+          [
+            -58.67651512052096,
+            -34.568046751568325
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1530,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67651512052096,
+            -34.568046751568325
+          ],
+          [
+            -58.67667746956833,
+            -34.56814053006367
+          ],
+          [
+            -58.67668488616137,
+            -34.56814503435666
+          ],
+          [
+            -58.6767572835364,
+            -34.56821071728791
+          ],
+          [
+            -58.6769305072965,
+            -34.568367872684405
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1531,
+        "hasta": 1550,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6769305072965,
+            -34.568367872684405
+          ],
+          [
+            -58.67743527023518,
+            -34.5688330376048
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1551,
+        "hasta": 1600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67743527023518,
+            -34.5688330376048
+          ],
+          [
+            -58.67810117576072,
+            -34.56944416366562
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67810117576072,
+            -34.56944416366562
+          ],
+          [
+            -58.67879390008835,
+            -34.570082617308316
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67906241951525,
+            -34.57032889131367
+          ],
+          [
+            -58.68029751528723,
+            -34.57146895412747
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68029751528723,
+            -34.57146895412747
+          ],
+          [
+            -58.68034038286582,
+            -34.57151448570998
+          ],
+          [
+            -58.68100611739425,
+            -34.572139114741866
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 1950,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68100611739425,
+            -34.572139114741866
+          ],
+          [
+            -58.68167723825458,
+            -34.57276830518854
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1951,
+        "hasta": 2000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68167723825458,
+            -34.57276830518854
+          ],
+          [
+            -58.68235912216186,
+            -34.5734066218179
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2050,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68235912216186,
+            -34.5734066218179
+          ],
+          [
+            -58.68293362748434,
+            -34.57394462620362
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2051,
+        "hasta": 2099,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68293362748434,
+            -34.57394462620362
+          ],
+          [
+            -58.683040945391824,
+            -34.57404944084882
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2092,
+        "hasta": 2100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.686255443122754,
+            -34.577175755534036
+          ],
+          [
+            -58.68744743775093,
+            -34.5782972559116
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68744743775093,
+            -34.5782972559116
+          ],
+          [
+            -58.68837640634027,
+            -34.57916804379945
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68837640634027,
+            -34.57916804379945
+          ],
+          [
+            -58.689149665374856,
+            -34.579892934452275
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.689149665374856,
+            -34.579892934452275
+          ],
+          [
+            -58.690073291982564,
+            -34.58075914543599
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.690073291982564,
+            -34.58075914543599
+          ],
+          [
+            -58.69095391784745,
+            -34.58158883382348
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2850,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69095391784745,
+            -34.58158883382348
+          ],
+          [
+            -58.691507094934636,
+            -34.58210403565652
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2851,
+        "hasta": 2900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.691507094934636,
+            -34.58210403565652
+          ],
+          [
+            -58.69267786045127,
+            -34.58319821726843
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2901,
+        "hasta": 3000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3025] M. LEBENSOHN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.676785318401855,
+            -34.55063183190765
+          ],
+          [
+            -58.67763455895118,
+            -34.55142538063148
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67763455895118,
+            -34.55142538063148
+          ],
+          [
+            -58.67840747367861,
+            -34.55215033456086
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67840747367861,
+            -34.55215033456086
+          ],
+          [
+            -58.67917502675068,
+            -34.5528707188455
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67917502675068,
+            -34.5528707188455
+          ],
+          [
+            -58.67998552272338,
+            -34.55363212409756
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67998552272338,
+            -34.55363212409756
+          ],
+          [
+            -58.68066186685893,
+            -34.55426588335251
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68066186685893,
+            -34.55426588335251
+          ],
+          [
+            -58.68132747068324,
+            -34.55489050926404
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68132747068324,
+            -34.55489050926404
+          ],
+          [
+            -58.68198240481487,
+            -34.55550149594894
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68198240481487,
+            -34.55550149594894
+          ],
+          [
+            -58.682636709107854,
+            -34.556153033744785
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.682636709107854,
+            -34.556153033744785
+          ],
+          [
+            -58.682662829082204,
+            -34.55620093917052
+          ],
+          [
+            -58.6832040782345,
+            -34.55671621428845
+          ],
+          [
+            -58.68332377360528,
+            -34.556800414630295
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68332377360528,
+            -34.556800414630295
+          ],
+          [
+            -58.68398475153902,
+            -34.55737540138342
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68398475153902,
+            -34.55737540138342
+          ],
+          [
+            -58.68403291880058,
+            -34.55743000247684
+          ],
+          [
+            -58.68444110970843,
+            -34.55779945456323
+          ],
+          [
+            -58.68465606421756,
+            -34.557986550522735
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68465606421756,
+            -34.557986550522735
+          ],
+          [
+            -58.685332407896496,
+            -34.55862479112277
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.685332407896496,
+            -34.55862479112277
+          ],
+          [
+            -58.68598732953259,
+            -34.55924026334312
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68598732953259,
+            -34.55924026334312
+          ],
+          [
+            -58.68665831758222,
+            -34.55987393224202
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68665831758222,
+            -34.55987393224202
+          ],
+          [
+            -58.68731318791015,
+            -34.56049390372678
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68731318791015,
+            -34.56049390372678
+          ],
+          [
+            -58.68796813869195,
+            -34.56110936579956
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68796813869195,
+            -34.56110936579956
+          ],
+          [
+            -58.68862798307106,
+            -34.561747343476675
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68862798307106,
+            -34.561747343476675
+          ],
+          [
+            -58.689331689541575,
+            -34.56239493746899
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68956788887554,
+            -34.56261830758036
+          ],
+          [
+            -58.69081335004274,
+            -34.56379443147334
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Empedrado de Hormigon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69081335004274,
+            -34.56379443147334
+          ],
+          [
+            -58.69219304720187,
+            -34.565098172129986
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 2000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69219304720187,
+            -34.565098172129986
+          ],
+          [
+            -58.69354597439544,
+            -34.566374569987865
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69354597439544,
+            -34.566374569987865
+          ],
+          [
+            -58.694249266755484,
+            -34.56704009130829
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2101,
+        "hasta": 2150,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.694249266755484,
+            -34.56704009130829
+          ],
+          [
+            -58.694915073283056,
+            -34.567664646455995
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2151,
+        "hasta": 2200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.694915073283056,
+            -34.567664646455995
+          ],
+          [
+            -58.69590817848011,
+            -34.56861267963542
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69590817848011,
+            -34.56861267963542
+          ],
+          [
+            -58.696864369846224,
+            -34.56948369482604
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2301,
+        "hasta": 2400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69666629576913,
+            -34.56960777074578
+          ],
+          [
+            -58.69758437428321,
+            -34.57047837338523
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69758437428321,
+            -34.57047837338523
+          ],
+          [
+            -58.6984595240295,
+            -34.5713079500717
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6984595240295,
+            -34.5713079500717
+          ],
+          [
+            -58.69935667592386,
+            -34.57214092695419
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69932481139268,
+            -34.572165053085264
+          ],
+          [
+            -58.69967120711146,
+            -34.572493972407365
+          ],
+          [
+            -58.700043756770626,
+            -34.57284993893664
+          ],
+          [
+            -58.700696396330905,
+            -34.57346640790927
+          ],
+          [
+            -58.70076955199991,
+            -34.57353550916932
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.701031599180965,
+            -34.573785116207
+          ],
+          [
+            -58.702986787984024,
+            -34.575684346952556
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 3000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70481882370539,
+            -34.57649268508062
+          ],
+          [
+            -58.70531307093089,
+            -34.576964795242475
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70538836291954,
+            -34.577028689431934
+          ],
+          [
+            -58.70583397089374,
+            -34.577457056638615
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70583397089374,
+            -34.577457056638615
+          ],
+          [
+            -58.706403349856956,
+            -34.57798588427726
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.706403349856956,
+            -34.57798588427726
+          ],
+          [
+            -58.70693508872918,
+            -34.578482762754454
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70693508872918,
+            -34.578482762754454
+          ],
+          [
+            -58.707230680255854,
+            -34.57874728985985
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3501,
+        "hasta": 3590,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.707230680255854,
+            -34.57874728985985
+          ],
+          [
+            -58.707311004679134,
+            -34.5788382771015
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3591,
+        "hasta": 3600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71627090721374,
+            -34.588291101829554
+          ],
+          [
+            -58.7173343613344,
+            -34.589291700320054
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4701,
+        "hasta": 4800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.718435775319875,
+            -34.59031730731944
+          ],
+          [
+            -58.718709649760115,
+            -34.590581578937964
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5051,
+        "hasta": 5100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.718709649760115,
+            -34.590581578937964
+          ],
+          [
+            -58.719083096990914,
+            -34.590937667997196
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5101,
+        "hasta": 5200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.719083096990914,
+            -34.590937667997196
+          ],
+          [
+            -58.71938005516975,
+            -34.591220819754945
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5201,
+        "hasta": 5300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71938005516975,
+            -34.591220819754945
+          ],
+          [
+            -58.719880550174764,
+            -34.591698039081166
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5301,
+        "hasta": 5400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.719880550174764,
+            -34.591698039081166
+          ],
+          [
+            -58.721041412730806,
+            -34.592760301129
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5401,
+        "hasta": 5500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.721041412730806,
+            -34.592760301129
+          ],
+          [
+            -58.72197117238961,
+            -34.59361281822628
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5501,
+        "hasta": 5600,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72170672141481,
+            -34.593799334264155
+          ],
+          [
+            -58.722362323166465,
+            -34.59440560773184
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5601,
+        "hasta": 5650,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.722362323166465,
+            -34.59440560773184
+          ],
+          [
+            -58.72298034256157,
+            -34.594975429845746
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5651,
+        "hasta": 5700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72298034256157,
+            -34.594975429845746
+          ],
+          [
+            -58.72360913074803,
+            -34.59555437516547
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5701,
+        "hasta": 5750,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72360913074803,
+            -34.59555437516547
+          ],
+          [
+            -58.724173502387146,
+            -34.596069548281385
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5751,
+        "hasta": 5800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.724173502387146,
+            -34.596069548281385
+          ],
+          [
+            -58.724802375928505,
+            -34.59664398161718
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5801,
+        "hasta": 5900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.724802375928505,
+            -34.59664398161718
+          ],
+          [
+            -58.725207702403225,
+            -34.597018458630004
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5901,
+        "hasta": 6000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3061] M. MORENO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75982401238539,
+            -34.548335623577664
+          ],
+          [
+            -58.76080609795213,
+            -34.549246804487346
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4201,
+        "hasta": 4300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76080609795213,
+            -34.549246804487346
+          ],
+          [
+            -58.761724910356776,
+            -34.55009891236704
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4301,
+        "hasta": 4400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.761724910356776,
+            -34.55009891236704
+          ],
+          [
+            -58.76265450060215,
+            -34.550960136409024
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4401,
+        "hasta": 4500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76265450060215,
+            -34.550960136409024
+          ],
+          [
+            -58.76356265788459,
+            -34.55179860203806
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4501,
+        "hasta": 4600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76356265788459,
+            -34.55179860203806
+          ],
+          [
+            -58.76447607988449,
+            -34.55265063490386
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4601,
+        "hasta": 4700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76447607988449,
+            -34.55265063490386
+          ],
+          [
+            -58.76538952045519,
+            -34.55350266121693
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4701,
+        "hasta": 4800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76538952045519,
+            -34.55350266121693
+          ],
+          [
+            -58.76594836693146,
+            -34.55402209513303
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4801,
+        "hasta": 4900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76594836693146,
+            -34.55402209513303
+          ],
+          [
+            -58.76651260035529,
+            -34.554546087828776
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4901,
+        "hasta": 5000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76651260035529,
+            -34.554546087828776
+          ],
+          [
+            -58.76709836117833,
+            -34.5550883228574
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5001,
+        "hasta": 5100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76709836117833,
+            -34.5550883228574
+          ],
+          [
+            -58.76767874942915,
+            -34.55562599400699
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5101,
+        "hasta": 5200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76767874942915,
+            -34.55562599400699
+          ],
+          [
+            -58.768259145128425,
+            -34.55616366251003
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5201,
+        "hasta": 5300,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.768259145128425,
+            -34.55616366251003
+          ],
+          [
+            -58.76884486216609,
+            -34.55671039570327
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5301,
+        "hasta": 5400,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76884486216609,
+            -34.55671039570327
+          ],
+          [
+            -58.76940375145346,
+            -34.55722981444881
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5401,
+        "hasta": 5500,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76940375145346,
+            -34.55722981444881
+          ],
+          [
+            -58.769962714008116,
+            -34.557744724536434
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5501,
+        "hasta": 5600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.769962714008116,
+            -34.557744724536434
+          ],
+          [
+            -58.7705538336933,
+            -34.55829601095199
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5601,
+        "hasta": 5700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7705538336933,
+            -34.55829601095199
+          ],
+          [
+            -58.771150341705656,
+            -34.55885185565885
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5701,
+        "hasta": 5800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.771150341705656,
+            -34.55885185565885
+          ],
+          [
+            -58.77170932581705,
+            -34.55936675807432
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5801,
+        "hasta": 5900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.77170932581705,
+            -34.55936675807432
+          ],
+          [
+            -58.77227363125854,
+            -34.559890725229046
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5901,
+        "hasta": 6000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.77227363125854,
+            -34.559890725229046
+          ],
+          [
+            -58.77316810424721,
+            -34.56072561701069
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 6001,
+        "hasta": 6100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4207] M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.719937969679464,
+            -34.55667606802293
+          ],
+          [
+            -58.7203289554876,
+            -34.55640074307467
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1217,
+        "hasta": 1250,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4202] Gral M. RODRIGUEZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7203289554876,
+            -34.55640074307467
+          ],
+          [
+            -58.72092394408232,
+            -34.55596530817469
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1251,
+        "hasta": 1300,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4202] Gral M. RODRIGUEZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    }
+  ]
+}

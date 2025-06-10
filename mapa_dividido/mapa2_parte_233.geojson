@@ -1,0 +1,2921 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7478678206701,
+            -34.57698067718218
+          ],
+          [
+            -58.74835244277715,
+            -34.576638621306984
+          ],
+          [
+            -58.74886714936451,
+            -34.576166576232204
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74886714936451,
+            -34.576166576232204
+          ],
+          [
+            -58.75010682511677,
+            -34.57525086807986
+          ],
+          [
+            -58.75015550470867,
+            -34.57521490892082
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75015550470867,
+            -34.57521490892082
+          ],
+          [
+            -58.75143369110985,
+            -34.574272540104985
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75143369110985,
+            -34.574272540104985
+          ],
+          [
+            -58.752629257693485,
+            -34.573387902105
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.752629257693485,
+            -34.573387902105
+          ],
+          [
+            -58.75323530399306,
+            -34.57293890269017
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 2000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75323530399306,
+            -34.57293890269017
+          ],
+          [
+            -58.75466776955475,
+            -34.571876389738655
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75466776955475,
+            -34.571876389738655
+          ],
+          [
+            -58.75545006513776,
+            -34.57129847843133
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2101,
+        "hasta": 2200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75545006513776,
+            -34.57129847843133
+          ],
+          [
+            -58.756111161032365,
+            -34.570809463873246
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.756111161032365,
+            -34.570809463873246
+          ],
+          [
+            -58.75683293711195,
+            -34.5702761123089
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2301,
+        "hasta": 2400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75683293711195,
+            -34.5702761123089
+          ],
+          [
+            -58.75754900118514,
+            -34.56974697067873
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75754900118514,
+            -34.56974697067873
+          ],
+          [
+            -58.75839005469724,
+            -34.569127355555274
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Tierra Mejorado con Cordon Cuneta",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75839005469724,
+            -34.569127355555274
+          ],
+          [
+            -58.75912455482015,
+            -34.56859107186032
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75912455482015,
+            -34.56859107186032
+          ],
+          [
+            -58.75987633995657,
+            -34.56805495921369
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2750,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75987633995657,
+            -34.56805495921369
+          ],
+          [
+            -58.76065531690711,
+            -34.56749631768193
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2751,
+        "hasta": 2800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.763188583355436,
+            -34.565662443857406
+          ],
+          [
+            -58.76382753394938,
+            -34.565191189091585
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3050,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76382753394938,
+            -34.565191189091585
+          ],
+          [
+            -58.764438974761944,
+            -34.56473767985488
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3051,
+        "hasta": 3100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.764438974761944,
+            -34.56473767985488
+          ],
+          [
+            -58.765083425052055,
+            -34.56426196708937
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3150,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.765083425052055,
+            -34.56426196708937
+          ],
+          [
+            -58.76570587972458,
+            -34.56379954898048
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3151,
+        "hasta": 3200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76570587972458,
+            -34.56379954898048
+          ],
+          [
+            -58.767000257749714,
+            -34.562843654539435
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.767000257749714,
+            -34.562843654539435
+          ],
+          [
+            -58.768289092777145,
+            -34.56189219682569
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.768289092777145,
+            -34.56189219682569
+          ],
+          [
+            -58.76915383536479,
+            -34.56125193035074
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76915383536479,
+            -34.56125193035074
+          ],
+          [
+            -58.770007471826176,
+            -34.56062506623601
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3501,
+        "hasta": 3600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.770007471826176,
+            -34.56062506623601
+          ],
+          [
+            -58.770850135416836,
+            -34.56000259232571
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3601,
+        "hasta": 3700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.770850135416836,
+            -34.56000259232571
+          ],
+          [
+            -58.77170932581705,
+            -34.55936675807432
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3701,
+        "hasta": 3800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.77170932581705,
+            -34.55936675807432
+          ],
+          [
+            -58.77255747712997,
+            -34.55873982030944
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3801,
+        "hasta": 3900,
+        "pavimento": "Tierra Mejorado con Cordon Cuneta",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.77255747712997,
+            -34.55873982030944
+          ],
+          [
+            -58.773405615749276,
+            -34.55811287631676
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3901,
+        "hasta": 4000,
+        "pavimento": "Tierra Mejorado con Cordon Cuneta",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.773405615749276,
+            -34.55811287631676
+          ],
+          [
+            -58.77440790296322,
+            -34.55737480206781
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4001,
+        "hasta": 4100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.77440790296322,
+            -34.55737480206781
+          ],
+          [
+            -58.77541890487671,
+            -34.55662608666697
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4101,
+        "hasta": 4200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4280] LA PINTA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67441962401774,
+            -34.55235770576251
+          ],
+          [
+            -58.675211277171066,
+            -34.55307686106438
+          ],
+          [
+            -58.675248307872174,
+            -34.55317068830781
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.675248307872174,
+            -34.55317068830781
+          ],
+          [
+            -58.676010253028174,
+            -34.55390004494609
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.676010253028174,
+            -34.55390004494609
+          ],
+          [
+            -58.67678296142658,
+            -34.554638527203636
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67678296142658,
+            -34.554638527203636
+          ],
+          [
+            -58.67757718378185,
+            -34.55539526497369
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67831973568025,
+            -34.55597567241926
+          ],
+          [
+            -58.67872782253709,
+            -34.5563496490029
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.679360534905825,
+            -34.55698744990038
+          ],
+          [
+            -58.680294634055194,
+            -34.557858353861256
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68300686847555,
+            -34.56031682012184
+          ],
+          [
+            -58.68366709018824,
+            -34.56094137540486
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68366709018824,
+            -34.56094137540486
+          ],
+          [
+            -58.68433262662579,
+            -34.56157499808972
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68433262662579,
+            -34.56157499808972
+          ],
+          [
+            -58.6849767403335,
+            -34.56218585233151
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6849767403335,
+            -34.56218585233151
+          ],
+          [
+            -58.68563699143955,
+            -34.562810397443926
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6862634368396,
+            -34.56350668424638
+          ],
+          [
+            -58.68693446023293,
+            -34.56414035202318
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Empedrado de Hormigon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.700785384369915,
+            -34.57729975745678
+          ],
+          [
+            -58.70133873623945,
+            -34.57780590365735
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70133873623945,
+            -34.57780590365735
+          ],
+          [
+            -58.7020090996143,
+            -34.57843397728458
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7020090996143,
+            -34.57843397728458
+          ],
+          [
+            -58.70289085179224,
+            -34.579260084780266
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70289085179224,
+            -34.579260084780266
+          ],
+          [
+            -58.7037395340757,
+            -34.58004878150256
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7037395340757,
+            -34.58004878150256
+          ],
+          [
+            -58.70440476403045,
+            -34.580672447579204
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70447522041064,
+            -34.58074613657692
+          ],
+          [
+            -58.70515196774456,
+            -34.58137976650036
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3501,
+        "hasta": 3600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70515196774456,
+            -34.58137976650036
+          ],
+          [
+            -58.70585002910868,
+            -34.58204516647263
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3601,
+        "hasta": 3700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70585002910868,
+            -34.58204516647263
+          ],
+          [
+            -58.70659931924187,
+            -34.582787925063684
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3701,
+        "hasta": 3800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70659931924187,
+            -34.582787925063684
+          ],
+          [
+            -58.7081476091621,
+            -34.584195760768765
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3801,
+        "hasta": 4000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7143281883166,
+            -34.589730182964374
+          ],
+          [
+            -58.71492650469328,
+            -34.59027541071913
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4701,
+        "hasta": 4800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71492650469328,
+            -34.59027541071913
+          ],
+          [
+            -58.71558250371124,
+            -34.59087319195103
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4801,
+        "hasta": 4900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71558250371124,
+            -34.59087319195103
+          ],
+          [
+            -58.71621850838523,
+            -34.59146820487941
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4901,
+        "hasta": 5000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71621850838523,
+            -34.59146820487941
+          ],
+          [
+            -58.71678591993164,
+            -34.59199903722346
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5001,
+        "hasta": 5100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71678591993164,
+            -34.59199903722346
+          ],
+          [
+            -58.717162218859286,
+            -34.59235006935402
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5101,
+        "hasta": 5200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.717162218859286,
+            -34.59235006935402
+          ],
+          [
+            -58.71747239074555,
+            -34.59263941184724
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5201,
+        "hasta": 5300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71747239074555,
+            -34.59263941184724
+          ],
+          [
+            -58.717973298601144,
+            -34.59310667503312
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5301,
+        "hasta": 5400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.717973298601144,
+            -34.59310667503312
+          ],
+          [
+            -58.719117669889805,
+            -34.59417779545458
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5401,
+        "hasta": 5500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.719117669889805,
+            -34.59417779545458
+          ],
+          [
+            -58.7200418374112,
+            -34.595039281951074
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5501,
+        "hasta": 5600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3053] LA PLATA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71670011333543,
+            -34.59013681986826
+          ],
+          [
+            -58.71761872038365,
+            -34.59023234690349
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 4901,
+        "hasta": 5000,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71761872038365,
+            -34.59023234690349
+          ],
+          [
+            -58.718435775319875,
+            -34.59031730731944
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5001,
+        "hasta": 5100,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71859903082559,
+            -34.590332542340676
+          ],
+          [
+            -58.71943299374626,
+            -34.59041970623389
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5101,
+        "hasta": 5200,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71943299374626,
+            -34.59041970623389
+          ],
+          [
+            -58.72059431082147,
+            -34.590541075275546
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5201,
+        "hasta": 5300,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72059431082147,
+            -34.590541075275546
+          ],
+          [
+            -58.72134516226516,
+            -34.59061953983063
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5301,
+        "hasta": 5400,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72134516226516,
+            -34.59061953983063
+          ],
+          [
+            -58.72197250977934,
+            -34.59067889349671
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5401,
+        "hasta": 5430,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72197250977934,
+            -34.59067889349671
+          ],
+          [
+            -58.723254181994015,
+            -34.59081123978544
+          ],
+          [
+            -58.72355480288608,
+            -34.59091178368628
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5431,
+        "hasta": 5500,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.725068827926656,
+            -34.59133322662138
+          ],
+          [
+            -58.72545631570754,
+            -34.59129671339589
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5601,
+        "hasta": 5609,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72545631570754,
+            -34.59129671339589
+          ],
+          [
+            -58.726313091822846,
+            -34.591220030326156
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5611,
+        "hasta": 5620,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72595627485528,
+            -34.59067548654099
+          ],
+          [
+            -58.72660592087318,
+            -34.59060114524173
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5619,
+        "hasta": 5630,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.726313091822846,
+            -34.591220030326156
+          ],
+          [
+            -58.727175384127634,
+            -34.59113889193802
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5621,
+        "hasta": 5630,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72660592087318,
+            -34.59060114524173
+          ],
+          [
+            -58.727446617482734,
+            -34.590506259005444
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5631,
+        "hasta": 5640,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.727175384127634,
+            -34.59113889193802
+          ],
+          [
+            -58.72825590316843,
+            -34.59104199483151
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5631,
+        "hasta": 5660,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.727446617482734,
+            -34.590506259005444
+          ],
+          [
+            -58.72834745512085,
+            -34.590398473271456
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5652,
+        "hasta": 5662,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72825590316843,
+            -34.59104199483151
+          ],
+          [
+            -58.728954658535805,
+            -34.59096364604882
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5661,
+        "hasta": 5705,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72834745512085,
+            -34.590398473271456
+          ],
+          [
+            -58.72926651254318,
+            -34.59030818852385
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5663,
+        "hasta": 5702,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.728954658535805,
+            -34.59096364604882
+          ],
+          [
+            -58.7298387415355,
+            -34.59088271575463
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5702,
+        "hasta": 5720,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72926651254318,
+            -34.59030818852385
+          ],
+          [
+            -58.73102726943883,
+            -34.590133428645366
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5704,
+        "hasta": 5800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7298387415355,
+            -34.59088271575463
+          ],
+          [
+            -58.731605329404005,
+            -34.590683099146425
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5721,
+        "hasta": 5799,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.731605329404005,
+            -34.590683099146425
+          ],
+          [
+            -58.732518909976584,
+            -34.590595108053286
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5801,
+        "hasta": 5820,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73102726943883,
+            -34.590133428645366
+          ],
+          [
+            -58.73191134208754,
+            -34.59005248308347
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5801,
+        "hasta": 5820,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73191134208754,
+            -34.59005248308347
+          ],
+          [
+            -58.73241883163638,
+            -34.59000818103401
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5821,
+        "hasta": 5830,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.732518909976584,
+            -34.590595108053286
+          ],
+          [
+            -58.733332357044596,
+            -34.590499898105136
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5821,
+        "hasta": 5830,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.733332357044596,
+            -34.590499898105136
+          ],
+          [
+            -58.734115810300985,
+            -34.59043711634482
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5831,
+        "hasta": 5900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73241883163638,
+            -34.59000818103401
+          ],
+          [
+            -58.733594859073264,
+            -34.58988545434594
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5832,
+        "hasta": 5840,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.733594859073264,
+            -34.58988545434594
+          ],
+          [
+            -58.73447867594304,
+            -34.5897944651729
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5841,
+        "hasta": 5850,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73447867594304,
+            -34.5897944651729
+          ],
+          [
+            -58.7350647878488,
+            -34.58973174675777
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5851,
+        "hasta": 5900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D309] Diag LA QUIACA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71390705996136,
+            -34.5694526477389
+          ],
+          [
+            -58.71313015889681,
+            -34.570016826075545
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3220] LAGO ARGENTINO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71313015889681,
+            -34.570016826075545
+          ],
+          [
+            -58.712397243972156,
+            -34.5705544223793
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3220] LAGO ARGENTINO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.710870328254366,
+            -34.57134953290489
+          ],
+          [
+            -58.71018718076524,
+            -34.57183806609109
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 350,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3220] LAGO ARGENTINO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71018718076524,
+            -34.57183806609109
+          ],
+          [
+            -58.709503955676844,
+            -34.57233110132397
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 351,
+        "hasta": 400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3220] LAGO ARGENTINO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.709503955676844,
+            -34.57233110132397
+          ],
+          [
+            -58.70882623983044,
+            -34.57281968405807
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 450,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3220] LAGO ARGENTINO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70882623983044,
+            -34.57281968405807
+          ],
+          [
+            -58.70860582686683,
+            -34.572979597670255
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 451,
+        "hasta": 500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3220] LAGO ARGENTINO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70391910808086,
+            -34.57725646266382
+          ],
+          [
+            -58.70380379304728,
+            -34.577313826563106
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 904,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3220] LAGO ARGENTINO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70380379304728,
+            -34.577313826563106
+          ],
+          [
+            -58.702474333480076,
+            -34.578170087678224
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 905,
+        "hasta": 1000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3220] LAGO ARGENTINO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6998252429148,
+            -34.5808750411211
+          ],
+          [
+            -58.69834326430819,
+            -34.58191124413417
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3220] LAGO ARGENTINO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69834326430819,
+            -34.58191124413417
+          ],
+          [
+            -58.69766547585172,
+            -34.582395254851015
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3220] LAGO ARGENTINO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69106261571148,
+            -34.58577682126805
+          ],
+          [
+            -58.68971778186594,
+            -34.58674487090677
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3220] LAGO ARGENTINO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68971778186594,
+            -34.58674487090677
+          ],
+          [
+            -58.688362019868265,
+            -34.58771278772897
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 2000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3220] LAGO ARGENTINO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.688362019868265,
+            -34.58771278772897
+          ],
+          [
+            -58.687658726438045,
+            -34.58823691099949
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 2001,
+        "hasta": 2050,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3220] LAGO ARGENTINO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70755607746708,
+            -34.56265236011288
+          ],
+          [
+            -58.70635503723357,
+            -34.56351846877944
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3198] LAGO LACAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70181144816364,
+            -34.56737764643074
+          ],
+          [
+            -58.70054944903078,
+            -34.56830163608492
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3198] LAGO LACAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70054944903078,
+            -34.56830163608492
+          ],
+          [
+            -58.69925976421763,
+            -34.56925235808815
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3198] LAGO LACAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    }
+  ]
+}

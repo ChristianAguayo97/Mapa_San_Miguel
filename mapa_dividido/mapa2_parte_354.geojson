@@ -1,0 +1,2933 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76396467753249,
+            -34.56218199253902
+          ],
+          [
+            -58.76455585385263,
+            -34.56272880124677
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5601,
+        "hasta": 5700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4189] CALLAO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76455585385263,
+            -34.56272880124677
+          ],
+          [
+            -58.76514697127912,
+            -34.56328011340019
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5701,
+        "hasta": 5800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4189] CALLAO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76514697127912,
+            -34.56328011340019
+          ],
+          [
+            -58.76570587972458,
+            -34.56379954898048
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5801,
+        "hasta": 5900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4189] CALLAO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76570587972458,
+            -34.56379954898048
+          ],
+          [
+            -58.766264795101044,
+            -34.56431898210663
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5901,
+        "hasta": 6000,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4189] CALLAO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.766264795101044,
+            -34.56431898210663
+          ],
+          [
+            -58.76720540451803,
+            -34.56519560479333
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 6001,
+        "hasta": 6100,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4189] CALLAO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68737119078872,
+            -34.54294387884463
+          ],
+          [
+            -58.68827296688697,
+            -34.54378817702172
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68827296688697,
+            -34.54378817702172
+          ],
+          [
+            -58.68917446155486,
+            -34.54463636042435
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68917446155486,
+            -34.54463636042435
+          ],
+          [
+            -58.69013533697432,
+            -34.54553451875634
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69013533697432,
+            -34.54553451875634
+          ],
+          [
+            -58.691069285986195,
+            -34.54641435364135
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.691069285986195,
+            -34.54641435364135
+          ],
+          [
+            -58.69161679217695,
+            -34.54692949421907
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 450,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69161679217695,
+            -34.54692949421907
+          ],
+          [
+            -58.69215355427428,
+            -34.547435503623326
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 451,
+        "hasta": 500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69215355427428,
+            -34.547435503623326
+          ],
+          [
+            -58.69314137127809,
+            -34.54835646142691
+          ],
+          [
+            -58.69317277896667,
+            -34.548437920578515
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69317277896667,
+            -34.548437920578515
+          ],
+          [
+            -58.693230430333905,
+            -34.548582756259805
+          ],
+          [
+            -58.69422944634984,
+            -34.549485797945
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 800,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69422944634984,
+            -34.549485797945
+          ],
+          [
+            -58.69430833415331,
+            -34.54959440811436
+          ],
+          [
+            -58.69508425373977,
+            -34.55029670114632
+          ],
+          [
+            -58.69515405450285,
+            -34.550411520506
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69515405450285,
+            -34.550411520506
+          ],
+          [
+            -58.69596170322367,
+            -34.55114316665542
+          ],
+          [
+            -58.69602886048358,
+            -34.551272666678564
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69602886048358,
+            -34.551272666678564
+          ],
+          [
+            -58.696795718471996,
+            -34.55200347058599
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69916187821469,
+            -34.55384698583975
+          ],
+          [
+            -58.69982832157126,
+            -34.55442645311959
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70384728439335,
+            -34.55801156108065
+          ],
+          [
+            -58.70435758690015,
+            -34.55847667522216
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2051,
+        "hasta": 2100,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.705440148888556,
+            -34.559979921781775
+          ],
+          [
+            -58.70645521470934,
+            -34.56091908981009
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70645521470934,
+            -34.56091908981009
+          ],
+          [
+            -58.70740584700888,
+            -34.5617989784293
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2301,
+        "hasta": 2400,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70776394739999,
+            -34.56189290661255
+          ],
+          [
+            -58.708264489002524,
+            -34.56236182227716
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2449,
+        "hasta": 2500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.708264489002524,
+            -34.56236182227716
+          ],
+          [
+            -58.708714257771184,
+            -34.56278316732911
+          ],
+          [
+            -58.70983680221681,
+            -34.56383474350657
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70983680221681,
+            -34.56383474350657
+          ],
+          [
+            -58.71084100038643,
+            -34.5647782675763
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7201797682222,
+            -34.573250240434504
+          ],
+          [
+            -58.72089953905967,
+            -34.573924797044825
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3801,
+        "hasta": 3900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72089953905967,
+            -34.573924797044825
+          ],
+          [
+            -58.721258365664454,
+            -34.574260695315346
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3901,
+        "hasta": 4000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.721258365664454,
+            -34.574260695315346
+          ],
+          [
+            -58.72173213764882,
+            -34.574704188366
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4001,
+        "hasta": 4100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72173213764882,
+            -34.574704188366
+          ],
+          [
+            -58.72253254746367,
+            -34.575451689349286
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4101,
+        "hasta": 4200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72229995751155,
+            -34.57562858129077
+          ],
+          [
+            -58.72342938464794,
+            -34.57666439736428
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4201,
+        "hasta": 4300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72342938464794,
+            -34.57666439736428
+          ],
+          [
+            -58.72435361619154,
+            -34.57751233198067
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4301,
+        "hasta": 4400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72435361619154,
+            -34.57751233198067
+          ],
+          [
+            -58.7252566308532,
+            -34.57839946112745
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 4401,
+        "hasta": 4500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7252566308532,
+            -34.57839946112745
+          ],
+          [
+            -58.72614064318976,
+            -34.57923517963665
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 4501,
+        "hasta": 4600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72614064318976,
+            -34.57923517963665
+          ],
+          [
+            -58.72714802433622,
+            -34.580228977585485
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 4601,
+        "hasta": 4700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.728448223629854,
+            -34.58163825229554
+          ],
+          [
+            -58.72867389224916,
+            -34.581847917672654
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4851,
+        "hasta": 4900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72867389224916,
+            -34.581847917672654
+          ],
+          [
+            -58.72921661864094,
+            -34.582349321848916
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4901,
+        "hasta": 5000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72921661864094,
+            -34.582349321848916
+          ],
+          [
+            -58.72976473127024,
+            -34.58285528654243
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5001,
+        "hasta": 5050,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72976473127024,
+            -34.58285528654243
+          ],
+          [
+            -58.73031285052584,
+            -34.58336124887878
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5051,
+        "hasta": 5100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73031285052584,
+            -34.58336124887878
+          ],
+          [
+            -58.7310920369661,
+            -34.58408143273532
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5101,
+        "hasta": 5200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7310920369661,
+            -34.58408143273532
+          ],
+          [
+            -58.731710043202014,
+            -34.58465121119751
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5201,
+        "hasta": 5300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.731710043202014,
+            -34.58465121119751
+          ],
+          [
+            -58.73237640969412,
+            -34.58526655725043
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5301,
+        "hasta": 5400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73237640969412,
+            -34.58526655725043
+          ],
+          [
+            -58.73299443342473,
+            -34.58583632948364
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5401,
+        "hasta": 5500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73299443342473,
+            -34.58583632948364
+          ],
+          [
+            -58.73366613060728,
+            -34.58646073760346
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5501,
+        "hasta": 5600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73366613060728,
+            -34.58646073760346
+          ],
+          [
+            -58.734197479541535,
+            -34.58695155594624
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5601,
+        "hasta": 5700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.734197479541535,
+            -34.58695155594624
+          ],
+          [
+            -58.73478930336389,
+            -34.58749994555844
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5701,
+        "hasta": 5800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73478930336389,
+            -34.58749994555844
+          ],
+          [
+            -58.73539296819164,
+            -34.58805580119107
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5801,
+        "hasta": 5900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73539296819164,
+            -34.58805580119107
+          ],
+          [
+            -58.73611520954233,
+            -34.58872079907382
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5901,
+        "hasta": 6000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4095] CASEROS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69537055358662,
+            -34.55175591968813
+          ],
+          [
+            -58.69602886048358,
+            -34.551272666678564
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69602886048358,
+            -34.551272666678564
+          ],
+          [
+            -58.696670756372484,
+            -34.550814359471815
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.696670756372484,
+            -34.550814359471815
+          ],
+          [
+            -58.69690782129962,
+            -34.55063211003337
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 183,
+        "hasta": 230,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69690782129962,
+            -34.55063211003337
+          ],
+          [
+            -58.69741830942477,
+            -34.55026835640337
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69741830942477,
+            -34.55026835640337
+          ],
+          [
+            -58.697614077996825,
+            -34.550127244949024
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 291,
+        "hasta": 318,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.697614077996825,
+            -34.550127244949024
+          ],
+          [
+            -58.698406293771356,
+            -34.54954842821129
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.698406293771356,
+            -34.54954842821129
+          ],
+          [
+            -58.69936491905203,
+            -34.5488510718772
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69936491905203,
+            -34.5488510718772
+          ],
+          [
+            -58.70030698023969,
+            -34.54816705191616
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70030698023969,
+            -34.54816705191616
+          ],
+          [
+            -58.70121048437507,
+            -34.547509655271675
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70121048437507,
+            -34.547509655271675
+          ],
+          [
+            -58.702080949096135,
+            -34.54687443465045
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.702161238290905,
+            -34.54696542493053
+          ],
+          [
+            -58.70295453907328,
+            -34.54638796647075
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70295453907328,
+            -34.54638796647075
+          ],
+          [
+            -58.703769891778734,
+            -34.545792709442
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.703769891778734,
+            -34.545792709442
+          ],
+          [
+            -58.70502599264513,
+            -34.54487312306136
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70502599264513,
+            -34.54487312306136
+          ],
+          [
+            -58.706160865271,
+            -34.54404237551668
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.706160865271,
+            -34.54404237551668
+          ],
+          [
+            -58.70729564573213,
+            -34.54321612291028
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70729564573213,
+            -34.54321612291028
+          ],
+          [
+            -58.7084194429734,
+            -34.54239425003894
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7084194429734,
+            -34.54239425003894
+          ],
+          [
+            -58.709559763564656,
+            -34.54155902055002
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.709559763564656,
+            -34.54155902055002
+          ],
+          [
+            -58.71054584946078,
+            -34.54083482246259
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71054584946078,
+            -34.54083482246259
+          ],
+          [
+            -58.71200012943212,
+            -34.53976852855749
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71200012943212,
+            -34.53976852855749
+          ],
+          [
+            -58.713410254570206,
+            -34.53873780625673
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.713410254570206,
+            -34.53873780625673
+          ],
+          [
+            -58.714473340307556,
+            -34.53796030442884
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.714473340307556,
+            -34.53796030442884
+          ],
+          [
+            -58.7155033884352,
+            -34.537204979736465
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 2000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7155033884352,
+            -34.537204979736465
+          ],
+          [
+            -58.716704088056055,
+            -34.536329754603344
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.716704088056055,
+            -34.536329754603344
+          ],
+          [
+            -58.71782218655338,
+            -34.53551223904258
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2101,
+        "hasta": 2200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71782218655338,
+            -34.53551223904258
+          ],
+          [
+            -58.718907247233844,
+            -34.53471690055046
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.719062947694376,
+            -34.53486275339486
+          ],
+          [
+            -58.719993594128894,
+            -34.53419197702792
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2301,
+        "hasta": 2400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.719993594128894,
+            -34.53419197702792
+          ],
+          [
+            -58.720896793562034,
+            -34.533534426391284
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.720896793562034,
+            -34.533534426391284
+          ],
+          [
+            -58.721825409009234,
+            -34.532858626104016
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.721825409009234,
+            -34.532858626104016
+          ],
+          [
+            -58.72275270542488,
+            -34.532183767373006
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72275270542488,
+            -34.532183767373006
+          ],
+          [
+            -58.72367284960462,
+            -34.5315167541657
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72367284960462,
+            -34.5315167541657
+          ],
+          [
+            -58.72459746158282,
+            -34.530846483222284
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72459746158282,
+            -34.530846483222284
+          ],
+          [
+            -58.725676952930044,
+            -34.530051024332806
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2901,
+        "hasta": 3000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.725676952930044,
+            -34.530051024332806
+          ],
+          [
+            -58.72643120068993,
+            -34.529513562187134
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72643120068993,
+            -34.529513562187134
+          ],
+          [
+            -58.72722410087365,
+            -34.528940443156095
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72722410087365,
+            -34.528940443156095
+          ],
+          [
+            -58.72798425319378,
+            -34.52837148455813
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72814924017873,
+            -34.52826503817833
+          ],
+          [
+            -58.72890931162815,
+            -34.52770057963986
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3370,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72798425319378,
+            -34.52837148455813
+          ],
+          [
+            -58.72814924017873,
+            -34.52826503817833
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3371,
+        "hasta": 3400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72890931162815,
+            -34.52770057963986
+          ],
+          [
+            -58.72984866439348,
+            -34.52703064179861
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4162] Mto A. D'ELIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7194297925345,
+            -34.53366777705109
+          ],
+          [
+            -58.72032782123723,
+            -34.532992148896234
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4160] CASTELAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72584057629856,
+            -34.52896207040889
+          ],
+          [
+            -58.726633612254425,
+            -34.528379942835095
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4160] CASTELAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.726633612254425,
+            -34.528379942835095
+          ],
+          [
+            -58.72756433164032,
+            -34.527695586665125
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4160] CASTELAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72837843732328,
+            -34.527158735574005
+          ],
+          [
+            -58.729282996134785,
+            -34.526499308468225
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4160] CASTELAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7194297925345,
+            -34.53366777705109
+          ],
+          [
+            -58.72032782123723,
+            -34.532992148896234
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4160] CASTELAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72584057629856,
+            -34.52896207040889
+          ],
+          [
+            -58.726633612254425,
+            -34.528379942835095
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4160] CASTELAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.726633612254425,
+            -34.528379942835095
+          ],
+          [
+            -58.72756433164032,
+            -34.527695586665125
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4160] CASTELAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72837843732328,
+            -34.527158735574005
+          ],
+          [
+            -58.729282996134785,
+            -34.526499308468225
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4160] CASTELAR",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.662596580832144,
+            -34.56096800239946
+          ],
+          [
+            -58.66352892420618,
+            -34.56184023291094
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66352892420618,
+            -34.56184023291094
+          ],
+          [
+            -58.664398481130206,
+            -34.56265196145325
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.664398481130206,
+            -34.56265196145325
+          ],
+          [
+            -58.665268054899485,
+            -34.563463684085725
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.665268054899485,
+            -34.563463684085725
+          ],
+          [
+            -58.665896058890965,
+            -34.56405192720693
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66832778158662,
+            -34.56688857854534
+          ],
+          [
+            -58.66967208785135,
+            -34.568223081256384
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 1100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66967208785135,
+            -34.568223081256384
+          ],
+          [
+            -58.670770056229706,
+            -34.56931300048066
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1226,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67546157766782,
+            -34.57341181246286
+          ],
+          [
+            -58.67593982811101,
+            -34.57464008389521
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1851,
+        "hasta": 1950,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67593982811101,
+            -34.57464008389521
+          ],
+          [
+            -58.67568014508425,
+            -34.57459273907465
+          ],
+          [
+            -58.67541744528668,
+            -34.57452929782244
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1951,
+        "hasta": 2000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68292054670704,
+            -34.579609537897284
+          ],
+          [
+            -58.684281226611105,
+            -34.58039938577081
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    }
+  ]
+}

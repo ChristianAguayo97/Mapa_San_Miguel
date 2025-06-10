@@ -1,0 +1,2949 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.700810695360445,
+            -34.541691580172724
+          ],
+          [
+            -58.701565625308135,
+            -34.54112724201204
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1051,
+        "hasta": 1100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.701565625308135,
+            -34.54112724201204
+          ],
+          [
+            -58.70236522803103,
+            -34.540491264317524
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70236522803103,
+            -34.540491264317524
+          ],
+          [
+            -58.703216982190256,
+            -34.53980467158687
+          ],
+          [
+            -58.70329269495803,
+            -34.5396904069646
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70329269495803,
+            -34.5396904069646
+          ],
+          [
+            -58.70436149388553,
+            -34.53889901374421
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.706145128061294,
+            -34.5383725988862
+          ],
+          [
+            -58.707142025093454,
+            -34.5376530492547
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.707142025093454,
+            -34.5376530492547
+          ],
+          [
+            -58.7086125566197,
+            -34.536591473969665
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7086125566197,
+            -34.536591473969665
+          ],
+          [
+            -58.710066506869914,
+            -34.53554322573587
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.710066506869914,
+            -34.53554322573587
+          ],
+          [
+            -58.71106333666561,
+            -34.53482364224623
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71106333666561,
+            -34.53482364224623
+          ],
+          [
+            -58.71214824234708,
+            -34.53404188333633
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 2000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71214824234708,
+            -34.53404188333633
+          ],
+          [
+            -58.71334879085495,
+            -34.533175702775665
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71334879085495,
+            -34.533175702775665
+          ],
+          [
+            -58.714461155931446,
+            -34.532376184505324
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2101,
+        "hasta": 2200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.714461155931446,
+            -34.532376184505324
+          ],
+          [
+            -58.71554620594274,
+            -34.53158087529094
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71554620594274,
+            -34.53158087529094
+          ],
+          [
+            -58.71644779130273,
+            -34.530921481784716
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2301,
+        "hasta": 2400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71644779130273,
+            -34.530921481784716
+          ],
+          [
+            -58.71737472564394,
+            -34.530243530598916
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71737472564394,
+            -34.530243530598916
+          ],
+          [
+            -58.718282366296826,
+            -34.52957885595024
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.718282366296826,
+            -34.52957885595024
+          ],
+          [
+            -58.71922524212686,
+            -34.528888360806874
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71922524212686,
+            -34.528888360806874
+          ],
+          [
+            -58.72014749219906,
+            -34.528213571912836
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72014749219906,
+            -34.528213571912836
+          ],
+          [
+            -58.72105915809318,
+            -34.52754650870319
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2900,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72105915809318,
+            -34.52754650870319
+          ],
+          [
+            -58.721988403435994,
+            -34.52686635510963
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2901,
+        "hasta": 3000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.721988403435994,
+            -34.52686635510963
+          ],
+          [
+            -58.72289852880085,
+            -34.52620017825124
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72289852880085,
+            -34.52620017825124
+          ],
+          [
+            -58.72381295624861,
+            -34.52553024995101
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72381295624861,
+            -34.52553024995101
+          ],
+          [
+            -58.72469380349439,
+            -34.524884906701985
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72469380349439,
+            -34.524884906701985
+          ],
+          [
+            -58.725599605533844,
+            -34.524222875964696
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.725599605533844,
+            -34.524222875964696
+          ],
+          [
+            -58.72649766064771,
+            -34.52356529410145
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4150] SAN LORENZO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69027655150483,
+            -34.547002569833715
+          ],
+          [
+            -58.691069285986195,
+            -34.54641435364135
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.691069285986195,
+            -34.54641435364135
+          ],
+          [
+            -58.69182983976062,
+            -34.54584563088335
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69182983976062,
+            -34.54584563088335
+          ],
+          [
+            -58.69261237774795,
+            -34.54526361813013
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69261237774795,
+            -34.54526361813013
+          ],
+          [
+            -58.69335084590733,
+            -34.54471267637131
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69335084590733,
+            -34.54471267637131
+          ],
+          [
+            -58.69426560813836,
+            -34.54403291731587
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69426560813836,
+            -34.54403291731587
+          ],
+          [
+            -58.69520241948819,
+            -34.543335359449266
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69520241948819,
+            -34.543335359449266
+          ],
+          [
+            -58.696089572196904,
+            -34.54267782533759
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.696089572196904,
+            -34.54267782533759
+          ],
+          [
+            -58.696932654753496,
+            -34.54205136207392
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.696932654753496,
+            -34.54205136207392
+          ],
+          [
+            -58.6977261533526,
+            -34.54146041863274
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6977261533526,
+            -34.54146041863274
+          ],
+          [
+            -58.69850309381529,
+            -34.54088281386169
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69850309381529,
+            -34.54088281386169
+          ],
+          [
+            -58.69931856245467,
+            -34.54027857335828
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1050,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69931856245467,
+            -34.54027857335828
+          ],
+          [
+            -58.700084450016604,
+            -34.53970985409026
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1051,
+        "hasta": 1100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.700084450016604,
+            -34.53970985409026
+          ],
+          [
+            -58.700894380444986,
+            -34.53911005055452
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.700894380444986,
+            -34.53911005055452
+          ],
+          [
+            -58.701886234710116,
+            -34.53836795671105
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.701886234710116,
+            -34.53836795671105
+          ],
+          [
+            -58.702949629214395,
+            -34.53757703918517
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.713796036189784,
+            -34.52994449206654
+          ],
+          [
+            -58.71467604565856,
+            -34.52930303239828
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2301,
+        "hasta": 2400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71467604565856,
+            -34.52930303239828
+          ],
+          [
+            -58.71562447720022,
+            -34.52861167919317
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71562447720022,
+            -34.52861167919317
+          ],
+          [
+            -58.71658393289661,
+            -34.52790906971986
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71658393289661,
+            -34.52790906971986
+          ],
+          [
+            -58.717474984213304,
+            -34.52725653540206
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.717474984213304,
+            -34.52725653540206
+          ],
+          [
+            -58.71839099504682,
+            -34.5265883326457
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71839099504682,
+            -34.5265883326457
+          ],
+          [
+            -58.719314335348116,
+            -34.525914766162536
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2900,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.719314335348116,
+            -34.525914766162536
+          ],
+          [
+            -58.72008828259706,
+            -34.52534980884207
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2901,
+        "hasta": 3000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72008828259706,
+            -34.52534980884207
+          ],
+          [
+            -58.7211646544164,
+            -34.52456406935176
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7211646544164,
+            -34.52456406935176
+          ],
+          [
+            -58.722055759535145,
+            -34.52391408611583
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.722055759535145,
+            -34.52391408611583
+          ],
+          [
+            -58.722943311235376,
+            -34.523266676577315
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.722943311235376,
+            -34.523266676577315
+          ],
+          [
+            -58.723817671947664,
+            -34.522628958308836
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.723817671947664,
+            -34.522628958308836
+          ],
+          [
+            -58.72475530025059,
+            -34.52194328671305
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4144] SAN LUIS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67524938592855,
+            -34.55175687390252
+          ],
+          [
+            -58.67609702517278,
+            -34.552548941143854
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67609702517278,
+            -34.552548941143854
+          ],
+          [
+            -58.676869936300186,
+            -34.55327390461197
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.676869936300186,
+            -34.55327390461197
+          ],
+          [
+            -58.67764830710594,
+            -34.55399892240523
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67764830710594,
+            -34.55399892240523
+          ],
+          [
+            -58.67845349559251,
+            -34.554751266539
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67845349559251,
+            -34.554751266539
+          ],
+          [
+            -58.6791298365984,
+            -34.55538503411166
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6791298365984,
+            -34.55538503411166
+          ],
+          [
+            -58.67979006207397,
+            -34.556005103258535
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67979006207397,
+            -34.556005103258535
+          ],
+          [
+            -58.68020367346412,
+            -34.55637462791638
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 601,
+        "hasta": 660,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68020367346412,
+            -34.55637462791638
+          ],
+          [
+            -58.68046649446114,
+            -34.55663435771466
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 661,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68046649446114,
+            -34.55663435771466
+          ],
+          [
+            -58.681121293131504,
+            -34.55725436111452
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.681121293131504,
+            -34.55725436111452
+          ],
+          [
+            -58.68120694405588,
+            -34.557349929628515
+          ],
+          [
+            -58.68182720551128,
+            -34.557931959406226
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68182720551128,
+            -34.557931959406226
+          ],
+          [
+            -58.682436224017906,
+            -34.55850342874554
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.682436224017906,
+            -34.55850342874554
+          ],
+          [
+            -58.68311800103824,
+            -34.55914174006243
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68311800103824,
+            -34.55914174006243
+          ],
+          [
+            -58.68377821460699,
+            -34.55976629466855
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68377821460699,
+            -34.55976629466855
+          ],
+          [
+            -58.68443313318332,
+            -34.560381775059795
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68443313318332,
+            -34.560381775059795
+          ],
+          [
+            -58.68510418896219,
+            -34.56101094627559
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68510418896219,
+            -34.56101094627559
+          ],
+          [
+            -58.68575375106244,
+            -34.56162185517529
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68575375106244,
+            -34.56162185517529
+          ],
+          [
+            -58.686414074655936,
+            -34.562241890116894
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.686414074655936,
+            -34.562241890116894
+          ],
+          [
+            -58.686847133931636,
+            -34.56265019648254
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.686845104726586,
+            -34.56264828359189
+          ],
+          [
+            -58.68777761891815,
+            -34.563527478793695
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68801381709821,
+            -34.56375085185076
+          ],
+          [
+            -58.68926478997213,
+            -34.564922543714
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68926478997213,
+            -34.564922543714
+          ],
+          [
+            -58.690649998204066,
+            -34.56622185389245
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1901,
+        "hasta": 2000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.690649998204066,
+            -34.56622185389245
+          ],
+          [
+            -58.69200836610542,
+            -34.56749832688129
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69200836610542,
+            -34.56749832688129
+          ],
+          [
+            -58.69337752901478,
+            -34.56878391418593
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2101,
+        "hasta": 2200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69337752901478,
+            -34.56878391418593
+          ],
+          [
+            -58.694376217499,
+            -34.569723005761624
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.694376217499,
+            -34.569723005761624
+          ],
+          [
+            -58.6953212283675,
+            -34.570611940521
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2301,
+        "hasta": 2400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6953212283675,
+            -34.570611940521
+          ],
+          [
+            -58.696234066776285,
+            -34.57146897668584
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.696234066776285,
+            -34.57146897668584
+          ],
+          [
+            -58.69710935345521,
+            -34.572289550724726
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69710935345521,
+            -34.572289550724726
+          ],
+          [
+            -58.69801664031261,
+            -34.57315552813016
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69801664031261,
+            -34.57315552813016
+          ],
+          [
+            -58.69918452614117,
+            -34.57427057520937
+          ],
+          [
+            -58.699380424150306,
+            -34.57445760567479
+          ],
+          [
+            -58.69947059037283,
+            -34.57454369039314
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69973049295249,
+            -34.574764272355495
+          ],
+          [
+            -58.700554089939615,
+            -34.57557812224427
+          ],
+          [
+            -58.70167817177711,
+            -34.57665126357142
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2801,
+        "hasta": 3000,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70534042800071,
+            -34.58011985761965
+          ],
+          [
+            -58.706017316830774,
+            -34.58074447068976
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3501,
+        "hasta": 3600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.706017316830774,
+            -34.58074447068976
+          ],
+          [
+            -58.70665619579583,
+            -34.58134922670849
+          ],
+          [
+            -58.7067039514198,
+            -34.58143081766511
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3601,
+        "hasta": 3700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7067039514198,
+            -34.58143081766511
+          ],
+          [
+            -58.70746215518761,
+            -34.582136144470724
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3701,
+        "hasta": 3800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70746215518761,
+            -34.582136144470724
+          ],
+          [
+            -58.708410336315275,
+            -34.58310139902576
+          ],
+          [
+            -58.708261036923005,
+            -34.58420317822283
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3801,
+        "hasta": 3900,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.708261036923005,
+            -34.58420317822283
+          ],
+          [
+            -58.70810889131921,
+            -34.58506572588839
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3901,
+        "hasta": 3950,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7080966483513,
+            -34.58506625606953
+          ],
+          [
+            -58.70789278569951,
+            -34.58631376499792
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3951,
+        "hasta": 4000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70789278569951,
+            -34.58631376499792
+          ],
+          [
+            -58.71194983706404,
+            -34.58950467386052
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 4001,
+        "hasta": 4600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71194983706404,
+            -34.58950467386052
+          ],
+          [
+            -58.71208834673075,
+            -34.589556183170316
+          ],
+          [
+            -58.7143281883166,
+            -34.589730182964374
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 4601,
+        "hasta": 4700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3057] Av SAN MARTIN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70232593408224,
+            -34.53214416963371
+          ],
+          [
+            -58.70302908885435,
+            -34.53280513298368
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4143] SAN MIGUEL",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70302908885435,
+            -34.53280513298368
+          ],
+          [
+            -58.70391473198652,
+            -34.53363928965983
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4143] SAN MIGUEL",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70391473198652,
+            -34.53363928965983
+          ],
+          [
+            -58.70490782921566,
+            -34.53456922353662
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4143] SAN MIGUEL",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70490782921566,
+            -34.53456922353662
+          ],
+          [
+            -58.70541241427223,
+            -34.53504328639158
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4143] SAN MIGUEL",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70886863139924,
+            -34.56199796533641
+          ],
+          [
+            -58.70952162802261,
+            -34.56151627692355
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4198] SAN NICOLAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70952162802261,
+            -34.56151627692355
+          ],
+          [
+            -58.71004801792287,
+            -34.56112797252165
+          ],
+          [
+            -58.7100869985293,
+            -34.561038645301664
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4198] SAN NICOLAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7100869985293,
+            -34.561038645301664
+          ],
+          [
+            -58.710689816808134,
+            -34.56060208516986
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4198] SAN NICOLAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.710689816808134,
+            -34.56060208516986
+          ],
+          [
+            -58.71132566319479,
+            -34.56014159683354
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4198] SAN NICOLAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.713371937125864,
+            -34.558919046981
+          ],
+          [
+            -58.714253535300635,
+            -34.558270337795484
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4198] SAN NICOLAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.714253535300635,
+            -34.558270337795484
+          ],
+          [
+            -58.71503218827128,
+            -34.55758448370855
+          ],
+          [
+            -58.715081831587966,
+            -34.55754444471889
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 899,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4198] SAN NICOLAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.715081831587966,
+            -34.55754444471889
+          ],
+          [
+            -58.7151590544305,
+            -34.55748216180327
+          ],
+          [
+            -58.71524172377444,
+            -34.55741993615944
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 886,
+        "hasta": 913,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4198] SAN NICOLAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    }
+  ]
+}

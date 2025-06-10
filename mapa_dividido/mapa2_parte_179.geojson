@@ -1,0 +1,3277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.660051819785565,
+            -34.56532642870867
+          ],
+          [
+            -58.660642248373236,
+            -34.565878231536495
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 250,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3005] V. DE LA PLAZA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.660642248373236,
+            -34.565878231536495
+          ],
+          [
+            -58.661221935015774,
+            -34.566420900136315
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 251,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3005] V. DE LA PLAZA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.661221935015774,
+            -34.566420900136315
+          ],
+          [
+            -58.66185803513903,
+            -34.56701744045225
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3005] V. DE LA PLAZA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.659902985300405,
+            -34.56293343722552
+          ],
+          [
+            -58.660833516774964,
+            -34.56380269631907
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.660833516774964,
+            -34.56380269631907
+          ],
+          [
+            -58.661413190741584,
+            -34.564345363884655
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.661413190741584,
+            -34.564345363884655
+          ],
+          [
+            -58.66199831920242,
+            -34.56488808853479
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 250,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66199831920242,
+            -34.56488808853479
+          ],
+          [
+            -58.66257800822024,
+            -34.56543075082363
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 251,
+        "hasta": 300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.672514983963055,
+            -34.573404377784314
+          ],
+          [
+            -58.67270069201409,
+            -34.57369257939185
+          ],
+          [
+            -58.67321105092012,
+            -34.574234720993005
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6809635134623,
+            -34.58104409711419
+          ],
+          [
+            -58.681676967637806,
+            -34.581412350720655
+          ],
+          [
+            -58.68179405095712,
+            -34.58158938073612
+          ],
+          [
+            -58.681917762030466,
+            -34.582036890224735
+          ],
+          [
+            -58.68201241374184,
+            -34.58225423893609
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68201241374184,
+            -34.58225423893609
+          ],
+          [
+            -58.682985734752656,
+            -34.5830759714227
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.682985734752656,
+            -34.5830759714227
+          ],
+          [
+            -58.68339439789491,
+            -34.5834228980873
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2650,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68339439789491,
+            -34.5834228980873
+          ],
+          [
+            -58.68380851269928,
+            -34.583769882206305
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2651,
+        "hasta": 2700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68380851269928,
+            -34.583769882206305
+          ],
+          [
+            -58.684027064336995,
+            -34.58409852620975
+          ],
+          [
+            -58.68409745708341,
+            -34.58429659662038
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68409745708341,
+            -34.58429659662038
+          ],
+          [
+            -58.68503272214924,
+            -34.585617347974825
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2850,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68503272214924,
+            -34.585617347974825
+          ],
+          [
+            -58.685592881544046,
+            -34.586380525395114
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2851,
+        "hasta": 2900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.685592881544046,
+            -34.586380525395114
+          ],
+          [
+            -58.68634880306511,
+            -34.58726499564723
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Proyectada",
+        "desde": 2901,
+        "hasta": 3000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68634880306511,
+            -34.58726499564723
+          ],
+          [
+            -58.686968281045516,
+            -34.587839321570456
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3001,
+        "hasta": 3100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.686968281045516,
+            -34.587839321570456
+          ],
+          [
+            -58.68733619961736,
+            -34.58809845954084
+          ],
+          [
+            -58.687658726438045,
+            -34.58823691099949
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68837201176921,
+            -34.58861280208757
+          ],
+          [
+            -58.68847209968342,
+            -34.588666344274614
+          ],
+          [
+            -58.6889639979747,
+            -34.58887026041328
+          ],
+          [
+            -58.689921626333,
+            -34.589369679669254
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3151,
+        "hasta": 3250,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.687658726438045,
+            -34.58823691099949
+          ],
+          [
+            -58.68785443303157,
+            -34.588369438844765
+          ],
+          [
+            -58.68807596138576,
+            -34.588494044339946
+          ],
+          [
+            -58.68818305019829,
+            -34.588560779522595
+          ],
+          [
+            -58.688276146017145,
+            -34.58860053431003
+          ],
+          [
+            -58.68837201176921,
+            -34.58861280208757
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.689908435044316,
+            -34.589385305528076
+          ],
+          [
+            -58.68995097302646,
+            -34.589431074508845
+          ],
+          [
+            -58.689995495068636,
+            -34.58953410113393
+          ],
+          [
+            -58.690011297352164,
+            -34.58962966531743
+          ],
+          [
+            -58.690032305105305,
+            -34.58976105765481
+          ],
+          [
+            -58.690042490311576,
+            -34.589847021534354
+          ],
+          [
+            -58.69004118027152,
+            -34.589930477905426
+          ],
+          [
+            -58.690034527373875,
+            -34.59008781456634
+          ],
+          [
+            -58.69003200835954,
+            -34.590147400761346
+          ],
+          [
+            -58.690043504998684,
+            -34.590333542330505
+          ],
+          [
+            -58.69007930344658,
+            -34.59044124525875
+          ],
+          [
+            -58.69014045214679,
+            -34.590587377580356
+          ],
+          [
+            -58.69022404289745,
+            -34.590703639046374
+          ],
+          [
+            -58.69040695374849,
+            -34.59087880584734
+          ],
+          [
+            -58.69053812569167,
+            -34.59097322225003
+          ],
+          [
+            -58.69069824388762,
+            -34.591060795934446
+          ],
+          [
+            -58.6907669204686,
+            -34.59109492012194
+          ],
+          [
+            -58.69083582045322,
+            -34.59111473848201
+          ],
+          [
+            -58.690881728496926,
+            -34.591129540127696
+          ],
+          [
+            -58.69094235323441,
+            -34.5911254205618
+          ],
+          [
+            -58.691026268072086,
+            -34.59110724263412
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3251,
+        "hasta": 3400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.691618031954484,
+            -34.59077672158985
+          ],
+          [
+            -58.69176992808561,
+            -34.59076226009349
+          ],
+          [
+            -58.69194547270621,
+            -34.590785605291195
+          ],
+          [
+            -58.692175688085044,
+            -34.590816691228355
+          ],
+          [
+            -58.69234842419576,
+            -34.59083523664956
+          ],
+          [
+            -58.69258440684247,
+            -34.59086638362589
+          ],
+          [
+            -58.69275706845458,
+            -34.59088969767
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3601,
+        "hasta": 3800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69275706845458,
+            -34.59088969767
+          ],
+          [
+            -58.69292610082149,
+            -34.590960668966765
+          ],
+          [
+            -58.69302087682062,
+            -34.59098553238202
+          ],
+          [
+            -58.69310689039009,
+            -34.591017456868904
+          ],
+          [
+            -58.6932070216337,
+            -34.59106861158701
+          ],
+          [
+            -58.69345248481667,
+            -34.59123102526469
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3801,
+        "hasta": 4000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3007] RIO SEGUNDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66125524366907,
+            -34.561948259541744
+          ],
+          [
+            -58.66218395969371,
+            -34.56282150234998
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66218395969371,
+            -34.56282150234998
+          ],
+          [
+            -58.662778890214824,
+            -34.56337687948345
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 199,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.662778890214824,
+            -34.56337687948345
+          ],
+          [
+            -58.663053513115045,
+            -34.56363324028231
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 168,
+        "hasta": 229,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.663053513115045,
+            -34.56363324028231
+          ],
+          [
+            -58.66334891106331,
+            -34.56389786991407
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 202,
+        "hasta": 249,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66334891106331,
+            -34.56389786991407
+          ],
+          [
+            -58.66392308338231,
+            -34.56444497230511
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 236,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66392308338231,
+            -34.56444497230511
+          ],
+          [
+            -58.66455645977208,
+            -34.56503778781556
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68176811276356,
+            -34.58047141403099
+          ],
+          [
+            -58.68257235005389,
+            -34.581647360397284
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68257235005389,
+            -34.581647360397284
+          ],
+          [
+            -58.68354832286252,
+            -34.581955341792465
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2550,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68354832286252,
+            -34.581955341792465
+          ],
+          [
+            -58.68423615330697,
+            -34.58217713058736
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2551,
+        "hasta": 2600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68499958172386,
+            -34.58292247770958
+          ],
+          [
+            -58.685158990759184,
+            -34.58348248531897
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2750,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.685158990759184,
+            -34.58348248531897
+          ],
+          [
+            -58.68539648138198,
+            -34.584318802167324
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2751,
+        "hasta": 2800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68539648138198,
+            -34.584318802167324
+          ],
+          [
+            -58.68626337511732,
+            -34.584981624296866
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2850,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68626337511732,
+            -34.584981624296866
+          ],
+          [
+            -58.68689338887215,
+            -34.58546161950938
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2851,
+        "hasta": 2900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68689338887215,
+            -34.58546161950938
+          ],
+          [
+            -58.68696771398871,
+            -34.5855446251422
+          ],
+          [
+            -58.68718316816287,
+            -34.58652393382472
+          ],
+          [
+            -58.68724014533175,
+            -34.58662810496689
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2901,
+        "hasta": 3000,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68724014533175,
+            -34.58662810496689
+          ],
+          [
+            -58.6878032364476,
+            -34.58720652517953
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3050,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6878032364476,
+            -34.58720652517953
+          ],
+          [
+            -58.688362019868265,
+            -34.58771278772897
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3051,
+        "hasta": 3100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.688362019868265,
+            -34.58771278772897
+          ],
+          [
+            -58.68889356721022,
+            -34.58821875511252
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3150,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68889356721022,
+            -34.58821875511252
+          ],
+          [
+            -58.68944125449532,
+            -34.58873841396892
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3151,
+        "hasta": 3200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68944125449532,
+            -34.58873841396892
+          ],
+          [
+            -58.689999704387326,
+            -34.58926719955305
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3250,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.689999704387326,
+            -34.58926719955305
+          ],
+          [
+            -58.69051513758673,
+            -34.58975946657946
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3251,
+        "hasta": 3300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69051513758673,
+            -34.58975946657946
+          ],
+          [
+            -58.6905440400619,
+            -34.589838441144266
+          ],
+          [
+            -58.69060196879507,
+            -34.58991418574755
+          ],
+          [
+            -58.690997712008894,
+            -34.590330964538616
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.690997712008894,
+            -34.590330964538616
+          ],
+          [
+            -58.69151503863623,
+            -34.59083345742322
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3501,
+        "hasta": 3600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3009] RIO TERCERO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.682363614136555,
+            -34.58002716519189
+          ],
+          [
+            -58.68324938887833,
+            -34.58087048429097
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68324938887833,
+            -34.58087048429097
+          ],
+          [
+            -58.68440361126619,
+            -34.58196907233175
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68423615330697,
+            -34.58217713058736
+          ],
+          [
+            -58.684222492034316,
+            -34.58221006681371
+          ],
+          [
+            -58.6842088537694,
+            -34.582252466667455
+          ],
+          [
+            -58.68419751634377,
+            -34.58230660450441
+          ],
+          [
+            -58.684192830462244,
+            -34.582356569555785
+          ],
+          [
+            -58.684193447127136,
+            -34.58240373266751
+          ],
+          [
+            -58.684200819037265,
+            -34.58246226987236
+          ],
+          [
+            -58.684207929789494,
+            -34.58249354171978
+          ],
+          [
+            -58.68422275308776,
+            -34.58254010177203
+          ],
+          [
+            -58.68424032974959,
+            -34.58258124008347
+          ],
+          [
+            -58.68425330728737,
+            -34.58260820989777
+          ],
+          [
+            -58.68428329562937,
+            -34.582654487280436
+          ],
+          [
+            -58.68431092200626,
+            -34.582690691727784
+          ],
+          [
+            -58.68434469122857,
+            -34.58272796651312
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2649,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68468910650253,
+            -34.58185172543427
+          ],
+          [
+            -58.684748298177496,
+            -34.58184290183752
+          ],
+          [
+            -58.68480437225585,
+            -34.58183861991716
+          ],
+          [
+            -58.684838685283935,
+            -34.581837912597116
+          ],
+          [
+            -58.68488297678115,
+            -34.58183913355282
+          ],
+          [
+            -58.68493757209558,
+            -34.58184397542892
+          ],
+          [
+            -58.68500429381422,
+            -34.58185504115062
+          ],
+          [
+            -58.685066735789476,
+            -34.58187109211388
+          ],
+          [
+            -58.685114329622515,
+            -34.581886692819296
+          ],
+          [
+            -58.68517274762429,
+            -34.581911211916605
+          ],
+          [
+            -58.685218126626694,
+            -34.581933478615106
+          ],
+          [
+            -58.68527466696403,
+            -34.581970174643025
+          ],
+          [
+            -58.6853407294151,
+            -34.58202324909399
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2602,
+        "hasta": 2650,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68434469122857,
+            -34.58272796651312
+          ],
+          [
+            -58.68437161126764,
+            -34.582753602995595
+          ],
+          [
+            -58.68440254448219,
+            -34.58277955855449
+          ],
+          [
+            -58.68443514629612,
+            -34.58280357434006
+          ],
+          [
+            -58.68446885111554,
+            -34.5828253720428
+          ],
+          [
+            -58.684507607279706,
+            -34.58284717101041
+          ],
+          [
+            -58.684556189082656,
+            -34.58287023142773
+          ],
+          [
+            -58.68460445775842,
+            -34.58288902772101
+          ],
+          [
+            -58.684645776005304,
+            -34.58290219219126
+          ],
+          [
+            -58.68469225684122,
+            -34.58291403862039
+          ],
+          [
+            -58.68475441419558,
+            -34.58292530496593
+          ],
+          [
+            -58.68480342178082,
+            -34.58293068699027
+          ],
+          [
+            -58.684859483495764,
+            -34.58293318495239
+          ],
+          [
+            -58.684913191078365,
+            -34.58293236935662
+          ],
+          [
+            -58.68499959045519,
+            -34.582922476902304
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2651,
+        "hasta": 2699,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6853407294151,
+            -34.58202324909399
+          ],
+          [
+            -58.68537893768226,
+            -34.58206176842826
+          ],
+          [
+            -58.68540104371434,
+            -34.58208770706127
+          ],
+          [
+            -58.685437655930066,
+            -34.58213913739609
+          ],
+          [
+            -58.68546314169566,
+            -34.58218465031407
+          ],
+          [
+            -58.685484475937116,
+            -34.582234273777914
+          ],
+          [
+            -58.685497803301395,
+            -34.582276491942224
+          ],
+          [
+            -58.685508703654925,
+            -34.58232964450402
+          ],
+          [
+            -58.68551347816271,
+            -34.582388954971684
+          ],
+          [
+            -58.68551186234805,
+            -34.58243564516007
+          ],
+          [
+            -58.68550409774106,
+            -34.582489395269135
+          ],
+          [
+            -58.685495179487134,
+            -34.58252567450117
+          ],
+          [
+            -58.68548109987106,
+            -34.582567348659715
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2652,
+        "hasta": 2700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.685300465425236,
+            -34.58280348261834
+          ],
+          [
+            -58.68646040235631,
+            -34.583888592671016
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68646040235631,
+            -34.583888592671016
+          ],
+          [
+            -58.68704038209491,
+            -34.58443114374853
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2850,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68704038209491,
+            -34.58443114374853
+          ],
+          [
+            -58.68760430769291,
+            -34.58495549224459
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2851,
+        "hasta": 2900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68760430769291,
+            -34.58495549224459
+          ],
+          [
+            -58.6885487453966,
+            -34.58567610009937
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2901,
+        "hasta": 3000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6885487453966,
+            -34.58567610009937
+          ],
+          [
+            -58.68917116000805,
+            -34.58625515257862
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3050,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68917116000805,
+            -34.58625515257862
+          ],
+          [
+            -58.68971778186594,
+            -34.58674487090677
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3051,
+        "hasta": 3100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68971778186594,
+            -34.58674487090677
+          ],
+          [
+            -58.69024926093884,
+            -34.587255338550754
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3150,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69024926093884,
+            -34.587255338550754
+          ],
+          [
+            -58.69078612434371,
+            -34.58777036848774
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3151,
+        "hasta": 3200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69078612434371,
+            -34.58777036848774
+          ],
+          [
+            -58.69132837226795,
+            -34.58828996064974
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3250,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69132837226795,
+            -34.58828996064974
+          ],
+          [
+            -58.69184911499338,
+            -34.588791292682366
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3251,
+        "hasta": 3400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69184911499338,
+            -34.588791292682366
+          ],
+          [
+            -58.69240040610074,
+            -34.58931511975547
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69240040610074,
+            -34.58931511975547
+          ],
+          [
+            -58.692942784955,
+            -34.58981363605843
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3501,
+        "hasta": 3600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.692942784955,
+            -34.58981363605843
+          ],
+          [
+            -58.69348279198057,
+            -34.59031083204042
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3601,
+        "hasta": 3800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69348279198057,
+            -34.59031083204042
+          ],
+          [
+            -58.6940228043334,
+            -34.59080802572636
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3801,
+        "hasta": 4000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3011] RIO SANTA CRUZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.662596580832144,
+            -34.56096800239946
+          ],
+          [
+            -58.66352892420618,
+            -34.56184023291094
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66352892420618,
+            -34.56184023291094
+          ],
+          [
+            -58.664398481130206,
+            -34.56265196145325
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.664398481130206,
+            -34.56265196145325
+          ],
+          [
+            -58.665268054899485,
+            -34.563463684085725
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.665268054899485,
+            -34.563463684085725
+          ],
+          [
+            -58.665896058890965,
+            -34.56405192720693
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66832778158662,
+            -34.56688857854534
+          ],
+          [
+            -58.66967208785135,
+            -34.568223081256384
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 1100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66967208785135,
+            -34.568223081256384
+          ],
+          [
+            -58.670770056229706,
+            -34.56931300048066
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1226,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67546157766782,
+            -34.57341181246286
+          ],
+          [
+            -58.67593982811101,
+            -34.57464008389521
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1851,
+        "hasta": 1950,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67593982811101,
+            -34.57464008389521
+          ],
+          [
+            -58.67568014508425,
+            -34.57459273907465
+          ],
+          [
+            -58.67541744528668,
+            -34.57452929782244
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1951,
+        "hasta": 2000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68292054670704,
+            -34.579609537897284
+          ],
+          [
+            -58.684281226611105,
+            -34.58039938577081
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.684281226611105,
+            -34.58039938577081
+          ],
+          [
+            -58.68452372269344,
+            -34.58126279928903
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68452372269344,
+            -34.58126279928903
+          ],
+          [
+            -58.68468910650253,
+            -34.58185172543427
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2551,
+        "hasta": 2650,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68548109987106,
+            -34.582567348659715
+          ],
+          [
+            -58.68615088239512,
+            -34.58278109411098
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2750,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68615088239512,
+            -34.58278109411098
+          ],
+          [
+            -58.687137708068214,
+            -34.58309367069782
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2751,
+        "hasta": 2800,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.687137708068214,
+            -34.58309367069782
+          ],
+          [
+            -58.68781207225699,
+            -34.58387158730273
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2850,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68781207225699,
+            -34.58387158730273
+          ],
+          [
+            -58.68830984041662,
+            -34.58444479599442
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2851,
+        "hasta": 2900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3013] CATAMARCA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67580107007995,
+            -34.57232341175421
+          ],
+          [
+            -58.67635758535464,
+            -34.57289099901072
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3015] PRIMERO DE MAYO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66391577336693,
+            -34.56000048521144
+          ],
+          [
+            -58.66484633551402,
+            -34.56087667394485
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66484633551402,
+            -34.56087667394485
+          ],
+          [
+            -58.66571044905721,
+            -34.56168833374972
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66571044905721,
+            -34.56168833374972
+          ],
+          [
+            -58.66657995425104,
+            -34.562504553239336
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66657995425104,
+            -34.562504553239336
+          ],
+          [
+            -58.66720251384514,
+            -34.56309273027123
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.670085150103944,
+            -34.565259134734546
+          ],
+          [
+            -58.67095693059359,
+            -34.56604458219111
+          ],
+          [
+            -58.67137776680755,
+            -34.56637864188931
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 1000,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67137776680755,
+            -34.56637864188931
+          ],
+          [
+            -58.67175753723135,
+            -34.56673493241334
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67175753723135,
+            -34.56673493241334
+          ],
+          [
+            -58.67281639762163,
+            -34.56772830758252
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67697371298197,
+            -34.57148705017268
+          ],
+          [
+            -58.677611256398606,
+            -34.572169980275895
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1850,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68379722104554,
+            -34.578956496371134
+          ],
+          [
+            -58.6849946545084,
+            -34.58007807897845
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6849946545084,
+            -34.58007807897845
+          ],
+          [
+            -58.68591816800268,
+            -34.58094882649557
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68591816800268,
+            -34.58094882649557
+          ],
+          [
+            -58.686304899272784,
+            -34.58130452097852
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2650,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.686304899272784,
+            -34.58130452097852
+          ],
+          [
+            -58.68669142115409,
+            -34.58167373241115
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2651,
+        "hasta": 2700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68669142115409,
+            -34.58167373241115
+          ],
+          [
+            -58.687620347231466,
+            -34.582549032301245
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.687620347231466,
+            -34.582549032301245
+          ],
+          [
+            -58.688495588966745,
+            -34.58337417343399
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2850,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.688495588966745,
+            -34.58337417343399
+          ],
+          [
+            -58.68905406872256,
+            -34.58389845680702
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2851,
+        "hasta": 2900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68905406872256,
+            -34.58389845680702
+          ],
+          [
+            -58.69021399968034,
+            -34.584988038480475
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2901,
+        "hasta": 3000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69021399968034,
+            -34.584988038480475
+          ],
+          [
+            -58.69106261571148,
+            -34.58577682126805
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69106261571148,
+            -34.58577682126805
+          ],
+          [
+            -58.69160499413227,
+            -34.58628740002089
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3150,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69160499413227,
+            -34.58628740002089
+          ],
+          [
+            -58.692142071906204,
+            -34.586788905981216
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3151,
+        "hasta": 3200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3017] JUJUY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    }
+  ]
+}

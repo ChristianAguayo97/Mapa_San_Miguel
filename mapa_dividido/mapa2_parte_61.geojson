@@ -1,0 +1,2913 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.743559360233846,
+            -34.572533209920024
+          ],
+          [
+            -58.74375100741127,
+            -34.57391878419864
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5002,
+        "hasta": 5100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74375100741127,
+            -34.57391878419864
+          ],
+          [
+            -58.74382458900025,
+            -34.574460362924256
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5101,
+        "hasta": 5199,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74382458900025,
+            -34.574460362924256
+          ],
+          [
+            -58.7438587239974,
+            -34.57472661807831
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5176,
+        "hasta": 5213,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7438587239974,
+            -34.57472661807831
+          ],
+          [
+            -58.74397182249611,
+            -34.57553901401752
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5202,
+        "hasta": 5300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74397182249611,
+            -34.57553901401752
+          ],
+          [
+            -58.74401127060511,
+            -34.57581433746255
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5301,
+        "hasta": 5324,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74401127060511,
+            -34.57581433746255
+          ],
+          [
+            -58.74404594887321,
+            -34.57604454336471
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5325,
+        "hasta": 5350,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74404594887321,
+            -34.57604454336471
+          ],
+          [
+            -58.744158576130125,
+            -34.57688848205563
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5351,
+        "hasta": 5400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.744158576130125,
+            -34.57688848205563
+          ],
+          [
+            -58.74427658562487,
+            -34.577736982780245
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5401,
+        "hasta": 5500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74427658562487,
+            -34.577736982780245
+          ],
+          [
+            -58.744310723075216,
+            -34.57800323772863
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5491,
+        "hasta": 5550,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.744310723075216,
+            -34.57800323772863
+          ],
+          [
+            -58.74439446170861,
+            -34.57859449561683
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5501,
+        "hasta": 5600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74439446170861,
+            -34.57859449561683
+          ],
+          [
+            -58.74449490512767,
+            -34.579481740813314
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5601,
+        "hasta": 5700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74449490512767,
+            -34.579481740813314
+          ],
+          [
+            -58.744624625731895,
+            -34.58025100496951
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5701,
+        "hasta": 5800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.744624625731895,
+            -34.58025100496951
+          ],
+          [
+            -58.74477463862816,
+            -34.58085182717156
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5801,
+        "hasta": 5899,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74477463862816,
+            -34.58085182717156
+          ],
+          [
+            -58.74495124542344,
+            -34.581065465094646
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5890,
+        "hasta": 5923,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74495124542344,
+            -34.581065465094646
+          ],
+          [
+            -58.74513738935481,
+            -34.581242901840845
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5902,
+        "hasta": 5949,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74513738935481,
+            -34.581242901840845
+          ],
+          [
+            -58.74552824871485,
+            -34.58162223474083
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5926,
+        "hasta": 6000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67032599744639,
+            -34.55852534598143
+          ],
+          [
+            -58.67086262641894,
+            -34.55937847029574
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67086262641894,
+            -34.55937847029574
+          ],
+          [
+            -58.67150139110331,
+            -34.55997581582715
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67150139110331,
+            -34.55997581582715
+          ],
+          [
+            -58.67213486140648,
+            -34.56056408685856
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67213486140648,
+            -34.56056408685856
+          ],
+          [
+            -58.67276826901539,
+            -34.56115686078209
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67276826901539,
+            -34.56115686078209
+          ],
+          [
+            -58.673401757139885,
+            -34.56174512553799
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.673401757139885,
+            -34.56174512553799
+          ],
+          [
+            -58.67405711307023,
+            -34.56232911779913
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67405711307023,
+            -34.56232911779913
+          ],
+          [
+            -58.67501843294761,
+            -34.56285783972535
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67924407622828,
+            -34.56676597246594
+          ],
+          [
+            -58.67968426038964,
+            -34.56718085451096
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68038064831642,
+            -34.56777843421979
+          ],
+          [
+            -58.68109779823358,
+            -34.56840396206495
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.681294081842836,
+            -34.56873958680889
+          ],
+          [
+            -58.68189535890586,
+            -34.56930492611201
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1850,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68189535890586,
+            -34.56930492611201
+          ],
+          [
+            -58.682502233612475,
+            -34.569861309307285
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1851,
+        "hasta": 1900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.682502233612475,
+            -34.569861309307285
+          ],
+          [
+            -58.683184029929386,
+            -34.57050412726732
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 1950,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.683184029929386,
+            -34.57050412726732
+          ],
+          [
+            -58.68387644752982,
+            -34.571165083250065
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1951,
+        "hasta": 2000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6836836561809,
+            -34.57129820836209
+          ],
+          [
+            -58.685036263642566,
+            -34.572592722799556
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6930524147679,
+            -34.57946157911328
+          ],
+          [
+            -58.6939600160213,
+            -34.58030956228503
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2851,
+        "hasta": 2900,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6939600160213,
+            -34.58030956228503
+          ],
+          [
+            -58.695130649208096,
+            -34.58141273294251
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2901,
+        "hasta": 3000,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70065662008098,
+            -34.58590727855838
+          ],
+          [
+            -58.70137516562016,
+            -34.58658797906608
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3601,
+        "hasta": 3700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71186765436057,
+            -34.59661047268749
+          ],
+          [
+            -58.71247683234119,
+            -34.59717585700126
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5201,
+        "hasta": 5300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71247683234119,
+            -34.59717585700126
+          ],
+          [
+            -58.71345482506798,
+            -34.598083517230876
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5401,
+        "hasta": 5500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.713577630305146,
+            -34.59825676222284
+          ],
+          [
+            -58.714891227176274,
+            -34.59883668255649
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5501,
+        "hasta": 5600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7163553871234,
+            -34.60085490062228
+          ],
+          [
+            -58.716913813008354,
+            -34.60140159190868
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5751,
+        "hasta": 5800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.716913813008354,
+            -34.60140159190868
+          ],
+          [
+            -58.717544102619115,
+            -34.601980157442114
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5801,
+        "hasta": 5900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.717544102619115,
+            -34.601980157442114
+          ],
+          [
+            -58.717972079308666,
+            -34.602362893094956
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5901,
+        "hasta": 6000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.685008767720134,
+            -34.552190072240876
+          ],
+          [
+            -58.68559368727468,
+            -34.55275071061693
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68559368727468,
+            -34.55275071061693
+          ],
+          [
+            -58.68633966564235,
+            -34.55346180463294
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.689008160206875,
+            -34.55593318934785
+          ],
+          [
+            -58.68967377015229,
+            -34.55656227736353
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68967377015229,
+            -34.55656227736353
+          ],
+          [
+            -58.690334014168506,
+            -34.557186797414374
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.690334014168506,
+            -34.557186797414374
+          ],
+          [
+            -58.69097173576911,
+            -34.55778803625712
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69097173576911,
+            -34.55778803625712
+          ],
+          [
+            -58.691649226201996,
+            -34.55842675677563
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69142910256631,
+            -34.55856861558351
+          ],
+          [
+            -58.69235719576621,
+            -34.559484432539264
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69325981769856,
+            -34.55994027397894
+          ],
+          [
+            -58.69448909381163,
+            -34.56110717406836
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6952492400776,
+            -34.561967091159794
+          ],
+          [
+            -58.69578053070751,
+            -34.5624820400009
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1951,
+        "hasta": 2000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69594590742254,
+            -34.562357615879066
+          ],
+          [
+            -58.69663892546563,
+            -34.562982452492726
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2050,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69663892546563,
+            -34.562982452492726
+          ],
+          [
+            -58.697342707276874,
+            -34.56361641375137
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2051,
+        "hasta": 2100,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72545631570754,
+            -34.59129671339589
+          ],
+          [
+            -58.725945281105815,
+            -34.591752502085455
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5601,
+        "hasta": 5650,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.725945281105815,
+            -34.591752502085455
+          ],
+          [
+            -58.726557651269204,
+            -34.59233576783758
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5651,
+        "hasta": 5700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.726557651269204,
+            -34.59233576783758
+          ],
+          [
+            -58.727197206016214,
+            -34.59292382096275
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5701,
+        "hasta": 5750,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.727197206016214,
+            -34.59292382096275
+          ],
+          [
+            -58.72774516739074,
+            -34.59344331344556
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5751,
+        "hasta": 5800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72774516739074,
+            -34.59344331344556
+          ],
+          [
+            -58.728373978229946,
+            -34.59402223482138
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5801,
+        "hasta": 5900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.728373978229946,
+            -34.59402223482138
+          ],
+          [
+            -58.72876078540158,
+            -34.59439363455654
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5901,
+        "hasta": 6000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.685008767720134,
+            -34.552190072240876
+          ],
+          [
+            -58.68559368727468,
+            -34.55275071061693
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68559368727468,
+            -34.55275071061693
+          ],
+          [
+            -58.68633966564235,
+            -34.55346180463294
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.689008160206875,
+            -34.55593318934785
+          ],
+          [
+            -58.68967377015229,
+            -34.55656227736353
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68967377015229,
+            -34.55656227736353
+          ],
+          [
+            -58.690334014168506,
+            -34.557186797414374
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.690334014168506,
+            -34.557186797414374
+          ],
+          [
+            -58.69097173576911,
+            -34.55778803625712
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69097173576911,
+            -34.55778803625712
+          ],
+          [
+            -58.691649226201996,
+            -34.55842675677563
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69142910256631,
+            -34.55856861558351
+          ],
+          [
+            -58.69235719576621,
+            -34.559484432539264
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69325981769856,
+            -34.55994027397894
+          ],
+          [
+            -58.69448909381163,
+            -34.56110717406836
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6952492400776,
+            -34.561967091159794
+          ],
+          [
+            -58.69578053070751,
+            -34.5624820400009
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1951,
+        "hasta": 2000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69594590742254,
+            -34.562357615879066
+          ],
+          [
+            -58.69663892546563,
+            -34.562982452492726
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2050,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69663892546563,
+            -34.562982452492726
+          ],
+          [
+            -58.697342707276874,
+            -34.56361641375137
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2051,
+        "hasta": 2100,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72545631570754,
+            -34.59129671339589
+          ],
+          [
+            -58.725945281105815,
+            -34.591752502085455
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5601,
+        "hasta": 5650,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.725945281105815,
+            -34.591752502085455
+          ],
+          [
+            -58.726557651269204,
+            -34.59233576783758
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5651,
+        "hasta": 5700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.726557651269204,
+            -34.59233576783758
+          ],
+          [
+            -58.727197206016214,
+            -34.59292382096275
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5701,
+        "hasta": 5750,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.727197206016214,
+            -34.59292382096275
+          ],
+          [
+            -58.72774516739074,
+            -34.59344331344556
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5751,
+        "hasta": 5800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72774516739074,
+            -34.59344331344556
+          ],
+          [
+            -58.728373978229946,
+            -34.59402223482138
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5801,
+        "hasta": 5900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.728373978229946,
+            -34.59402223482138
+          ],
+          [
+            -58.72876078540158,
+            -34.59439363455654
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5901,
+        "hasta": 6000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3073] PARANA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.686547578441,
+            -34.5435166774125
+          ],
+          [
+            -58.6873742004047,
+            -34.5442888440084
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6874568884474,
+            -34.54436608407835
+          ],
+          [
+            -58.688194490491504,
+            -34.54506215661075
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 199,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.688194490491504,
+            -34.54506215661075
+          ],
+          [
+            -58.68837542767659,
+            -34.54522718741441
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 190,
+        "hasta": 217,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68837542767659,
+            -34.54522718741441
+          ],
+          [
+            -58.689012885876984,
+            -34.54582179405833
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 202,
+        "hasta": 299,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.689012885876984,
+            -34.54582179405833
+          ],
+          [
+            -58.689347051221674,
+            -34.54613448097823
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 280,
+        "hasta": 349,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.689347051221674,
+            -34.54613448097823
+          ],
+          [
+            -58.68973057461836,
+            -34.546492668578274
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 302,
+        "hasta": 399,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68973057461836,
+            -34.546492668578274
+          ],
+          [
+            -58.69027655150483,
+            -34.547002569833715
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 352,
+        "hasta": 499,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69027655150483,
+            -34.547002569833715
+          ],
+          [
+            -58.6908241014807,
+            -34.54751393314818
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 402,
+        "hasta": 599,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6908241014807,
+            -34.54751393314818
+          ],
+          [
+            -58.6913657668876,
+            -34.54801979212665
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 452,
+        "hasta": 691,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6913657668876,
+            -34.54801979212665
+          ],
+          [
+            -58.69146657321366,
+            -34.54811393325383
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 502,
+        "hasta": 699,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69146657321366,
+            -34.54811393325383
+          ],
+          [
+            -58.69241930325008,
+            -34.54898650316622
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 510,
+        "hasta": 799,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69241930325008,
+            -34.54898650316622
+          ],
+          [
+            -58.693050403656166,
+            -34.5495697097214
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 602,
+        "hasta": 899,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.693050403656166,
+            -34.5495697097214
+          ],
+          [
+            -58.69350784237674,
+            -34.550000870015126
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 702,
+        "hasta": 999,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69350784237674,
+            -34.550000870015126
+          ],
+          [
+            -58.69447931417713,
+            -34.55091161544135
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 802,
+        "hasta": 1099,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69447931417713,
+            -34.55091161544135
+          ],
+          [
+            -58.69510755931872,
+            -34.55150523323314
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 902,
+        "hasta": 1199,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69510755931872,
+            -34.55150523323314
+          ],
+          [
+            -58.69537055358662,
+            -34.55175591968813
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 962,
+        "hasta": 1249,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69537055358662,
+            -34.55175591968813
+          ],
+          [
+            -58.6958161190627,
+            -34.552175308847495
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1002,
+        "hasta": 1299,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6958161190627,
+            -34.552175308847495
+          ],
+          [
+            -58.6961397985498,
+            -34.552479431360766
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1052,
+        "hasta": 1349,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6961397985498,
+            -34.552479431360766
+          ],
+          [
+            -58.69637383941164,
+            -34.55269932856094
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1102,
+        "hasta": 1399,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69637383941164,
+            -34.55269932856094
+          ],
+          [
+            -58.69697571347382,
+            -34.5532648238019
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1132,
+        "hasta": 1499,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69697571347382,
+            -34.5532648238019
+          ],
+          [
+            -58.697765366295684,
+            -34.5539763152859
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1202,
+        "hasta": 1599,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.697765366295684,
+            -34.5539763152859
+          ],
+          [
+            -58.69831247141624,
+            -34.55452296982815
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1302,
+        "hasta": 1699,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69831247141624,
+            -34.55452296982815
+          ],
+          [
+            -58.69906581675717,
+            -34.555232995056066
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1402,
+        "hasta": 1799,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.699386179657324,
+            -34.55553493030162
+          ],
+          [
+            -58.69992108081383,
+            -34.55602455620555
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1502,
+        "hasta": 1823,
+        "pavimento": "Hormigon sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69992108081383,
+            -34.55602455620555
+          ],
+          [
+            -58.700117897946974,
+            -34.55620779425756
+          ],
+          [
+            -58.70031330513466,
+            -34.55640041282422
+          ],
+          [
+            -58.700582232830925,
+            -34.55665811534979
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1602,
+        "hasta": 1900,
+        "pavimento": "Hormigon sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.700582232830925,
+            -34.55665811534979
+          ],
+          [
+            -58.70132916426354,
+            -34.557359105282416
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 1950,
+        "pavimento": "Hormigon sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70132916426354,
+            -34.557359105282416
+          ],
+          [
+            -58.70196868781627,
+            -34.5579600516712
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1951,
+        "hasta": 2000,
+        "pavimento": "Hormigon sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4091] PARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    }
+  ]
+}

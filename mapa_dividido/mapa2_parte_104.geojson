@@ -1,0 +1,2961 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.685289526910864,
+            -34.54715446613322
+          ],
+          [
+            -58.686071832181696,
+            -34.547854298309645
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.686071832181696,
+            -34.547854298309645
+          ],
+          [
+            -58.68686648270518,
+            -34.54859396978827
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68679667019882,
+            -34.548644419122425
+          ],
+          [
+            -58.686797120002055,
+            -34.54864484219421
+          ],
+          [
+            -58.68734416356842,
+            -34.54915957841414
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68734416356842,
+            -34.54915957841414
+          ],
+          [
+            -58.68788628835481,
+            -34.549670170762845
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68788628835481,
+            -34.549670170762845
+          ],
+          [
+            -58.68852510582051,
+            -34.55026742920929
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 575,
+        "hasta": 700,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68852510582051,
+            -34.55026742920929
+          ],
+          [
+            -58.68873446339369,
+            -34.550463471606705
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 675,
+        "hasta": 724,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68873446339369,
+            -34.550463471606705
+          ],
+          [
+            -58.68946446420278,
+            -34.55115184109894
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68946446420278,
+            -34.55115184109894
+          ],
+          [
+            -58.68966859196842,
+            -34.551334305298205
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 775,
+        "hasta": 824,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68966859196842,
+            -34.551334305298205
+          ],
+          [
+            -58.69007098019656,
+            -34.55172621069037
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69007098019656,
+            -34.55172621069037
+          ],
+          [
+            -58.69016781100732,
+            -34.551803865706496
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 893,
+        "hasta": 906,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69016781100732,
+            -34.551803865706496
+          ],
+          [
+            -58.69072602638975,
+            -34.55233264558792
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69072602638975,
+            -34.55233264558792
+          ],
+          [
+            -58.691268121715225,
+            -34.55284772966415
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.691268121715225,
+            -34.55284772966415
+          ],
+          [
+            -58.69176988174949,
+            -34.55332118853722
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1170,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69176988174949,
+            -34.55332118853722
+          ],
+          [
+            -58.69213772303392,
+            -34.55366827788841
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1171,
+        "hasta": 1200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69213772303392,
+            -34.55366827788841
+          ],
+          [
+            -58.692803410121115,
+            -34.55429284311842
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.692803410121115,
+            -34.55429284311842
+          ],
+          [
+            -58.693442297837606,
+            -34.55489007698775
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.693442297837606,
+            -34.55489007698775
+          ],
+          [
+            -58.69400593042566,
+            -34.55542340691081
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69400593042566,
+            -34.55542340691081
+          ],
+          [
+            -58.69477902648551,
+            -34.55614826077062
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69477902648551,
+            -34.55614826077062
+          ],
+          [
+            -58.69540063353164,
+            -34.5567378914597
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69540063353164,
+            -34.5567378914597
+          ],
+          [
+            -58.696110667662026,
+            -34.557407714328626
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69638404628614,
+            -34.557670691497535
+          ],
+          [
+            -58.69704339070501,
+            -34.55829165721432
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1850,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69704339070501,
+            -34.55829165721432
+          ],
+          [
+            -58.697613475215114,
+            -34.558828548619914
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1851,
+        "hasta": 1900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.697613475215114,
+            -34.558828548619914
+          ],
+          [
+            -58.69831702003006,
+            -34.55947602228935
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 1950,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69831702003006,
+            -34.55947602228935
+          ],
+          [
+            -58.69899864834669,
+            -34.560132272031595
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1951,
+        "hasta": 2000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69899864834669,
+            -34.560132272031595
+          ],
+          [
+            -58.70036242768599,
+            -34.56141321805413
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70036242768599,
+            -34.56141321805413
+          ],
+          [
+            -58.70104429795448,
+            -34.56205593864575
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2101,
+        "hasta": 2150,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70104429795448,
+            -34.56205593864575
+          ],
+          [
+            -58.70172617867979,
+            -34.562698655597835
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2151,
+        "hasta": 2200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70172617867979,
+            -34.562698655597835
+          ],
+          [
+            -58.70270338472053,
+            -34.5636194243436
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70270338472053,
+            -34.5636194243436
+          ],
+          [
+            -58.70312230381749,
+            -34.564006956244505
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2301,
+        "hasta": 2350,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70312230381749,
+            -34.564006956244505
+          ],
+          [
+            -58.703669927912685,
+            -34.5645265516628
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2351,
+        "hasta": 2400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70648137281776,
+            -34.566460116974625
+          ],
+          [
+            -58.70728757327212,
+            -34.5672282748331
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.709984017733795,
+            -34.570528939485946
+          ],
+          [
+            -58.710870328254366,
+            -34.57134953290489
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3100,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.710870328254366,
+            -34.57134953290489
+          ],
+          [
+            -58.71169756707708,
+            -34.57211541454164
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71169756707708,
+            -34.57211541454164
+          ],
+          [
+            -58.71282013361849,
+            -34.57316382894245
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3400,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71282013361849,
+            -34.57316382894245
+          ],
+          [
+            -58.71348470596467,
+            -34.57378620181085
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71348470596467,
+            -34.57378620181085
+          ],
+          [
+            -58.714327932484736,
+            -34.57460300110566
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3501,
+        "hasta": 3600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.714327932484736,
+            -34.57460300110566
+          ],
+          [
+            -58.71495484910526,
+            -34.575177202451336
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3601,
+        "hasta": 3700,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71495484910526,
+            -34.575177202451336
+          ],
+          [
+            -58.715880890472214,
+            -34.576054934626505
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3701,
+        "hasta": 3800,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72352340203664,
+            -34.58292638610456
+          ],
+          [
+            -58.724418976314745,
+            -34.58375352790807
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4701,
+        "hasta": 4800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.724618333891755,
+            -34.583916590056425
+          ],
+          [
+            -58.72543297105561,
+            -34.58467617576496
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4801,
+        "hasta": 4900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.727833466238415,
+            -34.58693638114338
+          ],
+          [
+            -58.72833876594181,
+            -34.58739233069487
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5451,
+        "hasta": 5500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72833876594181,
+            -34.58739233069487
+          ],
+          [
+            -58.729268749736676,
+            -34.58823127490164
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5501,
+        "hasta": 5600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.729114403277116,
+            -34.58834684491357
+          ],
+          [
+            -58.730371704348734,
+            -34.589522694569716
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5601,
+        "hasta": 5700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.730371704348734,
+            -34.589522694569716
+          ],
+          [
+            -58.73102726943883,
+            -34.590133428645366
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5701,
+        "hasta": 5750,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73102726943883,
+            -34.590133428645366
+          ],
+          [
+            -58.731605329404005,
+            -34.590683099146425
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5751,
+        "hasta": 5800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.731605329404005,
+            -34.590683099146425
+          ],
+          [
+            -58.73208355926972,
+            -34.59112666741636
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5801,
+        "hasta": 5900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73208355926972,
+            -34.59112666741636
+          ],
+          [
+            -58.73257162833635,
+            -34.59157808688061
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5901,
+        "hasta": 6000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3083] CORRIENTES",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70109561579998,
+            -34.560857668854126
+          ],
+          [
+            -58.701739919691676,
+            -34.561463931255034
+          ],
+          [
+            -58.70178817108431,
+            -34.56151401953845
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2101,
+        "hasta": 2150,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3085] Don QUIJOTE",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70178817108431,
+            -34.56151401953845
+          ],
+          [
+            -58.702432555020735,
+            -34.562115772363484
+          ],
+          [
+            -58.70249212092687,
+            -34.562138939686506
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2151,
+        "hasta": 2200,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3085] Don QUIJOTE",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70249212092687,
+            -34.562138939686506
+          ],
+          [
+            -58.702578711408144,
+            -34.56217591471159
+          ],
+          [
+            -58.703217869038994,
+            -34.562764087422124
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3085] Don QUIJOTE",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71207773116681,
+            -34.57148847117011
+          ],
+          [
+            -58.7134097654133,
+            -34.57273288401731
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3085] Don QUIJOTE",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7134097654133,
+            -34.57273288401731
+          ],
+          [
+            -58.71407585927251,
+            -34.5733546748567
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3085] Don QUIJOTE",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72413804796422,
+            -34.582470737148235
+          ],
+          [
+            -58.72498901084038,
+            -34.58324673905564
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4701,
+        "hasta": 4800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3085] Don QUIJOTE",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72529493534457,
+            -34.58351227023871
+          ],
+          [
+            -58.7260453058516,
+            -34.58423182968206
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4801,
+        "hasta": 4900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3085] Don QUIJOTE",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72954790206112,
+            -34.58731320632233
+          ],
+          [
+            -58.72908196403642,
+            -34.586850376923614
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 5501,
+        "hasta": 5550,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3085] Don QUIJOTE",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72954790206112,
+            -34.58731320632233
+          ],
+          [
+            -58.729966771019484,
+            -34.587712819866766
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5551,
+        "hasta": 5600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3085] Don QUIJOTE",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.730161647938296,
+            -34.587569053077544
+          ],
+          [
+            -58.73142433294495,
+            -34.588749454915344
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5601,
+        "hasta": 5700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3085] Don QUIJOTE",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73142433294495,
+            -34.588749454915344
+          ],
+          [
+            -58.73261724601129,
+            -34.589861516795274
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5701,
+        "hasta": 5800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3085] Don QUIJOTE",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.733332357044596,
+            -34.590499898105136
+          ],
+          [
+            -58.73261724601129,
+            -34.589861516795274
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 5801,
+        "hasta": 5950,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3085] Don QUIJOTE",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.733332357044596,
+            -34.590499898105136
+          ],
+          [
+            -58.73364555104948,
+            -34.59078458946014
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5951,
+        "hasta": 6000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3085] Don QUIJOTE",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.684972957743454,
+            -34.54465899040716
+          ],
+          [
+            -58.68580091989692,
+            -34.54546089814081
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.685608050482564,
+            -34.54560304039148
+          ],
+          [
+            -58.686413163194466,
+            -34.54635983888091
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.686413163194466,
+            -34.54635983888091
+          ],
+          [
+            -58.68722366554944,
+            -34.547121196926156
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68722366554944,
+            -34.547121196926156
+          ],
+          [
+            -58.68794832086851,
+            -34.54780050421167
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68816870411978,
+            -34.5476406266543
+          ],
+          [
+            -58.68871627047553,
+            -34.54815127384874
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68871627047553,
+            -34.54815127384874
+          ],
+          [
+            -58.68926384350126,
+            -34.54866191869738
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68926384350126,
+            -34.54866191869738
+          ],
+          [
+            -58.689902663583915,
+            -34.549259170079054
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.689902663583915,
+            -34.549259170079054
+          ],
+          [
+            -58.69084209650281,
+            -34.550139065512305
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69084209650281,
+            -34.550139065512305
+          ],
+          [
+            -58.691464882904604,
+            -34.550718109595884
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69320699367146,
+            -34.55286849986954
+          ],
+          [
+            -58.69389949177051,
+            -34.55352038718209
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69389949177051,
+            -34.55352038718209
+          ],
+          [
+            -58.69450067967962,
+            -34.55409017127969
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69450067967962,
+            -34.55409017127969
+          ],
+          [
+            -58.69508581805007,
+            -34.55464175359283
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69508581805007,
+            -34.55464175359283
+          ],
+          [
+            -58.69585347025554,
+            -34.55536654256577
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69585347025554,
+            -34.55536654256577
+          ],
+          [
+            -58.69696525658314,
+            -34.55641520533596
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1800,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.697579443344125,
+            -34.556818140704685
+          ],
+          [
+            -58.69822027787546,
+            -34.55741474788537
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1850,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69822027787546,
+            -34.55741474788537
+          ],
+          [
+            -58.69880371116854,
+            -34.5579579036579
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1851,
+        "hasta": 1900,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69917312446076,
+            -34.557673403845484
+          ],
+          [
+            -58.69990851067059,
+            -34.558375289731075
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 1950,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69990851067059,
+            -34.558375289731075
+          ],
+          [
+            -58.700558023619834,
+            -34.55899513424135
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1951,
+        "hasta": 2000,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70253786833462,
+            -34.56096968970242
+          ],
+          [
+            -58.70244209176549,
+            -34.560935330118774
+          ],
+          [
+            -58.701810127498696,
+            -34.56033476853072
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2101,
+        "hasta": 2150,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70253786833462,
+            -34.56096968970242
+          ],
+          [
+            -58.70320658294628,
+            -34.56161926849225
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2151,
+        "hasta": 2200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70320658294628,
+            -34.56161926849225
+          ],
+          [
+            -58.704224650531394,
+            -34.56254258748136
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.704224650531394,
+            -34.56254258748136
+          ],
+          [
+            -58.70432752688296,
+            -34.56260091625227
+          ],
+          [
+            -58.70519077759277,
+            -34.56341598746145
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2301,
+        "hasta": 2400,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71133939033285,
+            -34.56955175568699
+          ],
+          [
+            -58.712397243972156,
+            -34.5705544223793
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.712397243972156,
+            -34.5705544223793
+          ],
+          [
+            -58.7128799233767,
+            -34.57100959243737
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3087] SAN JUAN",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.693502116722314,
+            -34.55882470761825
+          ],
+          [
+            -58.69235719576621,
+            -34.559484432539264
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 450,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3170] 20 DE JUNIO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69235719576621,
+            -34.559484432539264
+          ],
+          [
+            -58.69124212741059,
+            -34.56007188955829
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 451,
+        "hasta": 500,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3170] 20 DE JUNIO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69124212741059,
+            -34.56007188955829
+          ],
+          [
+            -58.690591328499615,
+            -34.560413942688
+          ],
+          [
+            -58.690116079373006,
+            -34.56066372514195
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3170] 20 DE JUNIO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68544950828972,
+            -34.56388673227038
+          ],
+          [
+            -58.683751620537485,
+            -34.564779328394415
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3170] 20 DE JUNIO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68396841949975,
+            -34.564982730368726
+          ],
+          [
+            -58.6824252654838,
+            -34.56610630568396
+          ],
+          [
+            -58.682063054330975,
+            -34.56627365396388
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3170] 20 DE JUNIO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.682063054330975,
+            -34.56627365396388
+          ],
+          [
+            -58.68172843300705,
+            -34.566418765082325
+          ],
+          [
+            -58.680879540755114,
+            -34.567045053805046
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3170] 20 DE JUNIO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.680879540755114,
+            -34.567045053805046
+          ],
+          [
+            -58.68074172451694,
+            -34.56714722088174
+          ],
+          [
+            -58.68061911058802,
+            -34.56732166108107
+          ],
+          [
+            -58.68052216601005,
+            -34.567595528450376
+          ],
+          [
+            -58.68038064831642,
+            -34.56777843421979
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1250,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3170] 20 DE JUNIO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68038064831642,
+            -34.56777843421979
+          ],
+          [
+            -58.67960603360912,
+            -34.56833825801828
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1251,
+        "hasta": 1300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3170] 20 DE JUNIO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67960603360912,
+            -34.56833825801828
+          ],
+          [
+            -58.67810117576072,
+            -34.56944416366562
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3170] 20 DE JUNIO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.65558149739463,
+            -34.56622319598325
+          ],
+          [
+            -58.656105594848384,
+            -34.565732520896596
+          ],
+          [
+            -58.65640011415271,
+            -34.56548869274584
+          ],
+          [
+            -58.65721662390248,
+            -34.56489228394821
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Ruta",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[7008-1] Ruta 201",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.65721662390248,
+            -34.56489228394821
+          ],
+          [
+            -58.65855656437597,
+            -34.5639151581459
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Ruta",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[7008-1] Ruta 201",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.65855656437597,
+            -34.5639151581459
+          ],
+          [
+            -58.659902985300405,
+            -34.56293343722552
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Ruta",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[7008-1] Ruta 201",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.659902985300405,
+            -34.56293343722552
+          ],
+          [
+            -58.66125524366907,
+            -34.561948259541744
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Ruta",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[7008-1] Ruta 201",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66125524366907,
+            -34.561948259541744
+          ],
+          [
+            -58.662596580832144,
+            -34.56096800239946
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Ruta",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[7008-1] Ruta 201",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.662596580832144,
+            -34.56096800239946
+          ],
+          [
+            -58.66391577336693,
+            -34.56000048521144
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Ruta",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[7008-1] Ruta 201",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66391577336693,
+            -34.56000048521144
+          ],
+          [
+            -58.665231863717295,
+            -34.55904484342333
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Ruta",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[7008-1] Ruta 201",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    }
+  ]
+}

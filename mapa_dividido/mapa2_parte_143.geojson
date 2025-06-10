@@ -1,0 +1,2913 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76283615029009,
+            -34.561133980846286
+          ],
+          [
+            -58.76410308346828,
+            -34.56019135909114
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4270] LAS TRES MARIAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76410308346828,
+            -34.56019135909114
+          ],
+          [
+            -58.76541920946055,
+            -34.55923570064497
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4270] LAS TRES MARIAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76541920946055,
+            -34.55923570064497
+          ],
+          [
+            -58.76628387873536,
+            -34.55859996031037
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4270] LAS TRES MARIAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76628387873536,
+            -34.55859996031037
+          ],
+          [
+            -58.76714308812897,
+            -34.55796415849488
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3501,
+        "hasta": 3600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4270] LAS TRES MARIAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76714308812897,
+            -34.55796415849488
+          ],
+          [
+            -58.767985744987016,
+            -34.557341703977926
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3601,
+        "hasta": 3700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4270] LAS TRES MARIAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.767985744987016,
+            -34.557341703977926
+          ],
+          [
+            -58.76884486216609,
+            -34.55671039570327
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3701,
+        "hasta": 3800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4270] LAS TRES MARIAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76884486216609,
+            -34.55671039570327
+          ],
+          [
+            -58.76968749377354,
+            -34.556087928771674
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3801,
+        "hasta": 3900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4270] LAS TRES MARIAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76968749377354,
+            -34.556087928771674
+          ],
+          [
+            -58.77055209818346,
+            -34.55545215648977
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3901,
+        "hasta": 4000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4270] LAS TRES MARIAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.77055209818346,
+            -34.55545215648977
+          ],
+          [
+            -58.771543417864855,
+            -34.55471850180804
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4001,
+        "hasta": 4100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4270] LAS TRES MARIAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.771543417864855,
+            -34.55471850180804
+          ],
+          [
+            -58.77255104522116,
+            -34.553976793034245
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4101,
+        "hasta": 4200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4270] LAS TRES MARIAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69697571347382,
+            -34.5532648238019
+          ],
+          [
+            -58.69821552270143,
+            -34.55235415059515
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1,
+        "hasta": 176,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4166-1] Av LEON GALLARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69821552270143,
+            -34.55235415059515
+          ],
+          [
+            -58.698502026045965,
+            -34.55214538429939
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 177,
+        "hasta": 211,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4166-1] Av LEON GALLARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.698502026045965,
+            -34.55214538429939
+          ],
+          [
+            -58.6990916476639,
+            -34.55170999934247
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 202,
+        "hasta": 300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4166-1] Av LEON GALLARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6990916476639,
+            -34.55170999934247
+          ],
+          [
+            -58.699615137704,
+            -34.55132348218932
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 301,
+        "hasta": 350,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4166-1] Av LEON GALLARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.699615137704,
+            -34.55132348218932
+          ],
+          [
+            -58.69998416776451,
+            -34.55106150932956
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 351,
+        "hasta": 400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4166-1] Av LEON GALLARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69998416776451,
+            -34.55106150932956
+          ],
+          [
+            -58.700942798059565,
+            -34.55036414086649
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4166-1] Av LEON GALLARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.700942798059565,
+            -34.55036414086649
+          ],
+          [
+            -58.70187941811423,
+            -34.5496800510779
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4166-1] Av LEON GALLARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70187941811423,
+            -34.5496800510779
+          ],
+          [
+            -58.702782996950496,
+            -34.54901813694977
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4166-1] Av LEON GALLARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.702782996950496,
+            -34.54901813694977
+          ],
+          [
+            -58.7036644979602,
+            -34.54837400881627
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4166-1] Av LEON GALLARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7036644979602,
+            -34.54837400881627
+          ],
+          [
+            -58.70445228655599,
+            -34.547800989090156
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4166-1] Av LEON GALLARDO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71799616703244,
+            -34.52067590972531
+          ],
+          [
+            -58.71863352292965,
+            -34.52130160923616
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 50,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.718782174372734,
+            -34.5211950039855
+          ],
+          [
+            -58.71938331064406,
+            -34.5217646670862
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 51,
+        "hasta": 100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71938331064406,
+            -34.5217646670862
+          ],
+          [
+            -58.7199844550731,
+            -34.52233432735781
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7199844550731,
+            -34.52233432735781
+          ],
+          [
+            -58.72060704063003,
+            -34.52292674366224
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72048037259651,
+            -34.52302006082088
+          ],
+          [
+            -58.72109772892336,
+            -34.5235988992757
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72602693464809,
+            -34.527810257083324
+          ],
+          [
+            -58.726633612254425,
+            -34.528379942835095
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 950,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.726633612254425,
+            -34.528379942835095
+          ],
+          [
+            -58.72722410087365,
+            -34.528940443156095
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 951,
+        "hasta": 1000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72722410087365,
+            -34.528940443156095
+          ],
+          [
+            -58.72787685698471,
+            -34.52955535444609
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72787685698471,
+            -34.52955535444609
+          ],
+          [
+            -58.72854481867313,
+            -34.53018457578274
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73017162779754,
+            -34.531715810243455
+          ],
+          [
+            -58.730676479558284,
+            -34.532180759382555
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1451,
+        "hasta": 1500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73106993112017,
+            -34.53245075366012
+          ],
+          [
+            -58.73169287504645,
+            -34.533029597409545
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1550,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73169287504645,
+            -34.533029597409545
+          ],
+          [
+            -58.73227281323119,
+            -34.53357193662948
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1551,
+        "hasta": 1600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73227281323119,
+            -34.53357193662948
+          ],
+          [
+            -58.73285275891466,
+            -34.534114273213184
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73285275891466,
+            -34.534114273213184
+          ],
+          [
+            -58.73373878825466,
+            -34.53494371410039
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73373878825466,
+            -34.53494371410039
+          ],
+          [
+            -58.734517430430735,
+            -34.535672884718586
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73837422186062,
+            -34.5392191370609
+          ],
+          [
+            -58.73911530103512,
+            -34.53991634259389
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73911530103512,
+            -34.53991634259389
+          ],
+          [
+            -58.73987790315516,
+            -34.5406317932858
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73987790315516,
+            -34.5406317932858
+          ],
+          [
+            -58.740629762796736,
+            -34.54133811474974
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.740629762796736,
+            -34.54133811474974
+          ],
+          [
+            -58.74152663323536,
+            -34.5421811323591
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74152663323536,
+            -34.5421811323591
+          ],
+          [
+            -58.74227845285748,
+            -34.54289195026943
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74227845285748,
+            -34.54289195026943
+          ],
+          [
+            -58.74305179730678,
+            -34.5436210126765
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2901,
+        "hasta": 3000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74305179730678,
+            -34.5436210126765
+          ],
+          [
+            -58.74345084606982,
+            -34.54400554472263
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.743942845407084,
+            -34.54429209073933
+          ],
+          [
+            -58.74446574265169,
+            -34.54478963138776
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74449891264568,
+            -34.54482120776891
+          ],
+          [
+            -58.745052056351696,
+            -34.54534518417017
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3250,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.745052056351696,
+            -34.54534518417017
+          ],
+          [
+            -58.74567478690705,
+            -34.545950996616945
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 3251,
+        "hasta": 3300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74567478690705,
+            -34.545950996616945
+          ],
+          [
+            -58.746367986205705,
+            -34.5465800638616
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.746367986205705,
+            -34.5465800638616
+          ],
+          [
+            -58.74699141093422,
+            -34.54714080815984
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3450,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74699141093422,
+            -34.54714080815984
+          ],
+          [
+            -58.747550385904155,
+            -34.54767971401834
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3451,
+        "hasta": 3500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.747550385904155,
+            -34.54767971401834
+          ],
+          [
+            -58.74828405433943,
+            -34.54834546775828
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3551,
+        "hasta": 3600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74828405433943,
+            -34.54834546775828
+          ],
+          [
+            -58.74897972892682,
+            -34.54894591725142
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3601,
+        "hasta": 3650,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74897972892682,
+            -34.54894591725142
+          ],
+          [
+            -58.74955477995262,
+            -34.54946559115945
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3651,
+        "hasta": 3700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74955477995262,
+            -34.54946559115945
+          ],
+          [
+            -58.75014597456858,
+            -34.54999894826686
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3701,
+        "hasta": 3750,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75014597456858,
+            -34.54999894826686
+          ],
+          [
+            -58.75042540445944,
+            -34.55025419311995
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3751,
+        "hasta": 3800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75061963954287,
+            -34.550742922505556
+          ],
+          [
+            -58.75120970808162,
+            -34.551282843033135
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3801,
+        "hasta": 3900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75120970808162,
+            -34.551282843033135
+          ],
+          [
+            -58.75150628960408,
+            -34.55155421519399
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3802,
+        "hasta": 3899,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75150628960408,
+            -34.55155421519399
+          ],
+          [
+            -58.751752516515225,
+            -34.55178180408451
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3852,
+        "hasta": 3979,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.751752516515225,
+            -34.55178180408451
+          ],
+          [
+            -58.75188684230029,
+            -34.551905961588865
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3981,
+        "hasta": 3999,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75188684230029,
+            -34.551905961588865
+          ],
+          [
+            -58.752344477748615,
+            -34.55232895134396
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4001,
+        "hasta": 4099,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.752344477748615,
+            -34.55232895134396
+          ],
+          [
+            -58.75251931758852,
+            -34.55249475641774
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4082,
+        "hasta": 4115,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75251931758852,
+            -34.55249475641774
+          ],
+          [
+            -58.75320924116565,
+            -34.553149021886895
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4102,
+        "hasta": 4200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75305526221438,
+            -34.55324660024272
+          ],
+          [
+            -58.75408680010239,
+            -34.55420808082984
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4201,
+        "hasta": 4300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75408680010239,
+            -34.55420808082984
+          ],
+          [
+            -58.75500559535306,
+            -34.555060238310205
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4301,
+        "hasta": 4400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75500559535306,
+            -34.555060238310205
+          ],
+          [
+            -58.755935101227735,
+            -34.55592601871905
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4401,
+        "hasta": 4500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.755935101227735,
+            -34.55592601871905
+          ],
+          [
+            -58.7568377282111,
+            -34.55676898410083
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4501,
+        "hasta": 4600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7568377282111,
+            -34.55676898410083
+          ],
+          [
+            -58.75766573036941,
+            -34.55753117129065
+          ],
+          [
+            -58.75783226170203,
+            -34.557575793858526
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4601,
+        "hasta": 4700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75783226170203,
+            -34.557575793858526
+          ],
+          [
+            -58.75828506757032,
+            -34.557982540977314
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4701,
+        "hasta": 4800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.758763602093865,
+            -34.558406546146934
+          ],
+          [
+            -58.75932243826831,
+            -34.558926009812154
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4801,
+        "hasta": 4900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75932243826831,
+            -34.558926009812154
+          ],
+          [
+            -58.759881281371875,
+            -34.55944547102484
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 4901,
+        "hasta": 5000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.759881281371875,
+            -34.55944547102484
+          ],
+          [
+            -58.760408090832044,
+            -34.559935148453796
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5001,
+        "hasta": 5100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76044013140476,
+            -34.559964929784854
+          ],
+          [
+            -58.76097746803674,
+            -34.5604661401973
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5101,
+        "hasta": 5200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76097746803674,
+            -34.5604661401973
+          ],
+          [
+            -58.761101378034,
+            -34.560507414308425
+          ],
+          [
+            -58.761562642589816,
+            -34.56089486928904
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "No Oficial",
+        "desde": 5201,
+        "hasta": 5250,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76391692652155,
+            -34.563200060503306
+          ],
+          [
+            -58.764513556651394,
+            -34.56374692463535
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5701,
+        "hasta": 5800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.764513556651394,
+            -34.56374692463535
+          ],
+          [
+            -58.765083425052055,
+            -34.56426196708937
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5801,
+        "hasta": 5900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.765083425052055,
+            -34.56426196708937
+          ],
+          [
+            -58.7656479198518,
+            -34.564772445713956
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5901,
+        "hasta": 6000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7656479198518,
+            -34.564772445713956
+          ],
+          [
+            -58.76661223251326,
+            -34.565649345047014
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 6001,
+        "hasta": 6100,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4187] LETONIA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70570041281953,
+            -34.56146542879371
+          ],
+          [
+            -58.70645521470934,
+            -34.56091908981009
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70645521470934,
+            -34.56091908981009
+          ],
+          [
+            -58.7071763328729,
+            -34.56038975677342
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7071763328729,
+            -34.56038975677342
+          ],
+          [
+            -58.70788616920195,
+            -34.55983860942039
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70788616920195,
+            -34.55983860942039
+          ],
+          [
+            -58.70868192181211,
+            -34.55924809723507
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70868192181211,
+            -34.55924809723507
+          ],
+          [
+            -58.70955797298129,
+            -34.55860837747119
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70955797298129,
+            -34.55860837747119
+          ],
+          [
+            -58.71062128277369,
+            -34.55783542421821
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71062128277369,
+            -34.55783542421821
+          ],
+          [
+            -58.71146965446225,
+            -34.55722243888713
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71146965446225,
+            -34.55722243888713
+          ],
+          [
+            -58.71232713874994,
+            -34.5566001513268
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71232713874994,
+            -34.5566001513268
+          ],
+          [
+            -58.71317746185222,
+            -34.5559830460278
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71317746185222,
+            -34.5559830460278
+          ],
+          [
+            -58.71424622078288,
+            -34.55520561068005
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71424622078288,
+            -34.55520561068005
+          ],
+          [
+            -58.715359016184834,
+            -34.5543970811734
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.715359016184834,
+            -34.5543970811734
+          ],
+          [
+            -58.71609162900807,
+            -34.55386847433837
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71609162900807,
+            -34.55386847433837
+          ],
+          [
+            -58.71681327069446,
+            -34.553344254474986
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1250,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71681327069446,
+            -34.553344254474986
+          ],
+          [
+            -58.71755144977749,
+            -34.552806683392696
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1251,
+        "hasta": 1300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71888051257926,
+            -34.55209954298828
+          ],
+          [
+            -58.71995482249986,
+            -34.55130859367447
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71995482249986,
+            -34.55130859367447
+          ],
+          [
+            -58.72095196912674,
+            -34.55057541516828
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72095196912674,
+            -34.55057541516828
+          ],
+          [
+            -58.72240077889651,
+            -34.549513448901344
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72240077889651,
+            -34.549513448901344
+          ],
+          [
+            -58.72381101679033,
+            -34.54847810273365
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72381101679033,
+            -34.54847810273365
+          ],
+          [
+            -58.72487420428582,
+            -34.54769600600915
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72487420428582,
+            -34.54769600600915
+          ],
+          [
+            -58.72590979874041,
+            -34.5469361460046
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 2000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72683590717731,
+            -34.546211190050045
+          ],
+          [
+            -58.727832549623535,
+            -34.54586103071017
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2101,
+        "hasta": 2150,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.727832549623535,
+            -34.54586103071017
+          ],
+          [
+            -58.72833923108009,
+            -34.54513619868784
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2151,
+        "hasta": 2200,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73271663687507,
+            -34.54201789847588
+          ],
+          [
+            -58.73408264728549,
+            -34.54100901154799
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2701,
+        "hasta": 2800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73473783273511,
+            -34.5405425821986
+          ],
+          [
+            -58.734914136140326,
+            -34.54040920314501
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2851,
+        "hasta": 2900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.734914136140326,
+            -34.54040920314501
+          ],
+          [
+            -58.736153281062705,
+            -34.539502635536074
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4194] LIBERTAD",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    }
+  ]
+}

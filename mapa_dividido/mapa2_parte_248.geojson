@@ -1,0 +1,2921 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75910987548922,
+            -34.55049600654142
+          ],
+          [
+            -58.75996440233948,
+            -34.54986668833243
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3601,
+        "hasta": 3700,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4248] PADRE USTARROZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.75996440233948,
+            -34.54986668833243
+          ],
+          [
+            -58.76080609795213,
+            -34.549246804487346
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3701,
+        "hasta": 3800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4248] PADRE USTARROZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.76080609795213,
+            -34.549246804487346
+          ],
+          [
+            -58.761647575824774,
+            -34.54862430024227
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3801,
+        "hasta": 3900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4248] PADRE USTARROZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.761647575824774,
+            -34.54862430024227
+          ],
+          [
+            -58.76249234375207,
+            -34.54799806821258
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3901,
+        "hasta": 4000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4248] PADRE USTARROZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68973057461836,
+            -34.546492668578274
+          ],
+          [
+            -58.68893440113906,
+            -34.547073431589816
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 50,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68893440113906,
+            -34.547073431589816
+          ],
+          [
+            -58.68816870411978,
+            -34.5476406266543
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 51,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68816870411978,
+            -34.5476406266543
+          ],
+          [
+            -58.68794832086851,
+            -34.54780050421167
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 95,
+        "hasta": 120,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68794832086851,
+            -34.54780050421167
+          ],
+          [
+            -58.68686648270518,
+            -34.54859396978827
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 121,
+        "hasta": 200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68679667019882,
+            -34.548644419122425
+          ],
+          [
+            -58.68563396254736,
+            -34.54949721738257
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68563396254736,
+            -34.54949721738257
+          ],
+          [
+            -58.68448778229374,
+            -34.55033666178821
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68448778229374,
+            -34.55033666178821
+          ],
+          [
+            -58.682955875480886,
+            -34.55145586409009
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.682955875480886,
+            -34.55145586409009
+          ],
+          [
+            -58.68222845641131,
+            -34.55198883280528
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 550,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68222845641131,
+            -34.55198883280528
+          ],
+          [
+            -58.68146799526618,
+            -34.55254397425496
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 551,
+        "hasta": 600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68146799526618,
+            -34.55254397425496
+          ],
+          [
+            -58.67998552272338,
+            -34.55363212409756
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67998552272338,
+            -34.55363212409756
+          ],
+          [
+            -58.67845349559251,
+            -34.554751266539
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67845349559251,
+            -34.554751266539
+          ],
+          [
+            -58.67757718378185,
+            -34.55539526497369
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 850,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67757718378185,
+            -34.55539526497369
+          ],
+          [
+            -58.67692694534083,
+            -34.55586594159805
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 851,
+        "hasta": 900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67692694534083,
+            -34.55586594159805
+          ],
+          [
+            -58.676210485385546,
+            -34.55638997829178
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 950,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.676210485385546,
+            -34.55638997829178
+          ],
+          [
+            -58.67542780130216,
+            -34.55696737381503
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 951,
+        "hasta": 1000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67551365958442,
+            -34.557049428058384
+          ],
+          [
+            -58.67433975590827,
+            -34.55790650010393
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67433975590827,
+            -34.55790650010393
+          ],
+          [
+            -58.67362326230245,
+            -34.55843052066399
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67362326230245,
+            -34.55843052066399
+          ],
+          [
+            -58.672568461497136,
+            -34.55920840003488
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.672568461497136,
+            -34.55920840003488
+          ],
+          [
+            -58.67150139110331,
+            -34.55997581582715
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67150139110331,
+            -34.55997581582715
+          ],
+          [
+            -58.67079045217255,
+            -34.56049086598941
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67079045217255,
+            -34.56049086598941
+          ],
+          [
+            -58.669589146382975,
+            -34.56135209909854
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.669589146382975,
+            -34.56135209909854
+          ],
+          [
+            -58.66851990435491,
+            -34.56212913131875
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66851990435491,
+            -34.56212913131875
+          ],
+          [
+            -58.66720251384514,
+            -34.56309273027123
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66720251384514,
+            -34.56309273027123
+          ],
+          [
+            -58.665896058890965,
+            -34.56405192720693
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.665896058890965,
+            -34.56405192720693
+          ],
+          [
+            -58.66455645977208,
+            -34.56503778781556
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 2000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66455645977208,
+            -34.56503778781556
+          ],
+          [
+            -58.66326098255396,
+            -34.5659880620113
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66326098255396,
+            -34.5659880620113
+          ],
+          [
+            -58.66185803513903,
+            -34.56701744045225
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2101,
+        "hasta": 2200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.66185803513903,
+            -34.56701744045225
+          ],
+          [
+            -58.6611021983482,
+            -34.567571633043535
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3142] PAMPA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72175180297594,
+            -34.55134544950356
+          ],
+          [
+            -58.721792753909924,
+            -34.55151713845207
+          ],
+          [
+            -58.72238658139029,
+            -34.55205693811135
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2401,
+        "hasta": 2500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72238658139029,
+            -34.55205693811135
+          ],
+          [
+            -58.723076781063455,
+            -34.55268432853569
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2501,
+        "hasta": 2600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.723076781063455,
+            -34.55268432853569
+          ],
+          [
+            -58.724162079004905,
+            -34.553669154676626
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2601,
+        "hasta": 2700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.724162079004905,
+            -34.553669154676626
+          ],
+          [
+            -58.72482304609058,
+            -34.55426195078331
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2701,
+        "hasta": 2750,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72482304609058,
+            -34.55426195078331
+          ],
+          [
+            -58.72530641990146,
+            -34.554713176848225
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2751,
+        "hasta": 2800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72530641990146,
+            -34.554713176848225
+          ],
+          [
+            -58.7254301764155,
+            -34.55481361965593
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2791,
+        "hasta": 2810,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7254301764155,
+            -34.55481361965593
+          ],
+          [
+            -58.7259514760544,
+            -34.55527875971487
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2801,
+        "hasta": 2850,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7259514760544,
+            -34.55527875971487
+          ],
+          [
+            -58.72649925869546,
+            -34.55579374917286
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2851,
+        "hasta": 2900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72649925869546,
+            -34.55579374917286
+          ],
+          [
+            -58.72704725401326,
+            -34.55629521788639
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2901,
+        "hasta": 2950,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72704725401326,
+            -34.55629521788639
+          ],
+          [
+            -58.727600702494236,
+            -34.5567967410161
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 2951,
+        "hasta": 3000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.727600702494236,
+            -34.5567967410161
+          ],
+          [
+            -58.72807987148137,
+            -34.55717334845575
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3001,
+        "hasta": 3050,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72807987148137,
+            -34.55717334845575
+          ],
+          [
+            -58.728602114379164,
+            -34.55757333891691
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3051,
+        "hasta": 3100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.728602114379164,
+            -34.55757333891691
+          ],
+          [
+            -58.729449673218525,
+            -34.558225671821894
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.729449673218525,
+            -34.558225671821894
+          ],
+          [
+            -58.73057286126793,
+            -34.559090122080605
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73057286126793,
+            -34.559090122080605
+          ],
+          [
+            -58.73104658651922,
+            -34.559457093395416
+          ],
+          [
+            -58.73143973179611,
+            -34.559761640354594
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73143973179611,
+            -34.559761640354594
+          ],
+          [
+            -58.73205870666636,
+            -34.560225661436945
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3401,
+        "hasta": 3450,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73205870666636,
+            -34.560225661436945
+          ],
+          [
+            -58.73254395331692,
+            -34.560588850078524
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3451,
+        "hasta": 3499,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73254395331692,
+            -34.560588850078524
+          ],
+          [
+            -58.732732201050965,
+            -34.56074854421895
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3476,
+        "hasta": 3511,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.732732201050965,
+            -34.56074854421895
+          ],
+          [
+            -58.73337844715578,
+            -34.5612419912115
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3502,
+        "hasta": 3600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73337844715578,
+            -34.5612419912115
+          ],
+          [
+            -58.73408931305232,
+            -34.56178568032733
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3601,
+        "hasta": 3700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73408931305232,
+            -34.56178568032733
+          ],
+          [
+            -58.73479480949101,
+            -34.562324802860005
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3701,
+        "hasta": 3800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73479480949101,
+            -34.562324802860005
+          ],
+          [
+            -58.73554329523563,
+            -34.56289582540456
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3801,
+        "hasta": 3900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73554329523563,
+            -34.56289582540456
+          ],
+          [
+            -58.736184314241825,
+            -34.563384785993335
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 3901,
+        "hasta": 4000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.736184314241825,
+            -34.563384785993335
+          ],
+          [
+            -58.736846942475275,
+            -34.56387838450016
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 4001,
+        "hasta": 4100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.736846942475275,
+            -34.56387838450016
+          ],
+          [
+            -58.73761641456043,
+            -34.56447650584946
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 4101,
+        "hasta": 4200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73761641456043,
+            -34.56447650584946
+          ],
+          [
+            -58.738844339917335,
+            -34.56545390083143
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 4201,
+        "hasta": 4300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.738844339917335,
+            -34.56545390083143
+          ],
+          [
+            -58.73984548462889,
+            -34.566261952981925
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 4301,
+        "hasta": 4400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73984548462889,
+            -34.566261952981925
+          ],
+          [
+            -58.74084671665905,
+            -34.56706549109086
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 4401,
+        "hasta": 4500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74084671665905,
+            -34.56706549109086
+          ],
+          [
+            -58.74183533679324,
+            -34.56785687403964
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 4501,
+        "hasta": 4600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74183533679324,
+            -34.56785687403964
+          ],
+          [
+            -58.74233777395315,
+            -34.56826616503715
+          ],
+          [
+            -58.742723134160364,
+            -34.56872532685431
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 4601,
+        "hasta": 4700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4141-1] Av PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.742723134160364,
+            -34.56872532685431
+          ],
+          [
+            -58.74293378127092,
+            -34.56948394748587
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 4701,
+        "hasta": 4800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74293378127092,
+            -34.56948394748587
+          ],
+          [
+            -58.743060329323576,
+            -34.569851004880306
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 4775,
+        "hasta": 4830,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.743060329323576,
+            -34.569851004880306
+          ],
+          [
+            -58.7432257656039,
+            -34.57044310546122
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 4801,
+        "hasta": 4864,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7432257656039,
+            -34.57044310546122
+          ],
+          [
+            -58.743333654175984,
+            -34.57087687364483
+          ],
+          [
+            -58.74336308480295,
+            -34.57109350530282
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 4851,
+        "hasta": 4900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74336308480295,
+            -34.57109350530282
+          ],
+          [
+            -58.743491297099325,
+            -34.571987180878025
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 4901,
+        "hasta": 4999,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.743491297099325,
+            -34.571987180878025
+          ],
+          [
+            -58.743559360233846,
+            -34.572533209920024
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 4972,
+        "hasta": 5023,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.743559360233846,
+            -34.572533209920024
+          ],
+          [
+            -58.74375100741127,
+            -34.57391878419864
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5002,
+        "hasta": 5100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74375100741127,
+            -34.57391878419864
+          ],
+          [
+            -58.74382458900025,
+            -34.574460362924256
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5101,
+        "hasta": 5199,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74382458900025,
+            -34.574460362924256
+          ],
+          [
+            -58.7438587239974,
+            -34.57472661807831
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5176,
+        "hasta": 5213,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7438587239974,
+            -34.57472661807831
+          ],
+          [
+            -58.74397182249611,
+            -34.57553901401752
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5202,
+        "hasta": 5300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74397182249611,
+            -34.57553901401752
+          ],
+          [
+            -58.74401127060511,
+            -34.57581433746255
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5301,
+        "hasta": 5324,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74401127060511,
+            -34.57581433746255
+          ],
+          [
+            -58.74404594887321,
+            -34.57604454336471
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5325,
+        "hasta": 5350,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74404594887321,
+            -34.57604454336471
+          ],
+          [
+            -58.744158576130125,
+            -34.57688848205563
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5351,
+        "hasta": 5400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.744158576130125,
+            -34.57688848205563
+          ],
+          [
+            -58.74427658562487,
+            -34.577736982780245
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5401,
+        "hasta": 5500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74427658562487,
+            -34.577736982780245
+          ],
+          [
+            -58.744310723075216,
+            -34.57800323772863
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5491,
+        "hasta": 5550,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.744310723075216,
+            -34.57800323772863
+          ],
+          [
+            -58.74439446170861,
+            -34.57859449561683
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5501,
+        "hasta": 5600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74439446170861,
+            -34.57859449561683
+          ],
+          [
+            -58.74449490512767,
+            -34.579481740813314
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5601,
+        "hasta": 5700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74449490512767,
+            -34.579481740813314
+          ],
+          [
+            -58.744624625731895,
+            -34.58025100496951
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5701,
+        "hasta": 5800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.744624625731895,
+            -34.58025100496951
+          ],
+          [
+            -58.74477463862816,
+            -34.58085182717156
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5801,
+        "hasta": 5899,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74477463862816,
+            -34.58085182717156
+          ],
+          [
+            -58.74495124542344,
+            -34.581065465094646
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5890,
+        "hasta": 5923,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74495124542344,
+            -34.581065465094646
+          ],
+          [
+            -58.74513738935481,
+            -34.581242901840845
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5902,
+        "hasta": 5949,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74513738935481,
+            -34.581242901840845
+          ],
+          [
+            -58.74552824871485,
+            -34.58162223474083
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Diagonal",
+        "desde": 5926,
+        "hasta": 6000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Mecanico",
+        "etiqueta": "[D411] Diag PAPA FRANCISCO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67032599744639,
+            -34.55852534598143
+          ],
+          [
+            -58.67086262641894,
+            -34.55937847029574
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67086262641894,
+            -34.55937847029574
+          ],
+          [
+            -58.67150139110331,
+            -34.55997581582715
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67150139110331,
+            -34.55997581582715
+          ],
+          [
+            -58.67213486140648,
+            -34.56056408685856
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67213486140648,
+            -34.56056408685856
+          ],
+          [
+            -58.67276826901539,
+            -34.56115686078209
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67276826901539,
+            -34.56115686078209
+          ],
+          [
+            -58.673401757139885,
+            -34.56174512553799
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.673401757139885,
+            -34.56174512553799
+          ],
+          [
+            -58.67405711307023,
+            -34.56232911779913
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67405711307023,
+            -34.56232911779913
+          ],
+          [
+            -58.67501843294761,
+            -34.56285783972535
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67924407622828,
+            -34.56676597246594
+          ],
+          [
+            -58.67968426038964,
+            -34.56718085451096
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68038064831642,
+            -34.56777843421979
+          ],
+          [
+            -58.68109779823358,
+            -34.56840396206495
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.681294081842836,
+            -34.56873958680889
+          ],
+          [
+            -58.68189535890586,
+            -34.56930492611201
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1850,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68189535890586,
+            -34.56930492611201
+          ],
+          [
+            -58.682502233612475,
+            -34.569861309307285
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1851,
+        "hasta": 1900,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.682502233612475,
+            -34.569861309307285
+          ],
+          [
+            -58.683184029929386,
+            -34.57050412726732
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 1950,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.683184029929386,
+            -34.57050412726732
+          ],
+          [
+            -58.68387644752982,
+            -34.571165083250065
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1951,
+        "hasta": 2000,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6836836561809,
+            -34.57129820836209
+          ],
+          [
+            -58.685036263642566,
+            -34.572592722799556
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6930524147679,
+            -34.57946157911328
+          ],
+          [
+            -58.6939600160213,
+            -34.58030956228503
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2851,
+        "hasta": 2900,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6939600160213,
+            -34.58030956228503
+          ],
+          [
+            -58.695130649208096,
+            -34.58141273294251
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2901,
+        "hasta": 3000,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3031] PARAGUAY",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    }
+  ]
+}

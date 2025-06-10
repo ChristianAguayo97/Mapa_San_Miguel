@@ -1,0 +1,3417 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73555899144401,
+            -34.579499281608996
+          ],
+          [
+            -58.73572522550514,
+            -34.579678427184405
+          ],
+          [
+            -58.73605592573681,
+            -34.580118283896354
+          ],
+          [
+            -58.736233446569535,
+            -34.58029947100745
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5101,
+        "hasta": 5200,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4113] J. J. PASO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.736233446569535,
+            -34.58029947100745
+          ],
+          [
+            -58.7362766839524,
+            -34.58039244589301
+          ],
+          [
+            -58.736829327876286,
+            -34.580891529002905
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5201,
+        "hasta": 5300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4113] J. J. PASO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.736829327876286,
+            -34.580891529002905
+          ],
+          [
+            -58.73748480740739,
+            -34.58150673490521
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5301,
+        "hasta": 5400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4113] J. J. PASO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73748480740739,
+            -34.58150673490521
+          ],
+          [
+            -58.73809739154692,
+            -34.582076425420205
+          ],
+          [
+            -58.7381025766662,
+            -34.582081273409536
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5401,
+        "hasta": 5500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4113] J. J. PASO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7381025766662,
+            -34.582081273409536
+          ],
+          [
+            -58.73877979082569,
+            -34.58271443701033
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5501,
+        "hasta": 5600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4113] J. J. PASO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73877979082569,
+            -34.58271443701033
+          ],
+          [
+            -58.73936945917319,
+            -34.58326528107373
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5601,
+        "hasta": 5700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4113] J. J. PASO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73936945917319,
+            -34.58326528107373
+          ],
+          [
+            -58.73989208306206,
+            -34.58375348628059
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5701,
+        "hasta": 5800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4113] J. J. PASO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73989208306206,
+            -34.58375348628059
+          ],
+          [
+            -58.74046375693883,
+            -34.584286797913656
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5801,
+        "hasta": 5900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4113] J. J. PASO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.74046375693883,
+            -34.584286797913656
+          ],
+          [
+            -58.74113715740113,
+            -34.58491532400057
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 5901,
+        "hasta": 6000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4113] J. J. PASO",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70152846311581,
+            -34.53271938045472
+          ],
+          [
+            -58.701414212577454,
+            -34.532687209782544
+          ],
+          [
+            -58.70135856044958,
+            -34.53266663547986
+          ],
+          [
+            -58.70128797110519,
+            -34.53264054004149
+          ],
+          [
+            -58.70108289152317,
+            -34.53255035985315
+          ],
+          [
+            -58.70093092942379,
+            -34.532458477477505
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1,
+        "hasta": 9999,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[7202] Av J. LEMOS (Ruta 202)",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70093092942379,
+            -34.532458477477505
+          ],
+          [
+            -58.70063037615303,
+            -34.53221631496412
+          ],
+          [
+            -58.700250243226506,
+            -34.531882160942786
+          ],
+          [
+            -58.699980967292866,
+            -34.53163031374828
+          ],
+          [
+            -58.69956524963689,
+            -34.531227766860084
+          ],
+          [
+            -58.69900568623319,
+            -34.53069415845784
+          ],
+          [
+            -58.698374061578996,
+            -34.53011168959026
+          ],
+          [
+            -58.69802800938494,
+            -34.5297919074135
+          ],
+          [
+            -58.6977401547796,
+            -34.5295126692658
+          ],
+          [
+            -58.69734695542111,
+            -34.529137735074876
+          ],
+          [
+            -58.69703642524802,
+            -34.52884836718538
+          ],
+          [
+            -58.69650983784791,
+            -34.52835623245718
+          ],
+          [
+            -58.69609580383829,
+            -34.527944401497756
+          ],
+          [
+            -58.6955799984105,
+            -34.52745725164926
+          ],
+          [
+            -58.69502853474925,
+            -34.52694123444378
+          ],
+          [
+            -58.69475637706943,
+            -34.52668532410403
+          ],
+          [
+            -58.69441789314026,
+            -34.52638328950189
+          ],
+          [
+            -58.69430991931941,
+            -34.52628554797851
+          ],
+          [
+            -58.69424177858835,
+            -34.52622042738783
+          ],
+          [
+            -58.69417184371427,
+            -34.52617794439611
+          ],
+          [
+            -58.69409895321039,
+            -34.52614019980567
+          ],
+          [
+            -58.69400862749616,
+            -34.526111807008306
+          ],
+          [
+            -58.69392251200231,
+            -34.526090615144135
+          ],
+          [
+            -58.69382335758669,
+            -34.5260740529048
+          ],
+          [
+            -58.69372835643468,
+            -34.526068266714255
+          ],
+          [
+            -58.693653448438305,
+            -34.526067465437066
+          ],
+          [
+            -58.693579850720354,
+            -34.52607502571223
+          ],
+          [
+            -58.69347871577144,
+            -34.52609302213894
+          ],
+          [
+            -58.69337743070188,
+            -34.52612055696763
+          ],
+          [
+            -58.693270254240595,
+            -34.52615781123274
+          ],
+          [
+            -58.69317140389655,
+            -34.52621255543464
+          ],
+          [
+            -58.693087014923705,
+            -34.52626531176319
+          ],
+          [
+            -58.69303976404966,
+            -34.526303207118076
+          ],
+          [
+            -58.692848154256126,
+            -34.52646828819871
+          ],
+          [
+            -58.69212821737587,
+            -34.52706586196096
+          ],
+          [
+            -58.69144131690552,
+            -34.52765090654501
+          ],
+          [
+            -58.690985749625916,
+            -34.52803666647336
+          ],
+          [
+            -58.69032338095176,
+            -34.528592206061056
+          ],
+          [
+            -58.6896366681548,
+            -34.52917123083445
+          ],
+          [
+            -58.68931428303629,
+            -34.52944250903019
+          ],
+          [
+            -58.689174349883146,
+            -34.5295454647932
+          ],
+          [
+            -58.68903293380978,
+            -34.529632663876704
+          ],
+          [
+            -58.688877844748454,
+            -34.52970969998518
+          ],
+          [
+            -58.68875286179278,
+            -34.52974126876423
+          ],
+          [
+            -58.68863854261112,
+            -34.529754350395
+          ],
+          [
+            -58.68852610858887,
+            -34.52975743616132
+          ],
+          [
+            -58.68838127498021,
+            -34.52974572850381
+          ],
+          [
+            -58.68830415541032,
+            -34.52972962466523
+          ],
+          [
+            -58.68821695565598,
+            -34.52970388593589
+          ],
+          [
+            -58.68813201244118,
+            -34.52967010504327
+          ],
+          [
+            -58.688024350604856,
+            -34.52961267688973
+          ],
+          [
+            -58.68788173070794,
+            -34.529525833650524
+          ],
+          [
+            -58.68775768388735,
+            -34.52944670634149
+          ],
+          [
+            -58.687474840186276,
+            -34.52922556707708
+          ],
+          [
+            -58.687342726372535,
+            -34.52912358048353
+          ],
+          [
+            -58.68666274046083,
+            -34.52858766646969
+          ],
+          [
+            -58.686306275481826,
+            -34.52830914845788
+          ],
+          [
+            -58.68574113435116,
+            -34.52787496823642
+          ],
+          [
+            -58.68534826135306,
+            -34.52757024586263
+          ],
+          [
+            -58.68518005562145,
+            -34.52745515281807
+          ],
+          [
+            -58.684824962319304,
+            -34.52721414132588
+          ],
+          [
+            -58.68458558875226,
+            -34.527051669460995
+          ],
+          [
+            -58.68394677052986,
+            -34.52662862604213
+          ],
+          [
+            -58.68325956281615,
+            -34.526168092489925
+          ],
+          [
+            -58.6828289340633,
+            -34.52588322589872
+          ],
+          [
+            -58.682177206970294,
+            -34.52545764910515
+          ],
+          [
+            -58.68177240258554,
+            -34.525180212570405
+          ],
+          [
+            -58.681082318920886,
+            -34.52472082750939
+          ],
+          [
+            -58.680346655262426,
+            -34.52422875102567
+          ],
+          [
+            -58.679522499378756,
+            -34.523684438171
+          ],
+          [
+            -58.67898064927752,
+            -34.52332800201089
+          ],
+          [
+            -58.678571468920026,
+            -34.52305527682437
+          ],
+          [
+            -58.67795269028391,
+            -34.52264434353356
+          ],
+          [
+            -58.677279745731965,
+            -34.522197047929104
+          ],
+          [
+            -58.67670518179972,
+            -34.52181520660549
+          ],
+          [
+            -58.675899686279,
+            -34.52127822600569
+          ],
+          [
+            -58.675220982865866,
+            -34.52083204929595
+          ],
+          [
+            -58.67466074745973,
+            -34.52045631556694
+          ],
+          [
+            -58.6740491333637,
+            -34.52005021057461
+          ],
+          [
+            -58.67347039102251,
+            -34.51966115383579
+          ],
+          [
+            -58.6724866838174,
+            -34.519008934101215
+          ],
+          [
+            -58.67172250232444,
+            -34.51850457226207
+          ],
+          [
+            -58.67124642888163,
+            -34.518183397703126
+          ],
+          [
+            -58.67093990807387,
+            -34.51798092609928
+          ],
+          [
+            -58.67016731217244,
+            -34.5174633455058
+          ],
+          [
+            -58.66961278823956,
+            -34.517093613697384
+          ],
+          [
+            -58.66915943578864,
+            -34.51679414287958
+          ],
+          [
+            -58.668138954353466,
+            -34.516103330344116
+          ],
+          [
+            -58.667907990243265,
+            -34.515951756918156
+          ],
+          [
+            -58.667312124327715,
+            -34.515549849302445
+          ],
+          [
+            -58.666407058079095,
+            -34.51494684821801
+          ],
+          [
+            -58.66593106353787,
+            -34.51462326909256
+          ],
+          [
+            -58.66520552746307,
+            -34.51413956093386
+          ],
+          [
+            -58.664424474750334,
+            -34.51361469708103
+          ],
+          [
+            -58.66400289508988,
+            -34.513342508416066
+          ],
+          [
+            -58.662785197780295,
+            -34.51252214300992
+          ],
+          [
+            -58.66185048291349,
+            -34.511879437588334
+          ],
+          [
+            -58.66126210247129,
+            -34.51148759529365
+          ],
+          [
+            -58.6609269379289,
+            -34.51125974320516
+          ],
+          [
+            -58.66036370055325,
+            -34.510881526945255
+          ],
+          [
+            -58.659811170072956,
+            -34.51050675976144
+          ],
+          [
+            -58.65874239151213,
+            -34.50978314493889
+          ],
+          [
+            -58.657608011612155,
+            -34.50901944809075
+          ],
+          [
+            -58.65739976880309,
+            -34.50888099794752
+          ],
+          [
+            -58.65687548610827,
+            -34.50852845933021
+          ],
+          [
+            -58.65615877415776,
+            -34.50804002523597
+          ],
+          [
+            -58.6556442606994,
+            -34.50769809612567
+          ],
+          [
+            -58.65483494693958,
+            -34.507146628357916
+          ],
+          [
+            -58.65419929434616,
+            -34.50672465902288
+          ],
+          [
+            -58.65389583365842,
+            -34.506516216459346
+          ],
+          [
+            -58.65327733836264,
+            -34.506102778127584
+          ],
+          [
+            -58.65270958800319,
+            -34.50572431510674
+          ],
+          [
+            -58.65191810952158,
+            -34.505181277035035
+          ],
+          [
+            -58.651375174408344,
+            -34.50481755320714
+          ],
+          [
+            -58.65041756482169,
+            -34.50417617909517
+          ],
+          [
+            -58.64996300890829,
+            -34.503886933733234
+          ],
+          [
+            -58.64946769061042,
+            -34.5035686113507
+          ],
+          [
+            -58.64875009487817,
+            -34.503090921248756
+          ],
+          [
+            -58.648330355776096,
+            -34.502824456691556
+          ],
+          [
+            -58.64821031201511,
+            -34.50275631725516
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Avenida",
+        "desde": 1,
+        "hasta": 9999,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[7202] Av J. LEMOS (Ruta 202)",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73176718832017,
+            -34.58639923256862
+          ],
+          [
+            -58.7312363214658,
+            -34.58677801664274
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 28,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7312363214658,
+            -34.58677801664274
+          ],
+          [
+            -58.73071274577611,
+            -34.5871646655737
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 29,
+        "hasta": 50,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73071274577611,
+            -34.5871646655737
+          ],
+          [
+            -58.730161647938296,
+            -34.587569053077544
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 51,
+        "hasta": 90,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.730161647938296,
+            -34.587569053077544
+          ],
+          [
+            -58.729966771019484,
+            -34.587712819866766
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 91,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.729966771019484,
+            -34.587712819866766
+          ],
+          [
+            -58.729643579564694,
+            -34.58795124774193
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 140,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.729643579564694,
+            -34.58795124774193
+          ],
+          [
+            -58.729268749736676,
+            -34.58823127490164
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 141,
+        "hasta": 190,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.729268749736676,
+            -34.58823127490164
+          ],
+          [
+            -58.729114403277116,
+            -34.58834684491357
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 191,
+        "hasta": 200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.729114403277116,
+            -34.58834684491357
+          ],
+          [
+            -58.728513977126966,
+            -34.588768738239054
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 250,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.728513977126966,
+            -34.588768738239054
+          ],
+          [
+            -58.72797954766624,
+            -34.58915075510198
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 251,
+        "hasta": 300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72797954766624,
+            -34.58915075510198
+          ],
+          [
+            -58.727433666151796,
+            -34.58956870469752
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 350,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.727433666151796,
+            -34.58956870469752
+          ],
+          [
+            -58.726882261670276,
+            -34.589991100956865
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 351,
+        "hasta": 400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.726882261670276,
+            -34.589991100956865
+          ],
+          [
+            -58.72595627485528,
+            -34.59067548654099
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72595627485528,
+            -34.59067548654099
+          ],
+          [
+            -58.725068827926656,
+            -34.59133322662138
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 550,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.725068827926656,
+            -34.59133322662138
+          ],
+          [
+            -58.724457048955735,
+            -34.591782021586965
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 551,
+        "hasta": 600,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.724457048955735,
+            -34.591782021586965
+          ],
+          [
+            -58.72353695392752,
+            -34.592434902007156
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72353695392752,
+            -34.592434902007156
+          ],
+          [
+            -58.72262181064259,
+            -34.59311937481855
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 651,
+        "hasta": 750,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72262181064259,
+            -34.59311937481855
+          ],
+          [
+            -58.72197117238961,
+            -34.59361281822628
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 751,
+        "hasta": 799,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72197117238961,
+            -34.59361281822628
+          ],
+          [
+            -58.72170672141481,
+            -34.593799334264155
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 786,
+        "hasta": 819,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72170672141481,
+            -34.593799334264155
+          ],
+          [
+            -58.72078609918218,
+            -34.59448373540358
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72078609918218,
+            -34.59448373540358
+          ],
+          [
+            -58.7200418374112,
+            -34.595039281951074
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 950,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7200418374112,
+            -34.595039281951074
+          ],
+          [
+            -58.719413449579385,
+            -34.595501396930175
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 951,
+        "hasta": 1000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.719413449579385,
+            -34.595501396930175
+          ],
+          [
+            -58.71878363630067,
+            -34.59596644555112
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71878363630067,
+            -34.59596644555112
+          ],
+          [
+            -58.71803531741066,
+            -34.596518984848025
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71803531741066,
+            -34.596518984848025
+          ],
+          [
+            -58.71704032662122,
+            -34.597251046945885
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71704032662122,
+            -34.597251046945885
+          ],
+          [
+            -58.71626581838639,
+            -34.59782087526775
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71626581838639,
+            -34.59782087526775
+          ],
+          [
+            -58.714891227176274,
+            -34.59883668255649
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.714891227176274,
+            -34.59883668255649
+          ],
+          [
+            -58.71348399987061,
+            -34.59986973955586
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3274] Brg J. M. DE ROSAS",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69027655150483,
+            -34.547002569833715
+          ],
+          [
+            -58.68871627047553,
+            -34.54815127384874
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68871627047553,
+            -34.54815127384874
+          ],
+          [
+            -58.68734416356842,
+            -34.54915957841414
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68734416356842,
+            -34.54915957841414
+          ],
+          [
+            -58.68723604755442,
+            -34.54929203427863
+          ],
+          [
+            -58.686316157796774,
+            -34.54996894608208
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.686316157796774,
+            -34.54996894608208
+          ],
+          [
+            -58.68507289840253,
+            -34.550883784271015
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68507289840253,
+            -34.550883784271015
+          ],
+          [
+            -58.68358929485403,
+            -34.55204858289361
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68358929485403,
+            -34.55204858289361
+          ],
+          [
+            -58.68214434238841,
+            -34.55317772546086
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68214434238841,
+            -34.55317772546086
+          ],
+          [
+            -58.68066186685893,
+            -34.55426588335251
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68066186685893,
+            -34.55426588335251
+          ],
+          [
+            -58.6791298365984,
+            -34.55538503411166
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6791298365984,
+            -34.55538503411166
+          ],
+          [
+            -58.67831973568025,
+            -34.55597567241926
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 850,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67614169079678,
+            -34.55763761961015
+          ],
+          [
+            -58.67496778489323,
+            -34.55849469757402
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67496778489323,
+            -34.55849469757402
+          ],
+          [
+            -58.674251289934254,
+            -34.559018721746476
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.674251289934254,
+            -34.559018721746476
+          ],
+          [
+            -58.673187567183405,
+            -34.55979585599181
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.673187567183405,
+            -34.55979585599181
+          ],
+          [
+            -58.67213486140648,
+            -34.56056408685856
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67213486140648,
+            -34.56056408685856
+          ],
+          [
+            -58.67141840270782,
+            -34.56108358738094
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.67141840270782,
+            -34.56108358738094
+          ],
+          [
+            -58.67022791635355,
+            -34.56194945124502
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[3144] J. M. ESTRADA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70132916426354,
+            -34.557359105282416
+          ],
+          [
+            -58.70138335652062,
+            -34.55727522291246
+          ],
+          [
+            -58.7020307508728,
+            -34.55679559506762
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 50,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.703502379066705,
+            -34.55566434600851
+          ],
+          [
+            -58.704317750810944,
+            -34.555073594241804
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.704317750810944,
+            -34.555073594241804
+          ],
+          [
+            -58.70520482199355,
+            -34.554425008491116
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70520482199355,
+            -34.554425008491116
+          ],
+          [
+            -58.706075331052475,
+            -34.55378976102298
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.706075331052475,
+            -34.55378976102298
+          ],
+          [
+            -58.70696230532857,
+            -34.55314566785115
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 601,
+        "hasta": 700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70696230532857,
+            -34.55314566785115
+          ],
+          [
+            -58.70781623991826,
+            -34.55252375247669
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70781623991826,
+            -34.55252375247669
+          ],
+          [
+            -58.70874731435294,
+            -34.551844057958185
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70865577272171,
+            -34.55177548710585
+          ],
+          [
+            -58.70984593336893,
+            -34.550895716436195
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70984593336893,
+            -34.550895716436195
+          ],
+          [
+            -58.71075511916417,
+            -34.550220281537555
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.710862651805165,
+            -34.550311553894076
+          ],
+          [
+            -58.712014090409035,
+            -34.5494674072029
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.712014090409035,
+            -34.5494674072029
+          ],
+          [
+            -58.71313241331775,
+            -34.548649941262326
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71313241331775,
+            -34.548649941262326
+          ],
+          [
+            -58.71423975312365,
+            -34.54783685588666
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71423975312365,
+            -34.54783685588666
+          ],
+          [
+            -58.71537464741887,
+            -34.547001515810564
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71537464741887,
+            -34.547001515810564
+          ],
+          [
+            -58.71635530431793,
+            -34.5462772144316
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1501,
+        "hasta": 1600,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71635530431793,
+            -34.5462772144316
+          ],
+          [
+            -58.7177931336679,
+            -34.54521969337348
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1601,
+        "hasta": 1700,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7177931336679,
+            -34.54521969337348
+          ],
+          [
+            -58.71923085770801,
+            -34.54416666051757
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1701,
+        "hasta": 1800,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71923085770801,
+            -34.54416666051757
+          ],
+          [
+            -58.72027748653823,
+            -34.543397950029586
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1801,
+        "hasta": 1900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72027748653823,
+            -34.543397950029586
+          ],
+          [
+            -58.72130203782178,
+            -34.54264702644303
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1901,
+        "hasta": 2000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72130203782178,
+            -34.54264702644303
+          ],
+          [
+            -58.72251392524641,
+            -34.541753834846595
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2001,
+        "hasta": 2100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72251392524641,
+            -34.541753834846595
+          ],
+          [
+            -58.72362659735931,
+            -34.54093621020749
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2101,
+        "hasta": 2200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72362659735931,
+            -34.54093621020749
+          ],
+          [
+            -58.72471167656114,
+            -34.540140821152306
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2201,
+        "hasta": 2300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.72904206128985,
+            -34.536882445027665
+          ],
+          [
+            -58.73004984494854,
+            -34.53614929830555
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2801,
+        "hasta": 2900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73004984494854,
+            -34.53614929830555
+          ],
+          [
+            -58.73065559573607,
+            -34.53570941737187
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2901,
+        "hasta": 2999,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73065559573607,
+            -34.53570941737187
+          ],
+          [
+            -58.73110165136569,
+            -34.53538505240161
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 2952,
+        "hasta": 3049,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.731476164103256,
+            -34.53510951804759
+          ],
+          [
+            -58.73215895210614,
+            -34.5346163473
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3001,
+        "hasta": 3100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73110165136569,
+            -34.53538505240161
+          ],
+          [
+            -58.731476164103256,
+            -34.53510951804759
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3002,
+        "hasta": 3099,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73215895210614,
+            -34.5346163473
+          ],
+          [
+            -58.73285275891466,
+            -34.534114273213184
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3101,
+        "hasta": 3200,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.73285275891466,
+            -34.534114273213184
+          ],
+          [
+            -58.733552139005745,
+            -34.533603239115
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3201,
+        "hasta": 3300,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.733552139005745,
+            -34.533603239115
+          ],
+          [
+            -58.734179837972086,
+            -34.53315004711224
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3301,
+        "hasta": 3400,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.734179837972086,
+            -34.53315004711224
+          ],
+          [
+            -58.7347855454542,
+            -34.53271014452045
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3401,
+        "hasta": 3450,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7347855454542,
+            -34.53271014452045
+          ],
+          [
+            -58.735407016842466,
+            -34.532259283624406
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 3451,
+        "hasta": 3500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4180] J. M. PAZ",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6874568884474,
+            -34.54436608407835
+          ],
+          [
+            -58.68827296688697,
+            -34.54378817702172
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1,
+        "hasta": 100,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68827296688697,
+            -34.54378817702172
+          ],
+          [
+            -58.6890440289601,
+            -34.54322882864633
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 101,
+        "hasta": 200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6890440289601,
+            -34.54322882864633
+          ],
+          [
+            -58.68982104442964,
+            -34.54265128103141
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 201,
+        "hasta": 300,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.68982104442964,
+            -34.54265128103141
+          ],
+          [
+            -58.69058150076996,
+            -34.54208707120017
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 301,
+        "hasta": 400,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69058150076996,
+            -34.54208707120017
+          ],
+          [
+            -58.691060909035954,
+            -34.54173166499179
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 401,
+        "hasta": 500,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.691060909035954,
+            -34.54173166499179
+          ],
+          [
+            -58.69144857676228,
+            -34.54144961027915
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 501,
+        "hasta": 550,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69249737816957,
+            -34.54063585912426
+          ],
+          [
+            -58.693270984053726,
+            -34.540065274774875
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 602,
+        "hasta": 700,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.693270984053726,
+            -34.540065274774875
+          ],
+          [
+            -58.694130748187824,
+            -34.53941647489128
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 701,
+        "hasta": 800,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.694130748187824,
+            -34.53941647489128
+          ],
+          [
+            -58.694918795003744,
+            -34.538825491092936
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 801,
+        "hasta": 900,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.694918795003744,
+            -34.538825491092936
+          ],
+          [
+            -58.695679252621154,
+            -34.538256741503666
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 901,
+        "hasta": 1000,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.695679252621154,
+            -34.538256741503666
+          ],
+          [
+            -58.69652236272149,
+            -34.53762577360134
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1001,
+        "hasta": 1050,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.69652236272149,
+            -34.53762577360134
+          ],
+          [
+            -58.6972993449375,
+            -34.537043669427526
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1051,
+        "hasta": 1100,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6972993449375,
+            -34.537043669427526
+          ],
+          [
+            -58.698070800989484,
+            -34.53646600804513
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1101,
+        "hasta": 1200,
+        "pavimento": "Concreto asfatico con Cordon",
+        "barrido": "Barrido por Panizza",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.698070800989484,
+            -34.53646600804513
+          ],
+          [
+            -58.699211419364836,
+            -34.53561285055011
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1201,
+        "hasta": 1300,
+        "pavimento": "Concreto asfatico sin Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.699211419364836,
+            -34.53561285055011
+          ],
+          [
+            -58.699465307610794,
+            -34.53541988310909
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1301,
+        "hasta": 1350,
+        "pavimento": "Tierra",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.70009880777597,
+            -34.53493275343547
+          ],
+          [
+            -58.70071573245901,
+            -34.534484128035196
+          ]
+        ]
+      },
+      "properties": {
+        "tipo": "Calle",
+        "desde": 1401,
+        "hasta": 1460,
+        "pavimento": "Hormigon con Cordon",
+        "barrido": "No tiene barrido",
+        "etiqueta": "[4136] J. M. ROSA",
+        "stroke": "#215158",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "category": "",
+        "description": ""
+      }
+    }
+  ]
+}

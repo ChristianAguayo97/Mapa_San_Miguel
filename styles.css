@@ -1,0 +1,238 @@
+/* Reset y estilos base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: linear-gradient(135deg, #f0f9ff 0%, #ffffff 50%, #f0fdf4 100%);
+    min-height: 100vh;
+}
+
+/* Header */
+.header {
+    background: rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid #e0f2fe;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.contenido-encabezado {
+    padding: 12px 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-encabezado {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.icono-logzo {
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(135deg, #3b82f6, #10b981);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.texto-encabezado h1 {
+    font-size: 20px;
+    font-weight: 700;
+    background: linear-gradient(90deg, #1e40af, #059669);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.texto-encabezado p {
+    font-size: 14px;
+    color: #6b7280;
+}
+
+/* Controles */
+.contenedor-controles {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+#direccion {
+    padding: 8px 12px;
+    border: 2px solid #e5e7eb;
+    border-radius: 6px;
+    font-size: 14px;
+    width: 300px;
+    background: white;
+    transition: border-color 0.2s ease;
+}
+
+#entradaUrlHoja:focus {
+    outline: none;
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+#entradaUrlHoja::placeholder {
+    color: #9ca3af;
+}
+
+#botonCargarHoja {
+    padding: 8px 16px;
+    background: linear-gradient(135deg, #3b82f6, #10b981);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#botonCargarHoja:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+#botonCargarHoja:active {
+    transform: translateY(0);
+}
+
+/* Contenedor principal */
+.contenedor-principal {
+    display: flex;
+    height: calc(100vh - 64px);
+}
+
+/* Barra lateral */
+.barra-lateral {
+    width: 320px;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(8px);
+    border-right: 1px solid #e0f2fe;
+    box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+}
+
+.contenido-barra-lateral {
+    padding: 16px;
+}
+
+.encabezado-barra-lateral {
+    margin-bottom: 24px;
+}
+
+.titulo-barra-lateral {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.icono-barra-lateral {
+    font-size: 20px;
+}
+
+.titulo-barra-lateral h2 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #1f2937;
+}
+
+/* Lista de ubicaciones */
+.lista-ubicaciones {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 24px;
+}
+
+.location-card {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-left: 4px solid #d1d5db;
+    border-radius: 8px;
+    padding: 12px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.location-card:hover,
+.location-card.selected {
+    border-left-color: #3b82f6;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    background: rgba(59, 130, 246, 0.05);
+    transform: translateY(-1px);
+}
+
+.location-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 8px;
+}
+
+.location-title {
+    font-size: 14px;
+    font-weight: 500;
+    color: #1f2937;
+    flex: 1;
+}
+
+.location-description {
+    font-size: 12px;
+    color: #6b7280;
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
+
+/* Mapa */
+.principal-mapa {
+    flex: 1;
+    position: relative;
+}
+
+#mapa {
+    width: 100%;
+    height: 100%;
+    border-radius: 0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .contenido-encabezado {
+        flex-direction: column;
+        gap: 12px;
+        align-items: flex-start;
+    }
+    .contenedor-controles {
+        width: 100%;
+    }
+    #entradaUrlHoja {
+        width: 100%;
+        flex: 1;
+    }
+    .contenedor-principal {
+        flex-direction: column;
+    }
+    .barra-lateral {
+        width: 100%;
+        height: 40vh;
+        border-right: none;
+        border-bottom: 1px solid #e0f2fe;
+    }
+    .principal-mapa {
+        height: 60vh;
+    }
+}

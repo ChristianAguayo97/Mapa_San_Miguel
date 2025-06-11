@@ -27,6 +27,22 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
     document.getElementById('botonCargarHoja').addEventListener('click', buscarDireccion);
+
+    // Nuevo: leer archivo GeoJSON local
+    document.getElementById('inputGeojson').addEventListener('change', function(e) {
+        const archivo = e.target.files[0];
+        if (!archivo) return;
+        const lector = new FileReader();
+        lector.onload = function(ev) {
+            try {
+                const geojson = JSON.parse(ev.target.result);
+                cargarGeoJsonDesdeObjeto(geojson);
+            } catch {
+                alert('Archivo GeoJSON inválido');
+            }
+        };
+        lector.readAsText(archivo);
+    });
 });
 
 function inicializarMapa() {
@@ -52,11 +68,11 @@ async function cargarGeoJsonDesdeArchivo(nombreArchivo) {
 
         if (capaGeojson) mapa.removeLayer(capaGeojson);
 
-        // Lee las features y guárdalas en window.features
+        
         const features = new ol.format.GeoJSON().readFeatures(geojson, {
             featureProjection: 'EPSG:3857'
         });
-        window.features = features; // <-- ESTA LÍNEA ES CLAVE
+        window.features = features; 
 
         capaGeojson = new ol.layer.Vector({
             source: new ol.source.Vector({
@@ -89,6 +105,30 @@ async function cargarGeoJsonDesdeArchivo(nombreArchivo) {
         });
     } catch (err) {
         alert('Error al leer el archivo GeoJSON');
+    }
+}
+
+// Nueva función para cargar desde objeto
+function cargarGeoJsonDesdeObjeto(geojson) {
+    if (capaGeojson) mapa.removeLayer(capaGeojson);
+
+    const features = new ol.format.GeoJSON().readFeatures(geojson, {
+        featureProjection: 'EPSG:3857'
+    });
+    window.features = features;
+
+    capaGeojson = new ol.layer.Vector({
+        source: new ol.source.Vector({
+            features: features
+        }),
+        style: estiloActual
+    });
+
+    mapa.addLayer(capaGeojson);
+
+    const extension = capaGeojson.getSource().getExtent();
+    if (!ol.extent.isEmpty(extension)) {
+        mapa.getView().fit(extension, { padding: [40, 40, 40, 40], maxZoom: 19 });
     }
 }
 
@@ -125,7 +165,7 @@ function mostrarCardPropiedades(caracteristica, evento) {
             return;
         }
         caracteristica.set(clave, valor);
-        mostrarCardPropiedades(caracteristica, evento); // Recarga la card
+        mostrarCardPropiedades(caracteristica, evento); 
     };
 }
 
@@ -169,7 +209,7 @@ function buscarDireccion() {
             } else {
                 alert('Dirección no encontrada');
             }
-            direccionInput.value = ""; // Limpiar el campo después de buscar
+            direccionInput.value = ""; 
         })
         .catch(() => {
             alert('Error al buscar la dirección');

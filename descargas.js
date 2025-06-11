@@ -1,6 +1,9 @@
 function descargarComoGeoJSON(features) {
     const format = new ol.format.GeoJSON();
-    const geojsonStr = format.writeFeatures(features);
+    const geojsonStr = format.writeFeatures(features, {
+        dataProjection: 'EPSG:4326',
+        featureProjection: 'EPSG:3857'
+    });
     const blob = new Blob([geojsonStr], { type: "application/vnd.geo+json" });
     const url = URL.createObjectURL(blob);
 

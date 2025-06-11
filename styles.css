@@ -88,7 +88,9 @@ body {
     color: #9ca3af;
 }
 
-#botonCargarHoja {
+#botonCargarHoja,
+#descargarGeoJSON,
+#descargarExcel {
     padding: 8px 16px;
     background: linear-gradient(135deg, #3b82f6, #10b981);
     color: white;
@@ -101,12 +103,16 @@ body {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-#botonCargarHoja:hover {
+#botonCargarHoja:hover,
+#descargarGeoJSON:hover,
+#descargarExcel:hover {
     transform: translateY(-1px);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
-#botonCargarHoja:active {
+#botonCargarHoja:active,
+#descargarGeoJSON:active,
+#descargarExcel:active {
     transform: translateY(0);
 }
 
@@ -118,15 +124,21 @@ body {
 
 /* Barra lateral */
 .barra-lateral {
+    display: flex;
+    flex-direction: column;
     width: 320px;
     background: rgba(255, 255, 255, 0.95);
     backdrop-filter: blur(8px);
     border-right: 1px solid #e0f2fe;
     box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
     overflow-y: auto;
+    height: 100vh;
 }
 
 .contenido-barra-lateral {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
     padding: 16px;
 }
 
@@ -152,10 +164,9 @@ body {
 
 /* Lista de ubicaciones */
 .lista-ubicaciones {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-    margin-bottom: 24px;
+    flex: 1 1 auto;
+    overflow-y: auto;
+    margin-bottom: 16px;
 }
 
 .location-card {

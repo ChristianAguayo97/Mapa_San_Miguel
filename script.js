@@ -52,11 +52,15 @@ async function cargarGeoJsonDesdeArchivo(nombreArchivo) {
 
         if (capaGeojson) mapa.removeLayer(capaGeojson);
 
+        // Lee las features y guárdalas en window.features
+        const features = new ol.format.GeoJSON().readFeatures(geojson, {
+            featureProjection: 'EPSG:3857'
+        });
+        window.features = features; // <-- ESTA LÍNEA ES CLAVE
+
         capaGeojson = new ol.layer.Vector({
             source: new ol.source.Vector({
-                features: new ol.format.GeoJSON().readFeatures(geojson, {
-                    featureProjection: 'EPSG:3857'
-                })
+                features: features
             }),
             style: estiloActual
         });
@@ -74,28 +78,7 @@ async function cargarGeoJsonDesdeArchivo(nombreArchivo) {
             mapa.forEachFeatureAtPixel(evento.pixel, function(caracteristica) {
                 const tipoGeometria = caracteristica.getGeometry().getType();
                 if (tipoGeometria === 'LineString' || tipoGeometria === 'MultiLineString') {
-                    const propiedades = { ...caracteristica.getProperties() };
-                    delete propiedades.geometry;
-                    const listaUbicaciones = document.getElementById('listaUbicaciones');
-                    if (listaUbicaciones) {
-                        listaUbicaciones.innerHTML = `
-                            <div class="location-card">
-                                <div class="location-header">
-                                    <div class="location-title">${propiedades.etiqueta || 'Tramo'}</div>
-                                </div>
-                                <div class="location-description">
-                                    <b>Tipo:</b> ${propiedades.tipo || ''}<br>
-                                    <b>Desde:</b> ${propiedades.desde || ''}<br>
-                                    <b>Hasta:</b> ${propiedades.hasta || ''}<br>
-                                    <b>Pavimento:</b> ${propiedades.pavimento || ''}<br>
-                                    <b>Barrido:</b> ${propiedades.barrido || ''}<br>
-                                    <b>Etiqueta:</b> ${propiedades.etiqueta || ''}<br>
-                                    <b>Categoria:</b> ${propiedades.category || ''}<br>
-                                    <b>Description:</b> ${propiedades.description || ''}
-                                </div>
-                            </div>
-                        `;
-                    }
+                    mostrarCardPropiedades(caracteristica, evento);
                     encontrado = true;
                 }
             });
@@ -109,13 +92,50 @@ async function cargarGeoJsonDesdeArchivo(nombreArchivo) {
     }
 }
 
+function mostrarCardPropiedades(caracteristica, evento) {
+    const propiedades = { ...caracteristica.getProperties() };
+    delete propiedades.geometry;
+    const listaUbicaciones = document.getElementById('listaUbicaciones');
+    if (!listaUbicaciones) return;
+
+    listaUbicaciones.innerHTML = `
+        <div class="location-card">
+            <div class="location-header">
+                <b>${propiedades.etiqueta || 'Tramo'}</b>
+            </div>
+            <div class="location-description">
+                ${Object.entries(propiedades).map(
+                    ([k, v]) => `<div><b>${k}:</b> ${v}</div>`
+                ).join('')}
+            </div>
+            <hr>
+            <div>
+                <input id="nueva-prop-clave" placeholder="Nombre propiedad" style="width: 45%;" />
+                <input id="nueva-prop-valor" placeholder="Valor" style="width: 45%;" />
+                <button id="agregar-propiedad">Agregar propiedad</button>
+            </div>
+        </div>
+    `;
+
+    document.getElementById('agregar-propiedad').onclick = function() {
+        const clave = document.getElementById('nueva-prop-clave').value.trim();
+        const valor = document.getElementById('nueva-prop-valor').value.trim();
+        if (!clave) {
+            alert('Ingrese un nombre de propiedad');
+            return;
+        }
+        caracteristica.set(clave, valor);
+        mostrarCardPropiedades(caracteristica, evento); // Recarga la card
+    };
+}
+
 function buscarDireccion() {
     const direccion = document.getElementById('direccion').value;
     if (!direccion) return;
 
     fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(direccion)}`)
         .then(response => response.json())
-        .then(data => {
+        .then(data => { 
             if (data && data.length > 0) {
                 const lon = parseFloat(data[0].lon);
                 const lat = parseFloat(data[0].lat);

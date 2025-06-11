@@ -27,6 +27,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 0;
 }
 
 .logo-encabezado {
@@ -66,16 +67,21 @@ body {
     display: flex;
     gap: 8px;
     align-items: center;
+    width: auto;
 }
 
-#direccion {
+#direccion,
+#entradaUrlHoja {
     padding: 8px 12px;
     border: 2px solid #e5e7eb;
     border-radius: 6px;
     font-size: 14px;
-    width: 300px;
     background: white;
     transition: border-color 0.2s ease;
+}
+
+#direccion {
+    width: 300px;
 }
 
 #entradaUrlHoja:focus {
@@ -124,21 +130,15 @@ body {
 
 /* Barra lateral */
 .barra-lateral {
-    display: flex;
-    flex-direction: column;
     width: 320px;
     background: rgba(255, 255, 255, 0.95);
     backdrop-filter: blur(8px);
     border-right: 1px solid #e0f2fe;
     box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
     overflow-y: auto;
-    height: 100vh;
 }
 
 .contenido-barra-lateral {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
     padding: 16px;
 }
 
@@ -164,9 +164,10 @@ body {
 
 /* Lista de ubicaciones */
 .lista-ubicaciones {
-    flex: 1 1 auto;
-    overflow-y: auto;
-    margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 24px;
 }
 
 .location-card {

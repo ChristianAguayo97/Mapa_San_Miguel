@@ -130,7 +130,8 @@ function mostrarCardPropiedades(caracteristica, evento) {
 }
 
 function buscarDireccion() {
-    const direccion = document.getElementById('direccion').value;
+    const direccionInput = document.getElementById('direccion');
+    const direccion = direccionInput.value;
     if (!direccion) return;
 
     fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(direccion)}`)
@@ -168,7 +169,11 @@ function buscarDireccion() {
             } else {
                 alert('Dirección no encontrada');
             }
+            direccionInput.value = ""; // Limpiar el campo después de buscar
         })
-        .catch(() => alert('Error al buscar la dirección'));
+        .catch(() => {
+            alert('Error al buscar la dirección');
+            direccionInput.value = "";
+        });
 }
 

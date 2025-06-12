@@ -1,0 +1,5717 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6940134,
+            -34.5554425
+          ],
+          [
+            -58.6960358,
+            -34.55393
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-19T03:00:00.000Z",
+        "Fecha fin": "2024-11-19T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046765",
+        "Orden de Compra": "",
+        "Calle": "Aconquija",
+        "Entrecalle 1": "Corrientes",
+        "Entrecalle 2": "Obligado",
+        "Toneladas (Tn)": 3.3,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6940134,
+            -34.5554425
+          ],
+          [
+            -58.6969824451065,
+            -34.5530527024228
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-28T03:00:00.000Z",
+        "Fecha fin": "2025-04-28T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048398",
+        "Orden de Compra": "",
+        "Calle": "Aconquija",
+        "Entrecalle 1": "Corrientes",
+        "Entrecalle 2": "Pardo",
+        "Toneladas (Tn)": 4.21,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7159623,
+            -34.5945924
+          ],
+          [
+            -58.7146021,
+            -34.5955235
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-15T03:00:00.000Z",
+        "Fecha fin": "2025-04-15T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048278",
+        "Orden de Compra": "",
+        "Calle": "Altamirano",
+        "Entrecalle 1": "Mayor Irusta",
+        "Entrecalle 2": "Pascuala Cueto",
+        "Toneladas (Tn)": 3.93,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7344529,
+            -34.5584484
+          ],
+          [
+            -58.7395019,
+            -34.5551982
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-15T03:00:00.000Z",
+        "Fecha fin": "2025-04-15T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048278",
+        "Orden de Compra": "",
+        "Calle": "Alvear",
+        "Entrecalle 1": "España",
+        "Entrecalle 2": "Pringles",
+        "Toneladas (Tn)": 3.93,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7257621,
+            -34.5655217
+          ],
+          [
+            -58.7274241886276,
+            -34.5640048500556
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-23T03:00:00.000Z",
+        "Fecha fin": "2025-04-23T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048351",
+        "Orden de Compra": "",
+        "Calle": "Alvear",
+        "Entrecalle 1": "Las Heras",
+        "Entrecalle 2": "Fleming",
+        "Toneladas (Tn)": 8.28,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6860434,
+            -34.5741251
+          ],
+          [
+            -58.687384,
+            -34.5731611
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-29T03:00:00.000Z",
+        "Fecha fin": "2025-04-29T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048428",
+        "Orden de Compra": "",
+        "Calle": "Ameghino",
+        "Entrecalle 1": "Córdoba",
+        "Entrecalle 2": "Tucumán",
+        "Toneladas (Tn)": 3.38,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7083437,
+            -34.5303601
+          ],
+          [
+            -58.7098466,
+            -34.5317761
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-02T03:00:00.000Z",
+        "Fecha fin": "2024-12-02T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046913",
+        "Orden de Compra": "",
+        "Calle": " Argüero",
+        "Entrecalle 1": "Dorrego",
+        "Entrecalle 2": "Vicente López",
+        "Toneladas (Tn)": 4.25,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7081187,
+            -34.5612709
+          ],
+          [
+            -58.7100155,
+            -34.5630536
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-20T03:00:00.000Z",
+        "Fecha fin": "2024-12-20T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047240",
+        "Orden de Compra": "",
+        "Calle": "Aristóbulo Del Valle",
+        "Entrecalle 1": "Gaspar Campos",
+        "Entrecalle 2": "Santa Clara",
+        "Toneladas (Tn)": 4.72,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7081187,
+            -34.5612709
+          ],
+          [
+            -58.7100155,
+            -34.5630536
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-20T03:00:00.000Z",
+        "Fecha fin": "2024-12-20T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047255",
+        "Orden de Compra": "",
+        "Calle": "Aristóbulo Del Valle",
+        "Entrecalle 1": "Gaspar Campos",
+        "Entrecalle 2": "Santa Clara",
+        "Toneladas (Tn)": 4.57,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7563671,
+            -34.55084
+          ],
+          [
+            -58.7583306,
+            -34.5526452
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-11T03:00:00.000Z",
+        "Fecha fin": "2025-03-11T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047931",
+        "Orden de Compra": "",
+        "Calle": "Arricau",
+        "Entrecalle 1": "Defensa",
+        "Entrecalle 2": "Remigio López",
+        "Toneladas (Tn)": 3.51,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7583306,
+            -34.5526452
+          ],
+          [
+            -58.7573687,
+            -34.5517535
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-07T03:00:00.000Z",
+        "Fecha fin": "2025-02-07T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047700",
+        "Orden de Compra": "",
+        "Calle": "Arricau",
+        "Entrecalle 1": "Remigio López",
+        "Entrecalle 2": "Padre Ustarroz",
+        "Toneladas (Tn)": 3.42,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7583306,
+            -34.5526452
+          ],
+          [
+            -58.7601447,
+            -34.5543218
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-21T03:00:00.000Z",
+        "Fecha fin": "2025-04-21T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048325",
+        "Orden de Compra": "",
+        "Calle": "Arricau",
+        "Entrecalle 1": "Remigio López",
+        "Entrecalle 2": "Paula Albarracín",
+        "Toneladas (Tn)": 8.8,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7168213,
+            -34.5722049
+          ],
+          [
+            -58.7160452,
+            -34.5727456
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-09T03:00:00.000Z",
+        "Fecha fin": "2025-01-09T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047418",
+        "Orden de Compra": "",
+        "Calle": "Artigué",
+        "Entrecalle 1": "Pardo",
+        "Entrecalle 2": "Obligado",
+        "Toneladas (Tn)": 7,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7055428,
+            -34.5298
+          ],
+          [
+            -58.7031871,
+            -34.5315209
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-25T03:00:00.000Z",
+        "Fecha fin": "2024-10-25T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046520",
+        "Orden de Compra": "",
+        "Calle": "Arturo U. Illia",
+        "Entrecalle 1": "Julio A. Roca",
+        "Entrecalle 2": "Tribulato",
+        "Toneladas (Tn)": 3.57,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6992957,
+            -34.5402668
+          ],
+          [
+            -58.6983528,
+            -34.5393728
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-21T03:00:00.000Z",
+        "Fecha fin": "2024-11-21T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046809",
+        "Orden de Compra": "",
+        "Calle": "Avellaneda",
+        "Entrecalle 1": "San Luis",
+        "Entrecalle 2": "Rosetti",
+        "Toneladas (Tn)": 3.87,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7252779162706,
+            -34.5547430119696
+          ],
+          [
+            -58.7222085,
+            -34.5571612
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-12T03:00:00.000Z",
+        "Fecha fin": "2025-03-12T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047946",
+        "Orden de Compra": "",
+        "Calle": "Balcarce",
+        "Entrecalle 1": "Ricardo Balbín",
+        "Entrecalle 2": "Italia",
+        "Toneladas (Tn)": 7.04,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6861439,
+            -34.5695071
+          ],
+          [
+            -58.6854273,
+            -34.5688586
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-06T03:00:00.000Z",
+        "Fecha fin": "2024-11-06T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046646",
+        "Orden de Compra": "",
+        "Calle": "Bourel",
+        "Entrecalle 1": "O'Higgins",
+        "Entrecalle 2": "Lamadrid",
+        "Toneladas (Tn)": 7.46,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7164018,
+            -34.5648916
+          ],
+          [
+            -58.7185018,
+            -34.5633342
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-20T03:00:00.000Z",
+        "Fecha fin": "2025-03-20T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048057",
+        "Orden de Compra": "",
+        "Calle": "Bussolini",
+        "Entrecalle 1": "Azcuénaga",
+        "Entrecalle 2": "Juan José Paso",
+        "Toneladas (Tn)": 7.02,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7164018,
+            -34.5648916
+          ],
+          [
+            -58.7185018,
+            -34.5633342
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-21T03:00:00.000Z",
+        "Fecha fin": "2025-03-21T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048063",
+        "Orden de Compra": "",
+        "Calle": "Bussolini",
+        "Entrecalle 1": "Azcuénaga",
+        "Entrecalle 2": "Juan José Paso",
+        "Toneladas (Tn)": 6.78,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7573288,
+            -34.5548827
+          ],
+          [
+            -58.7564274,
+            -34.5540488
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-20T03:00:00.000Z",
+        "Fecha fin": "2025-01-20T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047490",
+        "Orden de Compra": "",
+        "Calle": "Callao",
+        "Entrecalle 1": "El Zonda",
+        "Entrecalle 2": "Remigio López",
+        "Toneladas (Tn)": 3.64,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6994139,
+            -34.534291
+          ],
+          [
+            -58.7010178,
+            -34.5357935
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-16T03:00:00.000Z",
+        "Fecha fin": "2024-10-16T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046448",
+        "Orden de Compra": "",
+        "Calle": "Charlone",
+        "Entrecalle 1": "Arturo U. Illia",
+        "Entrecalle 2": "Dorrego",
+        "Toneladas (Tn)": 4.07,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7262997,
+            -34.5593244
+          ],
+          [
+            -58.7281301,
+            -34.5609569
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-04T03:00:00.000Z",
+        "Fecha fin": "2024-10-04T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046317",
+        "Orden de Compra": "",
+        "Calle": "Charlone",
+        "Entrecalle 1": "Julián Martel",
+        "Entrecalle 2": "Maestro Sarmiento",
+        "Toneladas (Tn)": 7.2,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7262997,
+            -34.5593244
+          ],
+          [
+            -58.7281301,
+            -34.5609569
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-07T03:00:00.000Z",
+        "Fecha fin": "2024-10-07T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046336",
+        "Orden de Compra": "",
+        "Calle": "Charlone",
+        "Entrecalle 1": "Julián Martel",
+        "Entrecalle 2": "Maestro Sarmiento",
+        "Toneladas (Tn)": 7.2,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7258222,
+            -34.5588981
+          ],
+          [
+            -58.7281301,
+            -34.5609569
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-11T03:00:00.000Z",
+        "Fecha fin": "2025-04-11T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048251",
+        "Orden de Compra": "",
+        "Calle": "Charlone",
+        "Entrecalle 1": "Santa Ana",
+        "Entrecalle 2": "Maestro Sarmiento",
+        "Toneladas (Tn)": 3.45,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7258222,
+            -34.5588981
+          ],
+          [
+            -58.7262997,
+            -34.5593244
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-09-26T03:00:00.000Z",
+        "Fecha fin": "2024-09-26T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046223",
+        "Orden de Compra": "",
+        "Calle": "Charlone",
+        "Entrecalle 1": "Santa Ana",
+        "Entrecalle 2": "Julián Martel",
+        "Toneladas (Tn)": 7.52,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7258222,
+            -34.5588981
+          ],
+          [
+            -58.7262997,
+            -34.5593244
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-12-13T03:00:00.000Z",
+        "Fecha fin": "2025-12-13T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047108",
+        "Orden de Compra": "",
+        "Calle": "Charlone",
+        "Entrecalle 1": "Santa Ana",
+        "Entrecalle 2": "Julián Martel",
+        "Toneladas (Tn)": 7.52,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7243132,
+            -34.5667096
+          ],
+          [
+            -58.7233466,
+            -34.5658108
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-17T03:00:00.000Z",
+        "Fecha fin": "2025-03-17T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047994",
+        "Orden de Compra": "",
+        "Calle": "Conesa",
+        "Entrecalle 1": "Alvear",
+        "Entrecalle 2": "Muñiz",
+        "Toneladas (Tn)": 3.52,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7243132,
+            -34.5667096
+          ],
+          [
+            -58.7233466,
+            -34.5658108
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-18T03:00:00.000Z",
+        "Fecha fin": "2025-03-18T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048002",
+        "Orden de Compra": "",
+        "Calle": "Conesa",
+        "Entrecalle 1": "Alvear",
+        "Entrecalle 2": "Muñiz",
+        "Toneladas (Tn)": 3.65,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7203752,
+            -34.5629675
+          ],
+          [
+            -58.7233466,
+            -34.5658108
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-21T03:00:00.000Z",
+        "Fecha fin": "2025-03-21T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048074",
+        "Orden de Compra": "",
+        "Calle": "Conesa",
+        "Entrecalle 1": "Santa Ana",
+        "Entrecalle 2": "Muñiz",
+        "Toneladas (Tn)": 3.53,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6785903,
+            -34.5718061
+          ],
+          [
+            -58.6775932,
+            -34.5721525
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-03T03:00:00.000Z",
+        "Fecha fin": "2024-12-03T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046934",
+        "Orden de Compra": "",
+        "Calle": "Coster",
+        "Entrecalle 1": "Salta",
+        "Entrecalle 2": "Jujuy",
+        "Toneladas (Tn)": 3.83,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6785903,
+            -34.5718061
+          ],
+          [
+            -58.6764762,
+            -34.5727892
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-04T03:00:00.000Z",
+        "Fecha fin": "2024-12-04T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046975",
+        "Orden de Compra": "",
+        "Calle": "Coster",
+        "Entrecalle 1": "Salta",
+        "Entrecalle 2": "Primero De Mayo",
+        "Toneladas (Tn)": 3.86,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7329991,
+            -34.5836919
+          ],
+          [
+            -58.7343351,
+            -34.5827027
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-21T03:00:00.000Z",
+        "Fecha fin": "2025-03-21T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048074",
+        "Orden de Compra": "",
+        "Calle": "Cruz Del Sur",
+        "Entrecalle 1": "Aristóbulo Del Valle",
+        "Entrecalle 2": "Azcuénaga",
+        "Toneladas (Tn)": 3.53,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7317051,
+            -34.5846356
+          ],
+          [
+            -58.7329991,
+            -34.5836919
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-28T03:00:00.000Z",
+        "Fecha fin": "2024-11-28T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046885",
+        "Orden de Compra": "",
+        "Calle": "Cruz Del Sur",
+        "Entrecalle 1": "Caseros",
+        "Entrecalle 2": "Aristóbulo Del Valle",
+        "Toneladas (Tn)": 3.66,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7306696,
+            -34.5854004
+          ],
+          [
+            -58.7317051,
+            -34.5846356
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-20T03:00:00.000Z",
+        "Fecha fin": "2024-11-20T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046795",
+        "Orden de Compra": "",
+        "Calle": "Cruz Del Sur",
+        "Entrecalle 1": "Pardo",
+        "Entrecalle 2": "Caseros",
+        "Toneladas (Tn)": 3.51,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7563671,
+            -34.55084
+          ],
+          [
+            -58.7554093,
+            -34.5515366
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-21T03:00:00.000Z",
+        "Fecha fin": "2025-01-21T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047496",
+        "Orden de Compra": "",
+        "Calle": "Defensa",
+        "Entrecalle 1": "Arricau",
+        "Entrecalle 2": "Marconi",
+        "Toneladas (Tn)": 4.06,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7544568,
+            -34.5522299
+          ],
+          [
+            -58.7530394,
+            -34.5532603
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-21T03:00:00.000Z",
+        "Fecha fin": "2025-01-21T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047496",
+        "Orden de Compra": "",
+        "Calle": "Defensa",
+        "Entrecalle 1": "Callao",
+        "Entrecalle 2": "Letonia",
+        "Toneladas (Tn)": 4.06,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7544568,
+            -34.5522299
+          ],
+          [
+            -58.7554093,
+            -34.5515366
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-11T03:00:00.000Z",
+        "Fecha fin": "2025-03-11T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047931",
+        "Orden de Compra": "",
+        "Calle": "Defensa",
+        "Entrecalle 1": "Callao",
+        "Entrecalle 2": "Marconi",
+        "Toneladas (Tn)": 3.51,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7530394,
+            -34.5532603
+          ],
+          [
+            -58.7544568,
+            -34.5522299
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-10T03:00:00.000Z",
+        "Fecha fin": "2025-03-10T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047907",
+        "Orden de Compra": "",
+        "Calle": "Defensa",
+        "Entrecalle 1": "Letonia",
+        "Entrecalle 2": "Callao",
+        "Toneladas (Tn)": 5.04,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7017188,
+            -34.5511149
+          ],
+          [
+            -58.7008397,
+            -34.5523962
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-17T03:00:00.000Z",
+        "Fecha fin": "2024-12-17T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047173",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "Azcuénaga",
+        "Entrecalle 2": "Juan B. Alberdi",
+        "Toneladas (Tn)": 6.66,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7017188,
+            -34.5511149
+          ],
+          [
+            -58.7008397,
+            -34.5523962
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-17T03:00:00.000Z",
+        "Fecha fin": "2024-12-17T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047175",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "Azcuénaga",
+        "Entrecalle 2": "Juan B. Alberdi",
+        "Toneladas (Tn)": 7.34,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7017188,
+            -34.5511149
+          ],
+          [
+            -58.7008397,
+            -34.5523962
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-18T03:00:00.000Z",
+        "Fecha fin": "2024-12-18T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047193",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "Azcuénaga",
+        "Entrecalle 2": "Juan B. Alberdi",
+        "Toneladas (Tn)": 3.48,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7017188,
+            -34.5511149
+          ],
+          [
+            -58.7008397,
+            -34.5523962
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-18T03:00:00.000Z",
+        "Fecha fin": "2024-12-18T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047195",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "Azcuénaga",
+        "Entrecalle 2": "Juan B. Alberdi",
+        "Toneladas (Tn)": 7.02,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7149033,
+            -34.5401453
+          ],
+          [
+            -58.71349,
+            -34.5411658
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-18T03:00:00.000Z",
+        "Fecha fin": "2025-02-18T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047772",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "España",
+        "Entrecalle 2": "Tribulato",
+        "Toneladas (Tn)": 3.57,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6982779,
+            -34.5544877
+          ],
+          [
+            -58.699146,
+            -34.553863
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-25T03:00:00.000Z",
+        "Fecha fin": "2025-04-25T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048390",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "Pardo",
+        "Entrecalle 2": "Caseros",
+        "Toneladas (Tn)": 4.03,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7025932,
+            -34.5503541
+          ],
+          [
+            -58.7017188,
+            -34.5511149
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-27T03:00:00.000Z",
+        "Fecha fin": "2024-12-27T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047320",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "Saavedra",
+        "Entrecalle 2": "Azcuénaga",
+        "Toneladas (Tn)": 8.14,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7025932,
+            -34.5503541
+          ],
+          [
+            -58.7017188,
+            -34.5511149
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-27T03:00:00.000Z",
+        "Fecha fin": "2024-12-27T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047321",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "Saavedra",
+        "Entrecalle 2": "Azcuénaga",
+        "Toneladas (Tn)": 8.94,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7025932,
+            -34.5503541
+          ],
+          [
+            -58.7017188,
+            -34.5511149
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-27T03:00:00.000Z",
+        "Fecha fin": "2024-12-27T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047322",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "Saavedra",
+        "Entrecalle 2": "Azcuénaga",
+        "Toneladas (Tn)": 9.16,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7025932,
+            -34.5503541
+          ],
+          [
+            -58.7017188,
+            -34.5511149
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-30T03:00:00.000Z",
+        "Fecha fin": "2024-12-30T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047349",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "Saavedra",
+        "Entrecalle 2": "Azcuénaga",
+        "Toneladas (Tn)": 7.02,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7025932,
+            -34.5503541
+          ],
+          [
+            -58.7017188,
+            -34.5511149
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-30T03:00:00.000Z",
+        "Fecha fin": "2024-12-30T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047350",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "Saavedra",
+        "Entrecalle 2": "Azcuénaga",
+        "Toneladas (Tn)": 3.46,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7025932,
+            -34.5503541
+          ],
+          [
+            -58.6982779,
+            -34.5544877
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-15T03:00:00.000Z",
+        "Fecha fin": "2024-10-15T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046437",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "Saavedra",
+        "Entrecalle 2": "Pardo",
+        "Toneladas (Tn)": 4.01,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7025932,
+            -34.5503541
+          ],
+          [
+            -58.6982779,
+            -34.5544877
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-15T03:00:00.000Z",
+        "Fecha fin": "2024-10-15T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00043438",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "Saavedra",
+        "Entrecalle 2": "Pardo",
+        "Toneladas (Tn)": 7.7,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.71349,
+            -34.5411658
+          ],
+          [
+            -58.7149033,
+            -34.5401453
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-21T03:00:00.000Z",
+        "Fecha fin": "2024-10-21T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046476",
+        "Orden de Compra": "",
+        "Calle": "Domingo Faustino Sarmiento",
+        "Entrecalle 1": "Tribulato",
+        "Entrecalle 2": "España",
+        "Toneladas (Tn)": 3.64,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6907116,
+            -34.5434955
+          ],
+          [
+            -58.6914926,
+            -34.5429235
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-31T03:00:00.000Z",
+        "Fecha fin": "2025-01-31T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047645",
+        "Orden de Compra": "",
+        "Calle": "Dorrego",
+        "Entrecalle 1": "Haedo",
+        "Entrecalle 2": "Juan B. Alberdi",
+        "Toneladas (Tn)": 4.05,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.688388,
+            -34.5452126
+          ],
+          [
+            -58.6899385,
+            -34.5440518
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-14T03:00:00.000Z",
+        "Fecha fin": "2025-03-14T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047982",
+        "Orden de Compra": "",
+        "Calle": "Dorrego",
+        "Entrecalle 1": "Pardo",
+        "Entrecalle 2": "Aristóbulo Del Valle",
+        "Toneladas (Tn)": 3.65,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7047578,
+            -34.5330248
+          ],
+          [
+            -58.7039208,
+            -34.5336452
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-06T03:00:00.000Z",
+        "Fecha fin": "2025-02-06T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047692",
+        "Orden de Compra": "",
+        "Calle": "Dorrego",
+        "Entrecalle 1": "Tribulato",
+        "Entrecalle 2": "San Miguel",
+        "Toneladas (Tn)": 3.5,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6727436,
+            -34.5643199
+          ],
+          [
+            -58.6740995,
+            -34.5633161
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-06T03:00:00.000Z",
+        "Fecha fin": "2025-01-06T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047375",
+        "Orden de Compra": "",
+        "Calle": "Echeverría",
+        "Entrecalle 1": "Lebensohn",
+        "Entrecalle 2": "Córdoba",
+        "Toneladas (Tn)": 3.76,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7573288,
+            -34.5548827
+          ],
+          [
+            -58.7592195,
+            -34.5534754
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-21T03:00:00.000Z",
+        "Fecha fin": "2025-01-21T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047505",
+        "Orden de Compra": "",
+        "Calle": "El Zonda",
+        "Entrecalle 1": "Callao",
+        "Entrecalle 2": "Arricau",
+        "Toneladas (Tn)": 3.73,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6802931,
+            -34.5714604
+          ],
+          [
+            -58.6791163,
+            -34.5723075
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-09T03:00:00.000Z",
+        "Fecha fin": "2024-12-09T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047015",
+        "Orden de Compra": "",
+        "Calle": "Entre Ríos",
+        "Entrecalle 1": "Lebensohn",
+        "Entrecalle 2": "Salta",
+        "Toneladas (Tn)": 3.88,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7077191,
+            -34.5333298
+          ],
+          [
+            -58.7069614,
+            -34.5326178
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-14T03:00:00.000Z",
+        "Fecha fin": "2024-11-14T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046740",
+        "Orden de Compra": "",
+        "Calle": "España",
+        "Entrecalle 1": "Vicente López",
+        "Entrecalle 2": "Rosetti",
+        "Toneladas (Tn)": 4.25,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6902864,
+            -34.5469883
+          ],
+          [
+            -58.6887043,
+            -34.5481533
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-19T03:00:00.000Z",
+        "Fecha fin": "2024-11-19T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046776",
+        "Orden de Compra": "",
+        "Calle": "Estrada",
+        "Entrecalle 1": "Pardo",
+        "Entrecalle 2": "San Juan",
+        "Toneladas (Tn)": 3.5,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6902864,
+            -34.5469883
+          ],
+          [
+            -58.6887043,
+            -34.5481533
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-20T03:00:00.000Z",
+        "Fecha fin": "2024-11-20T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046788",
+        "Orden de Compra": "",
+        "Calle": "Estrada",
+        "Entrecalle 1": "Pardo",
+        "Entrecalle 2": "San Juan",
+        "Toneladas (Tn)": 7.56,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6791717,
+            -34.5553468
+          ],
+          [
+            -58.677981,
+            -34.5569027
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-27T03:00:00.000Z",
+        "Fecha fin": "2025-03-27T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048118",
+        "Orden de Compra": "",
+        "Calle": "Estrada",
+        "Entrecalle 1": "San Martín",
+        "Entrecalle 2": "La Plata",
+        "Toneladas (Tn)": 7.04,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7217078,
+            -34.5513501
+          ],
+          [
+            -58.7234624,
+            -34.5514302
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-26T03:00:00.000Z",
+        "Fecha fin": "2025-02-26T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047838",
+        "Orden de Compra": "",
+        "Calle": "Fader",
+        "Entrecalle 1": "Gaspar Campos",
+        "Entrecalle 2": "San Nicolás",
+        "Toneladas (Tn)": 3.52,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7166751,
+            -34.5227287
+          ],
+          [
+            -58.71811,
+            -34.5216882
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-03T03:00:00.000Z",
+        "Fecha fin": "2025-04-03T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048180",
+        "Orden de Compra": "",
+        "Calle": "Federico García Lorca",
+        "Entrecalle 1": "Salerno",
+        "Entrecalle 2": "Las Delicias",
+        "Toneladas (Tn)": 3.95,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6748827,
+            -34.5651389
+          ],
+          [
+            -58.6749546,
+            -34.5637646
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-28T03:00:00.000Z",
+        "Fecha fin": "2025-01-28T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047588",
+        "Orden de Compra": "",
+        "Calle": "Figueroa Alcorta",
+        "Entrecalle 1": "Mármol",
+        "Entrecalle 2": "Cjal. Acosta",
+        "Toneladas (Tn)": 7.2,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7274241886276,
+            -34.5640048500556
+          ],
+          [
+            -58.7319801,
+            -34.5685564
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-14T03:00:00.000Z",
+        "Fecha fin": "2025-04-14T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048260",
+        "Orden de Compra": "",
+        "Calle": "Fleming",
+        "Entrecalle 1": "Alvear",
+        "Entrecalle 2": "Defensa",
+        "Toneladas (Tn)": 8.04,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7090515,
+            -34.5473734
+          ],
+          [
+            -58.7105689,
+            -34.5488581
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-16T03:00:00.000Z",
+        "Fecha fin": "2024-10-16T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046449",
+        "Orden de Compra": "",
+        "Calle": "Fleming",
+        "Entrecalle 1": "Irigoyen",
+        "Entrecalle 2": "Farías",
+        "Toneladas (Tn)": 6.98,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7095417,
+            -34.5478755
+          ],
+          [
+            -58.7105689,
+            -34.5488581
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-17T03:00:00.000Z",
+        "Fecha fin": "2024-10-17T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046453",
+        "Orden de Compra": "",
+        "Calle": "Fleming",
+        "Entrecalle 1": "Peluffo",
+        "Entrecalle 2": "Farías",
+        "Toneladas (Tn)": 7.76,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7225127,
+            -34.5380988
+          ],
+          [
+            -58.7262186,
+            -34.5354218
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-22T03:00:00.000Z",
+        "Fecha fin": "2025-04-22T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048344",
+        "Orden de Compra": "",
+        "Calle": "Fraga",
+        "Entrecalle 1": "Irigoin",
+        "Entrecalle 2": "Primera Junta",
+        "Toneladas (Tn)": 3.03,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7183322,
+            -34.5415774
+          ],
+          [
+            -58.721472,
+            -34.5388816
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-13T03:00:00.000Z",
+        "Fecha fin": "2024-12-13T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047095",
+        "Orden de Compra": "",
+        "Calle": "Fraga",
+        "Entrecalle 1": "Julio A. Roca",
+        "Entrecalle 2": "Pringles",
+        "Toneladas (Tn)": 3.91,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6847528,
+            -34.5657282
+          ],
+          [
+            -58.6781138,
+            -34.5694298
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-04T03:00:00.000Z",
+        "Fecha fin": "2024-12-04T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046954",
+        "Orden de Compra": "",
+        "Calle": "Francia",
+        "Entrecalle 1": "Senador Morón",
+        "Entrecalle 2": "Lebensohn",
+        "Toneladas (Tn)": 6.62,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.681786,
+            -34.5678982
+          ],
+          [
+            -58.6760046,
+            -34.5722414
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-05T03:00:00.000Z",
+        "Fecha fin": "2024-12-05T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046999",
+        "Orden de Compra": "",
+        "Calle": "Francia",
+        "Entrecalle 1": "Tucumán",
+        "Entrecalle 2": "Primero De Mayo",
+        "Toneladas (Tn)": 7.42,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7222704,
+            -34.5837967
+          ],
+          [
+            -58.7162617,
+            -34.5882297
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-22T03:00:00.000Z",
+        "Fecha fin": "2024-10-22T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046500",
+        "Orden de Compra": "",
+        "Calle": "Gaboto",
+        "Entrecalle 1": "Giambiaggi",
+        "Entrecalle 2": "Moreno",
+        "Toneladas (Tn)": 3.63,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7066377,
+            -34.5623371
+          ],
+          [
+            -58.7096565,
+            -34.5601639
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-21T03:00:00.000Z",
+        "Fecha fin": "2025-02-21T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047813",
+        "Orden de Compra": "",
+        "Calle": "Gaspar Campos",
+        "Entrecalle 1": "Pardo",
+        "Entrecalle 2": "Juan B. Alberdi",
+        "Toneladas (Tn)": 3.88,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7063304,
+            -34.5570238
+          ],
+          [
+            -58.7072677,
+            -34.5563448
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-23T03:00:00.000Z",
+        "Fecha fin": "2025-04-23T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048363",
+        "Orden de Compra": "",
+        "Calle": "Gelly y Obes",
+        "Entrecalle 1": "Juan B. Alberdi",
+        "Entrecalle 2": "Azcuénaga",
+        "Toneladas (Tn)": 4.11,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7023739,
+            -34.5645473
+          ],
+          [
+            -58.7016849,
+            -34.5641603
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-16T03:00:00.000Z",
+        "Fecha fin": "2025-04-16T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048294",
+        "Orden de Compra": "",
+        "Calle": "Giambiaggi",
+        "Entrecalle 1": "Calcufuncurá",
+        "Entrecalle 2": "Reconquista",
+        "Toneladas (Tn)": 4.17,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7304509,
+            -34.5914447
+          ],
+          [
+            -58.7292577,
+            -34.5903357
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-15T03:00:00.000Z",
+        "Fecha fin": "2025-04-15T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048287",
+        "Orden de Compra": "",
+        "Calle": "Giambiaggi",
+        "Entrecalle 1": "Durand",
+        "Entrecalle 2": "Americo Vespucio",
+        "Toneladas (Tn)": 8.04,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7279857,
+            -34.5891795
+          ],
+          [
+            -58.7304509,
+            -34.5914447
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-16T03:00:00.000Z",
+        "Fecha fin": "2025-04-16T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048301",
+        "Orden de Compra": "",
+        "Calle": "Giambiaggi",
+        "Entrecalle 1": "Juan Manuel De Rosas",
+        "Entrecalle 2": "Durand",
+        "Toneladas (Tn)": 7.58,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.677981,
+            -34.5569027
+          ],
+          [
+            -58.677981,
+            -34.5569027
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-24T03:00:00.000Z",
+        "Fecha fin": "2025-04-24T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048371",
+        "Orden de Compra": "",
+        "Calle": "Gorosito",
+        "Entrecalle 1": "La Plata",
+        "Entrecalle 2": "Moine",
+        "Toneladas (Tn)": 4.4,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.672771,
+            -34.5611459
+          ],
+          [
+            -58.6738189,
+            -34.5603669
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-06T03:00:00.000Z",
+        "Fecha fin": "2025-01-06T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047375",
+        "Orden de Compra": "",
+        "Calle": "Gorosito",
+        "Entrecalle 1": "Paraguay",
+        "Entrecalle 2": "Tucumán",
+        "Toneladas (Tn)": 3.76,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7263431,
+            -34.5416709
+          ],
+          [
+            -58.734204,
+            -34.535912
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-01T03:00:00.000Z",
+        "Fecha fin": "2025-04-01T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048151",
+        "Orden de Compra": "",
+        "Calle": "Granaderos A Caballo",
+        "Entrecalle 1": "Irigoin",
+        "Entrecalle 2": "Las Delicias",
+        "Toneladas (Tn)": 7.6,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7263431,
+            -34.5416709
+          ],
+          [
+            -58.734204,
+            -34.535912
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-01T03:00:00.000Z",
+        "Fecha fin": "2025-04-01T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048156",
+        "Orden de Compra": "",
+        "Calle": "Granaderos A Caballo",
+        "Entrecalle 1": "Irigoin",
+        "Entrecalle 2": "Las Delicias",
+        "Toneladas (Tn)": 7.4,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7267345,
+            -34.5476938
+          ],
+          [
+            -58.7279062,
+            -34.5478331
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-07T03:00:00.000Z",
+        "Fecha fin": "2025-01-07T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047387",
+        "Orden de Compra": "",
+        "Calle": "Güemes",
+        "Entrecalle 1": "Gaspar Campos",
+        "Entrecalle 2": "San Nicolás",
+        "Toneladas (Tn)": 3.8,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.717433,
+            -34.5370207
+          ],
+          [
+            -58.7182135604509,
+            -34.5374934248638
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-29T03:00:00.000Z",
+        "Fecha fin": "2024-11-29T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046889",
+        "Orden de Compra": "",
+        "Calle": "Güemes",
+        "Entrecalle 1": "Paunero",
+        "Entrecalle 2": "Presidente Perón",
+        "Toneladas (Tn)": 6.62,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6925995,
+            -34.545276
+          ],
+          [
+            -58.6907116,
+            -34.5434955
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-31T03:00:00.000Z",
+        "Fecha fin": "2025-01-31T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047645",
+        "Orden de Compra": "",
+        "Calle": "Haedo",
+        "Entrecalle 1": "San Luis",
+        "Entrecalle 2": "Dorrego",
+        "Toneladas (Tn)": 4.05,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6955558,
+            -34.5484942
+          ],
+          [
+            -58.691645,
+            -34.5443733
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-30T03:00:00.000Z",
+        "Fecha fin": "2025-01-30T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047629",
+        "Orden de Compra": "",
+        "Calle": "Haedo",
+        "Entrecalle 1": "Serrano",
+        "Entrecalle 2": "Rosetti",
+        "Toneladas (Tn)": 8.1,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6955558,
+            -34.5484942
+          ],
+          [
+            -58.691645,
+            -34.5443733
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-30T03:00:00.000Z",
+        "Fecha fin": "2025-01-30T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047633",
+        "Orden de Compra": "",
+        "Calle": "Haedo",
+        "Entrecalle 1": "Serrano",
+        "Entrecalle 2": "Rosetti",
+        "Toneladas (Tn)": 11.68,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6769462,
+            -34.5683225
+          ],
+          [
+            -58.6786437,
+            -34.5674597
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-09T03:00:00.000Z",
+        "Fecha fin": "2024-12-09T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047018",
+        "Orden de Compra": "",
+        "Calle": " Ibáñez",
+        "Entrecalle 1": "Lebensohn",
+        "Entrecalle 2": "Córdoba",
+        "Toneladas (Tn)": 3.67,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6769462,
+            -34.5683225
+          ],
+          [
+            -58.6786437,
+            -34.5674597
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-10T03:00:00.000Z",
+        "Fecha fin": "2024-12-10T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047040",
+        "Orden de Compra": "",
+        "Calle": " Ibáñez",
+        "Entrecalle 1": "Lebensohn",
+        "Entrecalle 2": "Córdoba",
+        "Toneladas (Tn)": 3.74,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6905877,
+            -34.5420822
+          ],
+          [
+            -58.6874697,
+            -34.5443536
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-19T03:00:00.000Z",
+        "Fecha fin": "2024-11-19T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046776",
+        "Orden de Compra": "",
+        "Calle": "Jose María Rosa",
+        "Entrecalle 1": "Juan B. Alberdi",
+        "Entrecalle 2": "Pardo",
+        "Toneladas (Tn)": 3.5,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6932532007406,
+            -34.5399631977189
+          ],
+          [
+            -58.6941391,
+            -34.539428
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-15T03:00:00.000Z",
+        "Fecha fin": "2024-11-15T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046747",
+        "Orden de Compra": "",
+        "Calle": "Jose María Rosa",
+        "Entrecalle 1": "Juan José Paso",
+        "Entrecalle 2": "San José",
+        "Toneladas (Tn)": 3.61,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7153983,
+            -34.5247945
+          ],
+          [
+            -58.7172886,
+            -34.5232908
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-02T03:00:00.000Z",
+        "Fecha fin": "2024-12-02T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046913",
+        "Orden de Compra": "",
+        "Calle": "Jose María Rosa",
+        "Entrecalle 1": "Primera Junta",
+        "Entrecalle 2": "Salerno",
+        "Toneladas (Tn)": 4.25,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7096565,
+            -34.5601639
+          ],
+          [
+            -58.714531,
+            -34.5652307
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-31T03:00:00.000Z",
+        "Fecha fin": "2024-10-31T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046579",
+        "Orden de Compra": "",
+        "Calle": "Juan B. Alberdi",
+        "Entrecalle 1": "Gaspar Campos",
+        "Entrecalle 2": "Casacuberta",
+        "Toneladas (Tn)": 3.65,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7096565,
+            -34.5601639
+          ],
+          [
+            -58.7100818,
+            -34.5610371
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-01T03:00:00.000Z",
+        "Fecha fin": "2024-11-01T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046592",
+        "Orden de Compra": "",
+        "Calle": "Juan B. Alberdi",
+        "Entrecalle 1": "Gaspar Campos",
+        "Entrecalle 2": "San Nicolás",
+        "Toneladas (Tn)": 3.46,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6944406,
+            -34.5457413
+          ],
+          [
+            -58.6939014,
+            -34.5452365
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-10T03:00:00.000Z",
+        "Fecha fin": "2024-10-10T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046396",
+        "Orden de Compra": "",
+        "Calle": "Juan B. Alberdi",
+        "Entrecalle 1": "Mendoza",
+        "Entrecalle 2": "Malnatti",
+        "Toneladas (Tn)": 3.79,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6944406,
+            -34.5457413
+          ],
+          [
+            -58.6939014,
+            -34.5452365
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-10T03:00:00.000Z",
+        "Fecha fin": "2024-10-10T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046397",
+        "Orden de Compra": "",
+        "Calle": "Juan B. Alberdi",
+        "Entrecalle 1": "Mendoza",
+        "Entrecalle 2": "Malnatti",
+        "Toneladas (Tn)": 3.63,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7274619,
+            -34.5584292
+          ],
+          [
+            -58.725279,
+            -34.5600799
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-09-26T03:00:00.000Z",
+        "Fecha fin": "2024-09-26T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046222",
+        "Orden de Compra": "",
+        "Calle": "Julián Martel",
+        "Entrecalle 1": "Belgrano",
+        "Entrecalle 2": "Italia",
+        "Toneladas (Tn)": 7.86,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7274619,
+            -34.5584292
+          ],
+          [
+            -58.725279,
+            -34.5600799
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-12-13T03:00:00.000Z",
+        "Fecha fin": "2025-12-13T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047107",
+        "Orden de Compra": "",
+        "Calle": "Julián Martel",
+        "Entrecalle 1": "Belgrano",
+        "Entrecalle 2": "Italia",
+        "Toneladas (Tn)": 7.86,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.725279,
+            -34.5600799
+          ],
+          [
+            -58.7262997,
+            -34.5593244
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-08T03:00:00.000Z",
+        "Fecha fin": "2024-10-08T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046354",
+        "Orden de Compra": "",
+        "Calle": "Julián Martel",
+        "Entrecalle 1": "Italia",
+        "Entrecalle 2": "charlone",
+        "Toneladas (Tn)": 4,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.725279,
+            -34.5600799
+          ],
+          [
+            -58.7262997,
+            -34.5593244
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-09T03:00:00.000Z",
+        "Fecha fin": "2024-10-09T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046373",
+        "Orden de Compra": "",
+        "Calle": "Julián Martel",
+        "Entrecalle 1": "Italia",
+        "Entrecalle 2": "Charlone",
+        "Toneladas (Tn)": 7.48,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.725279,
+            -34.5600799
+          ],
+          [
+            -58.7223181,
+            -34.5623121
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-18T03:00:00.000Z",
+        "Fecha fin": "2024-10-18T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046464",
+        "Orden de Compra": "",
+        "Calle": "Julián Martel",
+        "Entrecalle 1": "Italia",
+        "Entrecalle 2": "Las Heras",
+        "Toneladas (Tn)": 7.66,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7223181,
+            -34.5623121
+          ],
+          [
+            -58.7240864,
+            -34.5616981
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-14T03:00:00.000Z",
+        "Fecha fin": "2025-04-14T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048271",
+        "Orden de Compra": "",
+        "Calle": "Julián Martel",
+        "Entrecalle 1": "Las Heras",
+        "Entrecalle 2": "Fleming",
+        "Toneladas (Tn)": 3.98,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7094187,
+            -34.5490409
+          ],
+          [
+            -58.7085218,
+            -34.5496805
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-17T03:00:00.000Z",
+        "Fecha fin": "2024-10-17T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046454",
+        "Orden de Compra": "",
+        "Calle": "Junín",
+        "Entrecalle 1": "Sargento Cabral",
+        "Entrecalle 2": "Las Heras",
+        "Toneladas (Tn)": 3.91,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.709516,
+            -34.5723257
+          ],
+          [
+            -58.7108638,
+            -34.5713408
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-04T03:00:00.000Z",
+        "Fecha fin": "2025-04-04T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048189",
+        "Orden de Compra": "",
+        "Calle": "Lago Argentino",
+        "Entrecalle 1": "Montevideo",
+        "Entrecalle 2": "Corrientes",
+        "Toneladas (Tn)": 6.66,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.713878,
+            -34.5694635
+          ],
+          [
+            -58.7131269,
+            -34.5700068
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-10T03:00:00.000Z",
+        "Fecha fin": "2025-03-10T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047913",
+        "Orden de Compra": "",
+        "Calle": "Lago Argentino",
+        "Entrecalle 1": "Pardo",
+        "Entrecalle 2": "Obligado",
+        "Toneladas (Tn)": 3.51,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.713878,
+            -34.5694635
+          ],
+          [
+            -58.7123556,
+            -34.5705426
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-13T03:00:00.000Z",
+        "Fecha fin": "2024-11-13T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046729",
+        "Orden de Compra": "",
+        "Calle": "Lago Argentino",
+        "Entrecalle 1": "Pardo",
+        "Entrecalle 2": "San Juan",
+        "Toneladas (Tn)": 3.56,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7063975,
+            -34.5634878
+          ],
+          [
+            -58.7075489,
+            -34.5626559
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-27T03:00:00.000Z",
+        "Fecha fin": "2025-02-27T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047844",
+        "Orden de Compra": "",
+        "Calle": "Lago Lácar",
+        "Entrecalle 1": "Obligado",
+        "Entrecalle 2": "Pardo",
+        "Toneladas (Tn)": 4,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7063975,
+            -34.5634878
+          ],
+          [
+            -58.7075489,
+            -34.5626559
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-28T03:00:00.000Z",
+        "Fecha fin": "2025-02-28T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047861",
+        "Orden de Compra": "",
+        "Calle": "Lago Lácar",
+        "Entrecalle 1": "Obligado",
+        "Entrecalle 2": "Pardo",
+        "Toneladas (Tn)": 4.1,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6854273,
+            -34.5688586
+          ],
+          [
+            -58.6839583,
+            -34.5699365
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-06T03:00:00.000Z",
+        "Fecha fin": "2024-11-06T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046655",
+        "Orden de Compra": "",
+        "Calle": "Lamadrid",
+        "Entrecalle 1": "Bourel",
+        "Entrecalle 2": "Tucumán",
+        "Toneladas (Tn)": 4.07,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6818461,
+            -34.5715421
+          ],
+          [
+            -58.681005,
+            -34.5721272
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-03T03:00:00.000Z",
+        "Fecha fin": "2024-12-03T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046948",
+        "Orden de Compra": "",
+        "Calle": "Lamadrid",
+        "Entrecalle 1": "Río Colorado",
+        "Entrecalle 2": "Lebensohn",
+        "Toneladas (Tn)": 3.57,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6798085,
+            -34.5729664
+          ],
+          [
+            -58.681005,
+            -34.5721272
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-04T03:00:00.000Z",
+        "Fecha fin": "2024-12-04T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046975",
+        "Orden de Compra": "",
+        "Calle": "Lamadrid",
+        "Entrecalle 1": "Salta",
+        "Entrecalle 2": "Lebensohn",
+        "Toneladas (Tn)": 3.86,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7288948,
+            -34.5317981
+          ],
+          [
+            -58.7264373,
+            -34.5294908
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-21T03:00:00.000Z",
+        "Fecha fin": "2025-02-21T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047821",
+        "Orden de Compra": "",
+        "Calle": "Las Delicias",
+        "Entrecalle 1": "Leandro N. Alem",
+        "Entrecalle 2": "D'Elía",
+        "Toneladas (Tn)": 3.73,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7092134,
+            -34.5503289
+          ],
+          [
+            -58.7109454,
+            -34.5518933
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-17T03:00:00.000Z",
+        "Fecha fin": "2024-10-17T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046454",
+        "Orden de Compra": "",
+        "Calle": "Las Heras",
+        "Entrecalle 1": "Farías",
+        "Entrecalle 2": "Zuviría",
+        "Toneladas (Tn)": 3.91,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7073625,
+            -34.548601
+          ],
+          [
+            -58.710387,
+            -34.5514013
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-14T03:00:00.000Z",
+        "Fecha fin": "2024-10-14T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046423",
+        "Orden de Compra": "",
+        "Calle": "Las Heras",
+        "Entrecalle 1": "Irigoyen",
+        "Entrecalle 2": "Pedro Goyena",
+        "Toneladas (Tn)": 7.94,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7073625,
+            -34.548601
+          ],
+          [
+            -58.710387,
+            -34.5514013
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-15T03:00:00.000Z",
+        "Fecha fin": "2024-10-15T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046437",
+        "Orden de Compra": "",
+        "Calle": "Las Heras",
+        "Entrecalle 1": "Irigoyen",
+        "Entrecalle 2": "Pedro Goyena",
+        "Toneladas (Tn)": 4.01,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6975501,
+            -34.5399834
+          ],
+          [
+            -58.6984965,
+            -34.5408686
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-21T03:00:00.000Z",
+        "Fecha fin": "2024-11-21T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046809",
+        "Orden de Compra": "",
+        "Calle": "Las Heras",
+        "Entrecalle 1": "Rosetti",
+        "Entrecalle 2": "San Luis",
+        "Toneladas (Tn)": 3.87,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7574643,
+            -34.5670176
+          ],
+          [
+            -58.7555534,
+            -34.5652434
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-10T03:00:00.000Z",
+        "Fecha fin": "2025-03-10T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047913",
+        "Orden de Compra": "",
+        "Calle": "Las Malvinas",
+        "Entrecalle 1": "Isabel La Católica",
+        "Entrecalle 2": "Uriarte",
+        "Toneladas (Tn)": 3.51,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7574643,
+            -34.5670176
+          ],
+          [
+            -58.7555534,
+            -34.5652434
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-14T03:00:00.000Z",
+        "Fecha fin": "2025-03-14T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047982",
+        "Orden de Compra": "",
+        "Calle": "Las Malvinas",
+        "Entrecalle 1": "Isabel La Católica",
+        "Entrecalle 2": "Uriarte",
+        "Toneladas (Tn)": 3.65,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7555534,
+            -34.5652434
+          ],
+          [
+            -58.7574643,
+            -34.5670176
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-25T03:00:00.000Z",
+        "Fecha fin": "2024-10-25T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046520",
+        "Orden de Compra": "",
+        "Calle": "Las Malvinas",
+        "Entrecalle 1": "Uriarte",
+        "Entrecalle 2": "Isabel La Católica",
+        "Toneladas (Tn)": 3.57,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7555534,
+            -34.5652434
+          ],
+          [
+            -58.7574643,
+            -34.5670176
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-25T03:00:00.000Z",
+        "Fecha fin": "2024-10-25T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046521",
+        "Orden de Compra": "",
+        "Calle": "Las Malvinas",
+        "Entrecalle 1": "Uriarte",
+        "Entrecalle 2": "Isabel La Católica",
+        "Toneladas (Tn)": 6.88,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7555534,
+            -34.5652434
+          ],
+          [
+            -58.7574643,
+            -34.5670176
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-11T03:00:00.000Z",
+        "Fecha fin": "2024-11-11T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046700",
+        "Orden de Compra": "",
+        "Calle": "Las Malvinas",
+        "Entrecalle 1": "Uriarte",
+        "Entrecalle 2": "Isabel La Católica",
+        "Toneladas (Tn)": 7.16,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7151581,
+            -34.5279488
+          ],
+          [
+            -58.7143657,
+            -34.5271951
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-02T03:00:00.000Z",
+        "Fecha fin": "2024-12-02T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046928",
+        "Orden de Compra": "",
+        "Calle": "Las Malvinas",
+        "Entrecalle 1": "Vicente López",
+        "Entrecalle 2": "Rosetti",
+        "Toneladas (Tn)": 3.9,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6774422,
+            -34.5687868
+          ],
+          [
+            -58.6781138,
+            -34.5694298
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-17T03:00:00.000Z",
+        "Fecha fin": "2025-03-17T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047998",
+        "Orden de Compra": "",
+        "Calle": "Lebensohn",
+        "Entrecalle 1": "Ricchieri",
+        "Entrecalle 2": "20 de junio",
+        "Toneladas (Tn)": 3.58,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7269088,
+            -34.562067
+          ],
+          [
+            -58.7254434,
+            -34.5629476
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-11T03:00:00.000Z",
+        "Fecha fin": "2025-04-11T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048251",
+        "Orden de Compra": "",
+        "Calle": "Maestro Sarmiento",
+        "Entrecalle 1": "Italia",
+        "Entrecalle 2": "Fleming",
+        "Toneladas (Tn)": 3.45,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7253232,
+            -34.5224665
+          ],
+          [
+            -58.7217239,
+            -34.5251015
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-18T03:00:00.000Z",
+        "Fecha fin": "2024-10-18T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046466",
+        "Orden de Compra": "",
+        "Calle": "Malnatti",
+        "Entrecalle 1": "Arricau",
+        "Entrecalle 2": "Las Delicias",
+        "Toneladas (Tn)": 6.74,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7235205,
+            -34.5237892
+          ],
+          [
+            -58.7180557,
+            -34.5277965
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-29T03:00:00.000Z",
+        "Fecha fin": "2024-10-29T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046543",
+        "Orden de Compra": "",
+        "Calle": "Malnatti",
+        "Entrecalle 1": "Callao",
+        "Entrecalle 2": "Primera Junta",
+        "Toneladas (Tn)": 7.66,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7089106,
+            -34.5344445
+          ],
+          [
+            -58.7099166,
+            -34.5337239
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-03T03:00:00.000Z",
+        "Fecha fin": "2025-02-03T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047663",
+        "Orden de Compra": "",
+        "Calle": "Malnatti",
+        "Entrecalle 1": "España",
+        "Entrecalle 2": "Julio A. Roca",
+        "Toneladas (Tn)": 3.38,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7162116,
+            -34.5291413
+          ],
+          [
+            -58.7121587,
+            -34.5320727
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-05T03:00:00.000Z",
+        "Fecha fin": "2024-11-05T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046636",
+        "Orden de Compra": "",
+        "Calle": "Malnatti",
+        "Entrecalle 1": "Las Malvinas",
+        "Entrecalle 2": "Güemes",
+        "Toneladas (Tn)": 7.06,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6785319,
+            -34.5624978
+          ],
+          [
+            -58.6757791,
+            -34.5645073
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-11T03:00:00.000Z",
+        "Fecha fin": "2024-11-11T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046694",
+        "Orden de Compra": "",
+        "Calle": "Mármol",
+        "Entrecalle 1": "Bourel",
+        "Entrecalle 2": "Córdoba",
+        "Toneladas (Tn)": 3.63,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6980936,
+            -34.5431042
+          ],
+          [
+            -58.6944406,
+            -34.5457413
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-10T03:00:00.000Z",
+        "Fecha fin": "2024-10-10T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046396",
+        "Orden de Compra": "",
+        "Calle": "Mendoza",
+        "Entrecalle 1": "San José",
+        "Entrecalle 2": "Juan B. Alberdi",
+        "Toneladas (Tn)": 3.79,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6980936,
+            -34.5431042
+          ],
+          [
+            -58.6944406,
+            -34.5457413
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-10T03:00:00.000Z",
+        "Fecha fin": "2024-10-10T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046397",
+        "Orden de Compra": "",
+        "Calle": "Mendoza",
+        "Entrecalle 1": "San José",
+        "Entrecalle 2": "Juan B. Alberdi",
+        "Toneladas (Tn)": 3.63,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6894518,
+            -34.5511557
+          ],
+          [
+            -58.690836,
+            -34.550135
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-02T03:00:00.000Z",
+        "Fecha fin": "2025-01-02T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047357",
+        "Orden de Compra": "",
+        "Calle": "Misiones",
+        "Entrecalle 1": "Corrientes",
+        "Entrecalle 2": "San Juan",
+        "Toneladas (Tn)": 3.45,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7061404,
+            -34.5688403
+          ],
+          [
+            -58.7042955,
+            -34.5670791
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-29T03:00:00.000Z",
+        "Fecha fin": "2025-04-29T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048418",
+        "Orden de Compra": "",
+        "Calle": "Montevideo",
+        "Entrecalle 1": "Río Diamante",
+        "Entrecalle 2": "Río Pilcomayo",
+        "Toneladas (Tn)": 3.73,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.698477,
+            -34.5713028
+          ],
+          [
+            -58.6993803,
+            -34.5721372
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-22T03:00:00.000Z",
+        "Fecha fin": "2024-10-22T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046499",
+        "Orden de Compra": "",
+        "Calle": "Moreno",
+        "Entrecalle 1": "Río Pilcomayo",
+        "Entrecalle 2": "Río Iguazú",
+        "Toneladas (Tn)": 3.62,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6824796,
+            -34.5721502
+          ],
+          [
+            -58.6816395,
+            -34.572757
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-09T03:00:00.000Z",
+        "Fecha fin": "2024-12-09T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047018",
+        "Orden de Compra": "",
+        "Calle": "O'Higgins",
+        "Entrecalle 1": "Río Colorado",
+        "Entrecalle 2": "Lebensohn",
+        "Toneladas (Tn)": 3.67,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7058087,
+            -34.5629573
+          ],
+          [
+            -58.7063975,
+            -34.5634878
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-27T03:00:00.000Z",
+        "Fecha fin": "2025-02-27T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047844",
+        "Orden de Compra": "",
+        "Calle": "Obligado",
+        "Entrecalle 1": "Gaspar Campos",
+        "Entrecalle 2": "Lago Lácar",
+        "Toneladas (Tn)": 4,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7063975,
+            -34.5634878
+          ],
+          [
+            -58.7069699,
+            -34.5640254
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-13T03:00:00.000Z",
+        "Fecha fin": "2025-03-13T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047969",
+        "Orden de Compra": "",
+        "Calle": "Obligado",
+        "Entrecalle 1": "Lago Lácar",
+        "Entrecalle 2": "Pasaje Luisi",
+        "Toneladas (Tn)": 3.51,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7069699,
+            -34.5640254
+          ],
+          [
+            -58.7069699,
+            -34.5640254
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-26T03:00:00.000Z",
+        "Fecha fin": "2025-03-26T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048099",
+        "Orden de Compra": "",
+        "Calle": "Obligado",
+        "Entrecalle 1": "Pasaje Luisi",
+        "Entrecalle 2": "Río Pilcomayo",
+        "Toneladas (Tn)": 3.53,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6869949,
+            -34.5459091
+          ],
+          [
+            -58.6882068,
+            -34.5463888
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-13T03:00:00.000Z",
+        "Fecha fin": "2024-12-13T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047105",
+        "Orden de Compra": "",
+        "Calle": "Obligado",
+        "Entrecalle 1": "Río Negro",
+        "Entrecalle 2": "Rivas",
+        "Toneladas (Tn)": 3.37,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6844572,
+            -34.546438
+          ],
+          [
+            -58.6855914,
+            -34.5456045
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-14T03:00:00.000Z",
+        "Fecha fin": "2025-01-14T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047455",
+        "Orden de Compra": "",
+        "Calle": "Olegario Andrade",
+        "Entrecalle 1": "Corrientes",
+        "Entrecalle 2": "San Juan",
+        "Toneladas (Tn)": 3.66,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6621714,
+            -34.5628138
+          ],
+          [
+            -58.6635237,
+            -34.5618362
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-30T03:00:00.000Z",
+        "Fecha fin": "2024-10-30T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046568",
+        "Orden de Compra": "",
+        "Calle": "Olegario Andrade",
+        "Entrecalle 1": "Río Tercero",
+        "Entrecalle 2": "Catamarca",
+        "Toneladas (Tn)": 6.4,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6594867,
+            -34.5647893
+          ],
+          [
+            -58.6608333,
+            -34.563807
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-29T03:00:00.000Z",
+        "Fecha fin": "2024-10-29T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046553",
+        "Orden de Compra": "",
+        "Calle": "Olegario Andrade",
+        "Entrecalle 1": "Victorino De La Plaza",
+        "Entrecalle 2": "Pasaje Río Segundo",
+        "Toneladas (Tn)": 7.3,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6812882328062,
+            -34.5686755224346
+          ],
+          [
+            -58.6818961,
+            -34.5692921
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-02T03:00:00.000Z",
+        "Fecha fin": "2025-01-02T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047357",
+        "Orden de Compra": "",
+        "Calle": "Paraguay",
+        "Entrecalle 1": "Irigoyen",
+        "Entrecalle 2": "Coster",
+        "Toneladas (Tn)": 3.45,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6812882328062,
+            -34.5686755224346
+          ],
+          [
+            -58.6818961,
+            -34.5692921
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-25T03:00:00.000Z",
+        "Fecha fin": "2025-04-25T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048395",
+        "Orden de Compra": "",
+        "Calle": "Paraguay",
+        "Entrecalle 1": "Irigoyen",
+        "Entrecalle 2": "Coster",
+        "Toneladas (Tn)": 4.09,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7066377,
+            -34.5623371
+          ],
+          [
+            -58.7075489,
+            -34.5626559
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-06T03:00:00.000Z",
+        "Fecha fin": "2025-03-06T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047892",
+        "Orden de Compra": "",
+        "Calle": "Pardo",
+        "Entrecalle 1": "Gaspar Campos",
+        "Entrecalle 2": "Lago Lácar",
+        "Toneladas (Tn)": 6.9,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7069699,
+            -34.5640254
+          ],
+          [
+            -58.7069699,
+            -34.5640254
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-26T03:00:00.000Z",
+        "Fecha fin": "2025-03-26T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048099",
+        "Orden de Compra": "",
+        "Calle": "Pardo",
+        "Entrecalle 1": "Río Pilcomayo",
+        "Entrecalle 2": "Pasaje Luisi",
+        "Toneladas (Tn)": 3.53,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6868841,
+            -34.5767394
+          ],
+          [
+            -58.6889962,
+            -34.5787202
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-28T03:00:00.000Z",
+        "Fecha fin": "2024-11-28T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046878",
+        "Orden de Compra": "",
+        "Calle": "Pasaje Eva Duarte",
+        "Entrecalle 1": "Gaspar Campos",
+        "Entrecalle 2": "Río Pilcomayo",
+        "Toneladas (Tn)": 7.74,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7069699,
+            -34.5640254
+          ],
+          [
+            -58.7069699,
+            -34.5640254
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-13T03:00:00.000Z",
+        "Fecha fin": "2025-03-13T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047969",
+        "Orden de Compra": "",
+        "Calle": "Pasaje Luisi",
+        "Entrecalle 1": "Obligado",
+        "Entrecalle 2": "Pardo",
+        "Toneladas (Tn)": 3.51,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7069699,
+            -34.5640254
+          ],
+          [
+            -58.7069699,
+            -34.5640254
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-07T03:00:00.000Z",
+        "Fecha fin": "2025-03-07T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047897",
+        "Orden de Compra": "",
+        "Calle": "Pasaje Luisi",
+        "Entrecalle 1": "Pardo",
+        "Entrecalle 2": "Obligado",
+        "Toneladas (Tn)": 5.1,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6856145,
+            -34.5864017
+          ],
+          [
+            -58.6869719,
+            -34.5878387
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-25T03:00:00.000Z",
+        "Fecha fin": "2025-03-25T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048092",
+        "Orden de Compra": "",
+        "Calle": "Pasaje Río Segundo",
+        "Entrecalle 1": "Río Limay",
+        "Entrecalle 2": "Río Bermejo",
+        "Toneladas (Tn)": 3.39,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7355292833035,
+            -34.5440320040491
+          ],
+          [
+            -58.7377157,
+            -34.5461993
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-08T03:00:00.000Z",
+        "Fecha fin": "2025-01-08T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047401",
+        "Orden de Compra": "",
+        "Calle": "Primera Junta",
+        "Entrecalle 1": "Constitución",
+        "Entrecalle 2": "Monteagudo",
+        "Toneladas (Tn)": 3.85,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7525059,
+            -34.5599593
+          ],
+          [
+            -58.7506966,
+            -34.5582772
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-15T03:00:00.000Z",
+        "Fecha fin": "2025-01-15T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047458",
+        "Orden de Compra": "",
+        "Calle": "Primera Junta",
+        "Entrecalle 1": "Paula Albarracín",
+        "Entrecalle 2": "Remigio López",
+        "Toneladas (Tn)": 7.88,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7525059,
+            -34.5599593
+          ],
+          [
+            -58.7506966,
+            -34.5582772
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-15T03:00:00.000Z",
+        "Fecha fin": "2025-01-15T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047469",
+        "Orden de Compra": "",
+        "Calle": "Primera Junta",
+        "Entrecalle 1": "Paula Albarracín",
+        "Entrecalle 2": "Remigio López",
+        "Toneladas (Tn)": 7.22,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7167874,
+            -34.5345467
+          ],
+          [
+            -58.7159038,
+            -34.5337326
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-29T03:00:00.000Z",
+        "Fecha fin": "2025-04-29T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048428",
+        "Orden de Compra": "",
+        "Calle": "Pringles",
+        "Entrecalle 1": "Muñoz",
+        "Entrecalle 2": "Serrano",
+        "Toneladas (Tn)": 3.38,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7417154,
+            -34.5572617
+          ],
+          [
+            -58.7411969,
+            -34.5567679
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-14T03:00:00.000Z",
+        "Fecha fin": "2025-01-14T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047448",
+        "Orden de Compra": "",
+        "Calle": "Pringles",
+        "Entrecalle 1": "Pichincha",
+        "Entrecalle 2": "Soldado Mansilla",
+        "Toneladas (Tn)": 3.9,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7091042,
+            -34.5762902
+          ],
+          [
+            -58.7094748,
+            -34.576644
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-22T03:00:00.000Z",
+        "Fecha fin": "2024-10-22T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046499",
+        "Orden de Compra": "",
+        "Calle": "Quirno",
+        "Entrecalle 1": "Río Atuel",
+        "Entrecalle 2": "Artigué",
+        "Toneladas (Tn)": 3.62,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7445256,
+            -34.5628376
+          ],
+          [
+            -58.7433081,
+            -34.5637384
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-10T03:00:00.000Z",
+        "Fecha fin": "2024-12-10T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047055",
+        "Orden de Compra": "",
+        "Calle": "Remigio López",
+        "Entrecalle 1": "Güemes",
+        "Entrecalle 2": "Argüero",
+        "Toneladas (Tn)": 3.29,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6789446,
+            -34.5677349
+          ],
+          [
+            -58.6804175,
+            -34.5666216
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-10T03:00:00.000Z",
+        "Fecha fin": "2024-12-10T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047055",
+        "Orden de Compra": "",
+        "Calle": "Ricchieri",
+        "Entrecalle 1": "Córdoba",
+        "Entrecalle 2": "Tucumán",
+        "Toneladas (Tn)": 3.29,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6849541316142,
+            -34.5631643393374
+          ],
+          [
+            -58.6835389009266,
+            -34.5645556120897
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-17T03:00:00.000Z",
+        "Fecha fin": "2025-03-17T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047998",
+        "Orden de Compra": "",
+        "Calle": "Ricchieri",
+        "Entrecalle 1": "Moine",
+        "Entrecalle 2": "Senador Morón",
+        "Toneladas (Tn)": 3.58,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6936075,
+            -34.5570037
+          ],
+          [
+            -58.695848,
+            -34.5553612
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-20T03:00:00.000Z",
+        "Fecha fin": "2025-02-20T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047804",
+        "Orden de Compra": "",
+        "Calle": "Ricchieri",
+        "Entrecalle 1": "Montevideo",
+        "Entrecalle 2": "San Juan",
+        "Toneladas (Tn)": 3.56,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6923503874347,
+            -34.5576589499354
+          ],
+          [
+            -58.6936075,
+            -34.5570037
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-20T03:00:00.000Z",
+        "Fecha fin": "2025-02-20T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047804",
+        "Orden de Compra": "",
+        "Calle": "Ricchieri",
+        "Entrecalle 1": "Santa Fe",
+        "Entrecalle 2": "Montevideo",
+        "Toneladas (Tn)": 3.56,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7045634,
+            -34.5699885
+          ],
+          [
+            -58.7061404,
+            -34.5688403
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-29T03:00:00.000Z",
+        "Fecha fin": "2025-04-29T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048418",
+        "Orden de Compra": "",
+        "Calle": "Río Diamante",
+        "Entrecalle 1": "Santa Fe",
+        "Entrecalle 2": "Montevideo",
+        "Toneladas (Tn)": 3.73,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6869949,
+            -34.5459091
+          ],
+          [
+            -58.6852753,
+            -34.547143
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-29T03:00:00.000Z",
+        "Fecha fin": "2024-11-29T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046901",
+        "Orden de Compra": "",
+        "Calle": "Río Negro",
+        "Entrecalle 1": "Obligado",
+        "Entrecalle 2": "Corrientes",
+        "Toneladas (Tn)": 3.79,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6971204,
+            -34.5722935
+          ],
+          [
+            -58.7027069,
+            -34.5682207
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-07T03:00:00.000Z",
+        "Fecha fin": "2024-11-07T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046678",
+        "Orden de Compra": "",
+        "Calle": "Río Pilcomayo",
+        "Entrecalle 1": "San Martín",
+        "Entrecalle 2": "Santa Fe",
+        "Toneladas (Tn)": 6.86,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6890336,
+            -34.5458192
+          ],
+          [
+            -58.6882068,
+            -34.5463888
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-13T03:00:00.000Z",
+        "Fecha fin": "2024-12-13T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047105",
+        "Orden de Compra": "",
+        "Calle": "Rivas",
+        "Entrecalle 1": "Pardo",
+        "Entrecalle 2": "Obligado",
+        "Toneladas (Tn)": 3.37,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7103055,
+            -34.5473183
+          ],
+          [
+            -58.7097547,
+            -34.5468247
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-16T03:00:00.000Z",
+        "Fecha fin": "2024-10-16T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046448",
+        "Orden de Compra": "",
+        "Calle": "Rodríguez Peña",
+        "Entrecalle 1": "Peluffo",
+        "Entrecalle 2": "Irigoyen",
+        "Toneladas (Tn)": 4.07,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6901189,
+            -34.5455325
+          ],
+          [
+            -58.6908804,
+            -34.5449521
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-10T03:00:00.000Z",
+        "Fecha fin": "2025-04-10T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048240",
+        "Orden de Compra": "",
+        "Calle": "Rosetti",
+        "Entrecalle 1": "Caseros",
+        "Entrecalle 2": "Aristóbulo Del Valle",
+        "Toneladas (Tn)": 8.06,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6901189,
+            -34.5455325
+          ],
+          [
+            -58.6908804,
+            -34.5449521
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-11T03:00:00.000Z",
+        "Fecha fin": "2025-04-11T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048246",
+        "Orden de Compra": "",
+        "Calle": "Rosetti",
+        "Entrecalle 1": "Caseros",
+        "Entrecalle 2": "Aristóbulo Del Valle",
+        "Toneladas (Tn)": 6.94,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6967792,
+            -34.5405578
+          ],
+          [
+            -58.6975501,
+            -34.5399834
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-24T03:00:00.000Z",
+        "Fecha fin": "2025-04-24T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048382",
+        "Orden de Compra": "",
+        "Calle": "Rosetti",
+        "Entrecalle 1": "Conesa",
+        "Entrecalle 2": "Las Heras",
+        "Toneladas (Tn)": 8.22,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6893508,
+            -34.5461001
+          ],
+          [
+            -58.691645,
+            -34.5443733
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-02T03:00:00.000Z",
+        "Fecha fin": "2025-01-02T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047358",
+        "Orden de Compra": "",
+        "Calle": "Rosetti",
+        "Entrecalle 1": "Pardo",
+        "Entrecalle 2": "Haedo",
+        "Toneladas (Tn)": 3.94,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7096531,
+            -34.5569008
+          ],
+          [
+            -58.71063,
+            -34.5578468
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-28T03:00:00.000Z",
+        "Fecha fin": "2025-01-28T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047581",
+        "Orden de Compra": "",
+        "Calle": "Saavedra",
+        "Entrecalle 1": "Zapiola",
+        "Entrecalle 2": "Libertad",
+        "Toneladas (Tn)": 3.93,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7113363,
+            -34.5695636
+          ],
+          [
+            -58.7123556,
+            -34.5705426
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-01T03:00:00.000Z",
+        "Fecha fin": "2024-11-01T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046604",
+        "Orden de Compra": "",
+        "Calle": "San Juan",
+        "Entrecalle 1": "Flaubert",
+        "Entrecalle 2": "Lago Argentino",
+        "Toneladas (Tn)": 6.86,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7113363,
+            -34.5695636
+          ],
+          [
+            -58.7134409,
+            -34.5715645
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-07T03:00:00.000Z",
+        "Fecha fin": "2024-11-07T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046680",
+        "Orden de Compra": "",
+        "Calle": "San Juan",
+        "Entrecalle 1": "Flaubert",
+        "Entrecalle 2": "Lago Traful",
+        "Toneladas (Tn)": 8.32,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7306895,
+            -34.5871887
+          ],
+          [
+            -58.7319386,
+            -34.5883284
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-22T03:00:00.000Z",
+        "Fecha fin": "2025-04-22T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048342",
+        "Orden de Compra": "",
+        "Calle": "San Juan",
+        "Entrecalle 1": "Juan Manuel De Rosas",
+        "Entrecalle 2": "Americo Vespucio",
+        "Toneladas (Tn)": 3.83,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7123556,
+            -34.5705426
+          ],
+          [
+            -58.7134409,
+            -34.5715645
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-13T03:00:00.000Z",
+        "Fecha fin": "2024-11-13T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046730",
+        "Orden de Compra": "",
+        "Calle": "San Juan",
+        "Entrecalle 1": "Lago Argentino",
+        "Entrecalle 2": "Lago Traful",
+        "Toneladas (Tn)": 6.96,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7007994,
+            -34.5416851
+          ],
+          [
+            -58.7033227,
+            -34.53973
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-08T03:00:00.000Z",
+        "Fecha fin": "2024-10-08T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046353",
+        "Orden de Compra": "",
+        "Calle": "San Lorenzo",
+        "Entrecalle 1": "Avellaneda",
+        "Entrecalle 2": "Italia",
+        "Toneladas (Tn)": 6.88,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7007994,
+            -34.5416851
+          ],
+          [
+            -58.7033227,
+            -34.53973
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-08T03:00:00.000Z",
+        "Fecha fin": "2024-10-08T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046354",
+        "Orden de Compra": "",
+        "Calle": "San Lorenzo",
+        "Entrecalle 1": "Avellaneda",
+        "Entrecalle 2": "Italia",
+        "Toneladas (Tn)": 4,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7247496,
+            -34.5219265
+          ],
+          [
+            -58.7229572,
+            -34.5232611
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-30T03:00:00.000Z",
+        "Fecha fin": "2024-10-30T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046557",
+        "Orden de Compra": "",
+        "Calle": "San Luis",
+        "Entrecalle 1": "Arricau",
+        "Entrecalle 2": "Callao",
+        "Toneladas (Tn)": 7.4,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7229572,
+            -34.5232611
+          ],
+          [
+            -58.7193056,
+            -34.5259109
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-05T03:00:00.000Z",
+        "Fecha fin": "2024-11-05T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046623",
+        "Orden de Compra": "",
+        "Calle": "San Luis",
+        "Entrecalle 1": "Callao",
+        "Entrecalle 2": "Salerno",
+        "Toneladas (Tn)": 7.66,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6925995,
+            -34.545276
+          ],
+          [
+            -58.691063,
+            -34.5464211
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-12T03:00:00.000Z",
+        "Fecha fin": "2025-03-12T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047954",
+        "Orden de Compra": "",
+        "Calle": "San Luis",
+        "Entrecalle 1": "Haedo",
+        "Entrecalle 2": "Caseros",
+        "Toneladas (Tn)": 3.51,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7234624,
+            -34.5514302
+          ],
+          [
+            -58.7253829,
+            -34.5499626
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-26T03:00:00.000Z",
+        "Fecha fin": "2025-02-26T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047838",
+        "Orden de Compra": "",
+        "Calle": "San Nicolás",
+        "Entrecalle 1": "Fader",
+        "Entrecalle 2": "España",
+        "Toneladas (Tn)": 3.52,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7279062,
+            -34.5478331
+          ],
+          [
+            -58.7288062,
+            -34.5471741
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-07T03:00:00.000Z",
+        "Fecha fin": "2025-01-07T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047387",
+        "Orden de Compra": "",
+        "Calle": "San Nicolás",
+        "Entrecalle 1": "Güemes",
+        "Entrecalle 2": "Tupac Amaru",
+        "Toneladas (Tn)": 3.8,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7352088,
+            -34.5521708
+          ],
+          [
+            -58.7366314,
+            -34.5512179
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-27T03:00:00.000Z",
+        "Fecha fin": "2025-02-27T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047854",
+        "Orden de Compra": "",
+        "Calle": "Santa Ana",
+        "Entrecalle 1": "Pringles",
+        "Entrecalle 2": "Irigoin",
+        "Toneladas (Tn)": 3.8,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7343095,
+            -34.5528181
+          ],
+          [
+            -58.7352088,
+            -34.5521708
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-27T03:00:00.000Z",
+        "Fecha fin": "2025-02-27T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047854",
+        "Orden de Compra": "",
+        "Calle": "Santa Ana",
+        "Entrecalle 1": "Tupac Amaru",
+        "Entrecalle 2": "Pringles",
+        "Toneladas (Tn)": 3.8,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6883932,
+            -34.5756483
+          ],
+          [
+            -58.6993803,
+            -34.5721372
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-28T03:00:00.000Z",
+        "Fecha fin": "2024-10-28T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046530",
+        "Orden de Compra": "",
+        "Calle": "Santa Clara",
+        "Entrecalle 1": "Gaspar Campos",
+        "Entrecalle 2": "Río Iguazú",
+        "Toneladas (Tn)": 7.14,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7053449,
+            -34.5694051
+          ],
+          [
+            -58.7017028,
+            -34.5659483
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-04-04T03:00:00.000Z",
+        "Fecha fin": "2025-04-04T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048203",
+        "Orden de Compra": "",
+        "Calle": "Scott",
+        "Entrecalle 1": "Río Diamante",
+        "Entrecalle 2": "Gaspar Campos",
+        "Toneladas (Tn)": 5.4,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7077243,
+            -34.5308154
+          ],
+          [
+            -58.708491,
+            -34.531508
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-27T03:00:00.000Z",
+        "Fecha fin": "2024-11-27T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046853",
+        "Orden de Compra": "",
+        "Calle": "Segundo Sombra",
+        "Entrecalle 1": "Dorrego",
+        "Entrecalle 2": "Rosetti",
+        "Toneladas (Tn)": 3.73,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7097793,
+            -34.5318245
+          ],
+          [
+            -58.708491,
+            -34.531508
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-02T03:00:00.000Z",
+        "Fecha fin": "2024-12-02T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046928",
+        "Orden de Compra": "",
+        "Calle": "Segundo Sombra",
+        "Entrecalle 1": "Vicente López",
+        "Entrecalle 2": "Rosetti",
+        "Toneladas (Tn)": 3.9,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6876308,
+            -34.5684071
+          ],
+          [
+            -58.6847528,
+            -34.5657282
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-06T03:00:00.000Z",
+        "Fecha fin": "2024-11-06T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046655",
+        "Orden de Compra": "",
+        "Calle": "Senador Morón",
+        "Entrecalle 1": "O'Higgins",
+        "Entrecalle 2": "Francia",
+        "Toneladas (Tn)": 4.07,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6835389009266,
+            -34.5645556120897
+          ],
+          [
+            -58.6862611,
+            -34.5671353
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-09T03:00:00.000Z",
+        "Fecha fin": "2024-12-09T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047015",
+        "Orden de Compra": "",
+        "Calle": "Senador Morón",
+        "Entrecalle 1": "Ricchieri",
+        "Entrecalle 2": "Entre Ríos",
+        "Toneladas (Tn)": 3.88,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6975328,
+            -34.5470768
+          ],
+          [
+            -58.6955558,
+            -34.5484942
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-15T03:00:00.000Z",
+        "Fecha fin": "2024-11-15T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046747",
+        "Orden de Compra": "",
+        "Calle": "Serrano",
+        "Entrecalle 1": "Azcuénaga",
+        "Entrecalle 2": "Haedo",
+        "Toneladas (Tn)": 3.61,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7506997,
+            -34.5757017
+          ],
+          [
+            -58.7519572,
+            -34.5768465
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-22T03:00:00.000Z",
+        "Fecha fin": "2024-10-22T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046500",
+        "Orden de Compra": "",
+        "Calle": "Tribulato",
+        "Entrecalle 1": "Marchena",
+        "Entrecalle 2": "Martín García",
+        "Toneladas (Tn)": 3.63,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.681786,
+            -34.5678982
+          ],
+          [
+            -58.6832786,
+            -34.5692997
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-05T03:00:00.000Z",
+        "Fecha fin": "2024-12-05T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046983",
+        "Orden de Compra": "",
+        "Calle": "Tucumán",
+        "Entrecalle 1": "Francia",
+        "Entrecalle 2": "Entre Ríos",
+        "Toneladas (Tn)": 7.4,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6937612,
+            -34.5791069
+          ],
+          [
+            -58.6956871,
+            -34.5809921
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-10-28T03:00:00.000Z",
+        "Fecha fin": "2024-10-28T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046531",
+        "Orden de Compra": "",
+        "Calle": "Tucumán",
+        "Entrecalle 1": "Santa Clara",
+        "Entrecalle 2": "Flaubert",
+        "Toneladas (Tn)": 7.12,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7451606,
+            -34.5623656
+          ],
+          [
+            -58.7460688,
+            -34.563208
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-29T03:00:00.000Z",
+        "Fecha fin": "2025-01-29T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047602",
+        "Orden de Compra": "",
+        "Calle": "Tupac Amaru",
+        "Entrecalle 1": "Remigio López",
+        "Entrecalle 2": "El Zonda",
+        "Toneladas (Tn)": 7.94,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7375243,
+            -34.578046
+          ],
+          [
+            -58.7389024,
+            -34.5770379
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-10T03:00:00.000Z",
+        "Fecha fin": "2025-02-10T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047714",
+        "Orden de Compra": "",
+        "Calle": "Uriarte",
+        "Entrecalle 1": "Conesa",
+        "Entrecalle 2": "Avellaneda",
+        "Toneladas (Tn)": 3.99,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7424925,
+            -34.5744448
+          ],
+          [
+            -58.7398206,
+            -34.5764066
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-01-27T03:00:00.000Z",
+        "Fecha fin": "2025-01-27T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047561",
+        "Orden de Compra": "",
+        "Calle": "Uriarte",
+        "Entrecalle 1": "Hércules Binda",
+        "Entrecalle 2": "Sargento Cabral",
+        "Toneladas (Tn)": 3.36,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.6961676,
+            -34.5474109
+          ],
+          [
+            -58.6944917,
+            -34.5486374
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-28T03:00:00.000Z",
+        "Fecha fin": "2025-03-28T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048141",
+        "Orden de Compra": "",
+        "Calle": "Urquiza",
+        "Entrecalle 1": "Juan B. Alberdi",
+        "Entrecalle 2": "Aristóbulo Del Valle",
+        "Toneladas (Tn)": 7.2,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7171812,
+            -34.5264735
+          ],
+          [
+            -58.7140519,
+            -34.5287398
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-03T03:00:00.000Z",
+        "Fecha fin": "2024-12-03T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046948",
+        "Orden de Compra": "",
+        "Calle": "Vicente López",
+        "Entrecalle 1": "Primera Junta",
+        "Entrecalle 2": "Marcos Sastre",
+        "Toneladas (Tn)": 3.57,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.705415,
+            -34.5350303
+          ],
+          [
+            -58.704798,
+            -34.5354807
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-02-06T03:00:00.000Z",
+        "Fecha fin": "2025-02-06T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047692",
+        "Orden de Compra": "",
+        "Calle": "Vicente López",
+        "Entrecalle 1": "San Miguel",
+        "Entrecalle 2": "Ricardo Balbín",
+        "Toneladas (Tn)": 3.5,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7356629,
+            -34.581713
+          ],
+          [
+            -58.7350657,
+            -34.5811347
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-18T03:00:00.000Z",
+        "Fecha fin": "2025-03-18T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00048015",
+        "Orden de Compra": "",
+        "Calle": "Victoria",
+        "Entrecalle 1": "Cruz Del Sur",
+        "Entrecalle 2": "Las Tres Marías",
+        "Toneladas (Tn)": 7.02,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7361274,
+            -34.5825125
+          ],
+          [
+            -58.7356629,
+            -34.581713
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2025-03-13T03:00:00.000Z",
+        "Fecha fin": "2025-03-13T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047965",
+        "Orden de Compra": "",
+        "Calle": "Victoria",
+        "Entrecalle 1": "Isabel La Católica",
+        "Entrecalle 2": "Cruz Del Sur",
+        "Toneladas (Tn)": 7.04,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.712172,
+            -34.5550416
+          ],
+          [
+            -58.7046946,
+            -34.5605312
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-11-29T03:00:00.000Z",
+        "Fecha fin": "2024-11-29T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00046901",
+        "Orden de Compra": "",
+        "Calle": "Zapiola",
+        "Entrecalle 1": "Conesa",
+        "Entrecalle 2": "Pardo",
+        "Toneladas (Tn)": 3.79,
+        "Adjuntos": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.7216069,
+            -34.5487525
+          ],
+          [
+            -58.7201598,
+            -34.5498069
+          ]
+        ]
+      },
+      "properties": {
+        "Fecha inicio": "2024-12-10T03:00:00.000Z",
+        "Fecha fin": "2024-12-10T03:00:00.000Z",
+        "Días corridos": 1,
+        "Remito": "0006-00047040",
+        "Orden de Compra": "",
+        "Calle": "Zapiola",
+        "Entrecalle 1": "Tribulato",
+        "Entrecalle 2": "Ricardo Balbín",
+        "Toneladas (Tn)": 3.74,
+        "Adjuntos": ""
+      }
+    }
+  ]
+}

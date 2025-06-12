@@ -17,25 +17,45 @@ const estiloTransparente = new ol.style.Style({
 let estiloActual = estiloLinea;
 
 
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     inicializarMapa();
     cargarGeoJsonDesdeArchivo('mapa.geojson');
-    document.getElementById('toggleLineas').addEventListener('change', function(e) {
-        if (capaGeojson) {
-            estiloActual = e.target.checked ? estiloLinea : estiloTransparente;
-            capaGeojson.setStyle(() => estiloActual);
+
+    const selector = document.getElementById('selectorGeojson');
+    const inputGeojson = document.getElementById('inputGeojson');
+
+    const geojsonsCargados = {}; // Guardará objetos cargados por el usuario
+
+    selector.addEventListener('change', function (e) {
+        const nombre = e.target.value;
+        if (geojsonsCargados[nombre]) {
+            cargarGeoJsonDesdeObjeto(geojsonsCargados[nombre]);
+        } else {
+            cargarGeoJsonDesdeArchivo(nombre);
         }
     });
-    document.getElementById('botonCargarHoja').addEventListener('click', buscarDireccion);
 
-    // Nuevo: leer archivo GeoJSON local
-    document.getElementById('inputGeojson').addEventListener('change', function(e) {
+    inputGeojson.addEventListener('change', function (e) {
         const archivo = e.target.files[0];
         if (!archivo) return;
+
         const lector = new FileReader();
-        lector.onload = function(ev) {
+        lector.onload = function (ev) {
             try {
                 const geojson = JSON.parse(ev.target.result);
+                const nombreVirtual = archivo.name;
+
+                geojsonsCargados[nombreVirtual] = geojson;
+
+                // Agregamos nueva opción al select si no existe
+                if (![...selector.options].some(opt => opt.value === nombreVirtual)) {
+                    const opcion = document.createElement('option');
+                    opcion.value = nombreVirtual;
+                    opcion.textContent = `Subido: ${nombreVirtual}`;
+                    selector.appendChild(opcion);
+                }
+
+                selector.value = nombreVirtual;
                 cargarGeoJsonDesdeObjeto(geojson);
             } catch {
                 alert('Archivo GeoJSON inválido');
@@ -43,7 +63,17 @@ document.addEventListener('DOMContentLoaded', function() {
         };
         lector.readAsText(archivo);
     });
+
+    document.getElementById('toggleLineas').addEventListener('change', function (e) {
+        if (capaGeojson) {
+            estiloActual = e.target.checked ? estiloLinea : estiloTransparente;
+            capaGeojson.setStyle(() => estiloActual);
+        }
+    });
+
+    document.getElementById('botonCargarHoja').addEventListener('click', buscarDireccion);
 });
+
 
 function inicializarMapa() {
     mapa = new ol.Map({

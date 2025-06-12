@@ -22,6 +22,12 @@
                     <p>Visualiza tus ubicaciones</p>
                 </div>
             </div>
+            <label for="selectorGeojson">Seleccionar</label>
+            <select id="selectorGeojson">
+                <option value="mapa.geojson">Mapa Completo</option>
+                <option value="bacheo de asfalto.geojson">Bacheo de Asfalto</option>
+            </select>
+
             <div class="contenedor-controles">
                 <input type="text" id="direccion" placeholder="Ingrese dirección">
                 <button id="botonCargarHoja">Buscar</button>
@@ -45,19 +51,19 @@
             </div>
             <div class="botones-descarga">
                 <button id="descargarGeoJSON">Descargar GeoJSON</button>
-                <button id="descargarExcel">Descargar Excel</button>          
+                <button id="descargarExcel">Descargar Excel</button>
             </div>
             <div>
                 <input type="file" id="inputGeojson" accept=".geojson,.json">
             </div>
-            
+
         </aside>
 
         <main class="principal-mapa">
             <div id="mapa" style="width:100%;height:100vh;"></div>
         </main>
     </div>
-   
+
 
 
     <script src="https://cdn.jsdelivr.net/npm/ol@v9.2.4/dist/ol.js"></script>
